@@ -1,10 +1,54 @@
-# Regios Energiegenossenschaft - Campaign Setup Documentation
+# Regios Energiegenossenschaft Campaign Setup Documentation
 
 **Campaign Period:** 30 Days  
 **Total Budget:** EUR 1,500  
 **Target Region:** Mühlviertel (Meta) / Upper Austria (Google)  
 **Target Audience:** Male & Female, 30+, Property Owners  
 **Products:** Beteiligung (Genossenschaft) & Regionaler Grünstrom
+
+---
+
+## Branded Slogans Reference (MUST USE)
+
+### Main Tagline
+- **Strom vom Mühlviertel: Fair, Regional und Grün**
+
+### Dialect Slogans (Mühlviertel specific)
+- **Mia san ned Deppad**
+- **Mia Mühlviertel san ned Deppad**
+- **Mia Mühlviertel entscheiden selber wie es uns weitergeht**
+- **Zeigen wir was unser kleines "Bauernland" drauf hat!**
+
+### Energy Element Slogans
+- Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS
+- Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS
+- UNSER MÜHLVIERTEL, UNSERE ENERGIE REGIOS
+
+### Testimonial Slogans
+- Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS
+- Unsere Susanne, Unsere Gemeinde, Unser Mühlviertel, UNSERE ENERGIE REGIOS
+- Unsere Jakob, Unsere Bauern, Unser Mühlviertel, UNSERE ENERGIE REGIOS
+- Unser Christian, Unsere Stabilität, UNSERE ENERGIE REGIOS
+- Unsere Norbert, Unsere Unabhängigkeit, UNSERE ENERGIE REGIOS
+- Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS
+- Unsere Susanne, Unsere Lebensqualität, UNSERE ENERGIE REGIOS
+
+### Call to Actions
+- Stärken wir gemeinsam die Region
+- Stärken wir gemeinsam das Mühlviertel
+- Investiere in die Stabilität des Mühlviertel
+- Mach jetzt gleich mit bei der Energiegenossenschaft
+- Über 2 Millionen Euro wurden schon in das Mühlviertel investiert
+- Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei
+- Über 45 Hektar Grund und Dachflächen sind bereits gepachtet
+- Über 250.000 Bürger:innen leben in unserem Mühlviertel
+- Über 18 Gemeinden aus dem Mühlviertel sind schon dabei
+- Deine Nachbarschaft: In einer Gemeinschaft leben auf die du stolz sein kannst
+
+### Mission & USP
+- **Mission:** Unsere Mission ist die Selbstbestimmung über die regionale Energieversorgung durch gemeinsames Eigentum zu sichern
+- **Elevator Pitch:** Regios: Ein Energiemodell für regionale Selbstbestimmung, wirtschaftliche Stabilität und faire, grüne Energieversorgung für eine unabhängige und nachhaltige Zukunft
+- **USP:** Regios ist die einzige Marke, die wirtschaftliche Stabilität durch ein integriertes Angebot aus Investitionspaketen, grüner Energie und grüner Pacht im Energiemarkt gewährleistet
 
 ---
 
@@ -105,9 +149,9 @@ utm_term       = [audience_segment] (for search only)
 
 ### Budget Rationale (Based on Historical Performance)
 
-- Meta campaigns showed best Cost per Result: €0.22-0.34 per link click
-- Google Display CPM: €1.13-7.98 (variable)
-- YouTube Non-skippable CPM: €6.42-6.67
+- Meta campaigns showed best Cost per Result: €0.22 to €0.34 per link click
+- Google Display CPM: €1.13 to €7.98 (variable)
+- YouTube Non skippable CPM: €6.42 to €6.67
 - Prioritize Meta for volume, Google for reach/retargeting
 
 ---
@@ -131,7 +175,7 @@ utm_term       = [audience_segment] (for search only)
 | Device Targeting | All devices |
 
 **Audience:**
-- Age: 30-65+
+- Age: 30 to 65+
 - Gender: All
 
 ### Ad Group 1: Brand Terms
@@ -153,15 +197,15 @@ utm_term       = [audience_segment] (for search only)
 | Final URL | `https://www.regios.at/?utm_source=google&utm_medium=cpc&utm_campaign=brand_search_generic&utm_content=rsa_brand&utm_term={keyword}` |
 | Headline 1 | Regios Energiegenossenschaft |
 | Headline 2 | Fair, Regional & Grün |
-| Headline 3 | Strom aus dem Mühlviertel |
+| Headline 3 | Strom vom Mühlviertel |
 | Headline 4 | Von Bürger:innen für Bürger:innen |
-| Headline 5 | Jetzt Mitglied werden |
+| Headline 5 | Mia san ned Deppad |
 | Headline 6 | 18+ Gemeinden dabei |
 | Headline 7 | Über 2 Mio. € investiert |
-| Headline 8 | Regionale Energieversorgung |
-| Description 1 | Regios steht für faire, sichere und nachhaltige Energieversorgung im Mühlviertel. Jetzt informieren und Teil der Bewegung werden! |
+| Headline 8 | UNSERE ENERGIE REGIOS |
+| Description 1 | Regios steht für faire, sichere und nachhaltige Energieversorgung im Mühlviertel. Mach jetzt gleich mit bei der Energiegenossenschaft! |
 | Description 2 | Stärken wir gemeinsam das Mühlviertel. Über 15 Leitbetriebe und 18 Gemeinden sind bereits dabei. Investiere in Stabilität. |
-| Description 3 | Grüne Energie aus Sonne, Wind und Wasser. Ein Modell für regionale Selbstbestimmung und wirtschaftliche Stabilität. |
+| Description 3 | Mia Mühlviertel san ned Deppad! Unser Wasser, Unsere Sonne, Unser Wind. UNSERE ENERGIE REGIOS. Jetzt informieren! |
 | Description 4 | Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Unabhängigkeit und eine nachhaltige Zukunft fürs Mühlviertel. |
 
 ### Ad Group 2: Generic Energy Terms
@@ -180,19 +224,19 @@ utm_term       = [audience_segment] (for search only)
 
 **Negative Keywords:**
 ```
--job
--jobs
--karriere
--arbeit
--praktikum
--kostenlos
--gratis
--preis
--vergleich
--billig
--günstig
--wechsel
--kündigen
+job
+jobs
+karriere
+arbeit
+praktikum
+kostenlos
+gratis
+preis
+vergleich
+billig
+günstig
+wechsel
+kündigen
 ```
 
 **Responsive Search Ad:**
@@ -201,22 +245,22 @@ utm_term       = [audience_segment] (for search only)
 |-------|---------|
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=cpc&utm_campaign=gruenstrom_search_generic&utm_content=rsa_generic&utm_term={keyword}` |
 | Headline 1 | Grünstrom aus dem Mühlviertel |
-| Headline 2 | Regionale Energiegenossenschaft |
+| Headline 2 | Mia san ned Deppad |
 | Headline 3 | Fair, Regional & Nachhaltig |
 | Headline 4 | Strom aus Sonne, Wind & Wasser |
-| Headline 5 | Energieversorgung von hier |
+| Headline 5 | UNSERE ENERGIE REGIOS |
 | Headline 6 | Jetzt Teil werden |
 | Headline 7 | Stabilität für die Region |
 | Headline 8 | Von Bürger:innen getragen |
-| Description 1 | Regionaler Grünstrom aus dem Mühlviertel. Faire Energie aus Sonnen-, Wind- und Wasserkraft. Von Bürger:innen, für Bürger:innen. |
-| Description 2 | Investiere in die Stabilität des Mühlviertels. Über 2 Mio. € wurden bereits in die Region investiert. Jetzt informieren! |
-| Description 3 | Die Energiegenossenschaft fürs Mühlviertel. Selbstbestimmung, Stabilität und eine unabhängige Zukunft. Mach jetzt mit! |
+| Description 1 | Strom vom Mühlviertel: Fair, Regional und Grün. Unser Wasser, Unsere Sonne, Unser Wind. Von Bürger:innen, für Bürger:innen. |
+| Description 2 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € wurden bereits in die Region investiert. Jetzt informieren! |
+| Description 3 | Mia Mühlviertel entscheiden selber wie es uns weitergeht. Stärken wir gemeinsam das Mühlviertel. Mach jetzt mit! |
 
 ---
 
 ## 4. Google Display Campaigns
 
-### Campaign A: Targeting - Grünstrom
+### Campaign A: Targeting Grünstrom
 
 **Campaign:** `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom`
 
@@ -235,11 +279,11 @@ utm_term       = [audience_segment] (for search only)
 | Frequency Cap | 5 impressions per user per day |
 
 **Audience Targeting:**
-- Age: 30-65+
+- Age: 30 to 65+
 - Gender: All
 - Household Income: Top 50%
 - Affinity Audiences: Green Living Enthusiasts, Home & Garden/Home Improvement
-- In-Market: Business Services/Utilities, Real Estate/Residential Properties
+- In Market: Business Services/Utilities, Real Estate/Residential Properties
 
 **Ad Group 1: Sonne**
 
@@ -248,12 +292,12 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=responsive_display` |
-| Headline 1 | Sonnenenergie aus dem Mühlviertel |
-| Headline 2 | Unsere Sonne – UNSERE ENERGIE |
+| Headline 1 | Unsere Sonne, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
 | Headline 3 | Regional. Fair. Grün. |
-| Long Headline | Unsere Sonne, Unser Mühlviertel – Grüne Energie von Bürger:innen für Bürger:innen |
+| Long Headline | Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
 | Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
-| Description 2 | Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Jetzt mitmachen! |
+| Description 2 | Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Mach jetzt mit! |
 | Business Name | Regios Energiegenossenschaft |
 
 **Ad Group 2: Wasser**
@@ -263,10 +307,10 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=responsive_display` |
-| Headline 1 | Wasserkraft aus dem Mühlviertel |
-| Headline 2 | Unser Wasser – UNSERE ENERGIE |
+| Headline 1 | Unser Wasser, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
 | Headline 3 | Regional. Fair. Grün. |
-| Long Headline | Unser Wasser, Unser Mühlviertel – Grüne Energie von Bürger:innen für Bürger:innen |
+| Long Headline | Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
 | Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
 | Description 2 | Über 18 Gemeinden aus dem Mühlviertel sind schon dabei. Werde Teil der Bewegung! |
 | Business Name | Regios Energiegenossenschaft |
@@ -278,17 +322,17 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=responsive_display` |
-| Headline 1 | Windenergie aus dem Mühlviertel |
-| Headline 2 | Unser Wind – UNSERE ENERGIE |
+| Headline 1 | Unser Wind, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
 | Headline 3 | Regional. Fair. Grün. |
-| Long Headline | Unser Wind, Unser Mühlviertel – Grüne Energie von Bürger:innen für Bürger:innen |
+| Long Headline | Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
 | Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
 | Description 2 | Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei. Jetzt informieren! |
 | Business Name | Regios Energiegenossenschaft |
 
 ---
 
-### Campaign B: Targeting - Genossenschaft
+### Campaign B: Targeting Genossenschaft
 
 **Campaign:** `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft`
 
@@ -313,12 +357,12 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=responsive_display` |
-| Headline 1 | Stabilität fürs Mühlviertel |
-| Headline 2 | Unsere Stabilität – UNSERE ENERGIE |
+| Headline 1 | Unsere Stabilität, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
 | Headline 3 | Investiere in die Region |
-| Long Headline | Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft – UNSERE ENERGIE REGIOS |
-| Description 1 | Investiere in die Stabilität des Mühlviertels. Über 2 Mio. € bereits in die Region investiert. |
-| Description 2 | Regios – das Energiemodell für regionale Stabilität, Unabhängigkeit und Zukunft. |
+| Long Headline | Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS |
+| Description 1 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € bereits in die Region investiert. |
+| Description 2 | Mia Mühlviertel entscheiden selber wie es uns weitergeht. Jetzt Mitglied werden! |
 | Business Name | Regios Energiegenossenschaft |
 
 **Ad Group 2: Zukunft**
@@ -328,12 +372,12 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=responsive_display` |
-| Headline 1 | Zukunft fürs Mühlviertel |
-| Headline 2 | Unsere Zukunft – UNSERE ENERGIE |
+| Headline 1 | Unsere Zukunft, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
 | Headline 3 | Gemeinsam stark |
 | Long Headline | Ein Modell für regionale Selbstbestimmung, Stabilität und eine lebenswerte Zukunft |
-| Description 1 | Mach jetzt mit bei der Energiegenossenschaft. Über 18 Gemeinden sind schon dabei! |
-| Description 2 | Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Unabhängigkeit. |
+| Description 1 | Mach jetzt gleich mit bei der Energiegenossenschaft. Über 18 Gemeinden sind schon dabei! |
+| Description 2 | Zeigen wir was unser kleines Bauernland drauf hat! Von Bürger:innen, für Bürger:innen. |
 | Business Name | Regios Energiegenossenschaft |
 
 **Ad Group 3: Mitgliedschaft**
@@ -344,11 +388,11 @@ utm_term       = [audience_segment] (for search only)
 |-------|---------|
 | Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_mitgliedschaft&utm_content=responsive_display` |
 | Headline 1 | Werde Mitglied bei Regios |
-| Headline 2 | Gemeinsames Eigentum |
-| Headline 3 | Die Genossenschaft fürs Mühlviertel |
+| Headline 2 | UNSERE ENERGIE REGIOS |
+| Headline 3 | Mia san ned Deppad |
 | Long Headline | Selbstbestimmung über die regionale Energieversorgung durch gemeinsames Eigentum |
 | Description 1 | Stärken wir gemeinsam das Mühlviertel. Jetzt Teil der Energiegenossenschaft werden! |
-| Description 2 | 250.000 Bürger:innen im Mühlviertel. Zeigen wir, was wir gemeinsam schaffen können! |
+| Description 2 | 250.000 Bürger:innen im Mühlviertel. Zeigen wir was unser kleines Bauernland drauf hat! |
 | Business Name | Regios Energiegenossenschaft |
 
 ---
@@ -358,15 +402,15 @@ utm_term       = [audience_segment] (for search only)
 ### Recommendation on YouTube
 
 **Cost Analysis:**
-- Historical YouTube Non-skippable CPM: €6.42-€6.67
-- With €100 budget: ~15,000 impressions expected
-- Reach in Mühlviertel limited due to geo-targeting
+- Historical YouTube Non skippable CPM: €6.42 to €6.67
+- With €100 budget: approximately 15,000 impressions expected
+- Reach in Mühlviertel limited due to geo targeting
 
-**Recommendation:** Include YouTube with limited budget (€100) for brand awareness. Use 15-second non-skippable for cost efficiency.
+**Recommendation:** Include YouTube with limited budget (€100) for brand awareness. Use 15 second non skippable for cost efficiency.
 
-### Campaign: YouTube Targeting - Grünstrom
+### Campaign: YouTube Targeting Grünstrom
 
-**Campaign:** `[Video > Non-skippable > Muehviertel > 30+] 15 Sek Strom`
+**Campaign:** `[Video > Non skippable > Muehviertel > 30+] 15 Sek Strom`
 
 **Settings:**
 
@@ -383,7 +427,7 @@ utm_term       = [audience_segment] (for search only)
 | Frequency Cap | 3 per week |
 
 **Audience Targeting:**
-- Age: 30-65+
+- Age: 30 to 65+
 - Gender: All
 - Detailed Demographics: Homeowners
 - Affinity: Green Living, Home Improvement
@@ -396,7 +440,7 @@ utm_term       = [audience_segment] (for search only)
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=video&utm_campaign=gruenstrom_tofu_sonne&utm_content=video15_sonne_16x9` |
 | Display URL | regios.at |
 | CTA | Mehr erfahren |
-| Headline | Sonnenenergie aus dem Mühlviertel |
+| Headline | Unsere Sonne, UNSERE ENERGIE REGIOS |
 
 **Ad Group 2: Wasser**
 
@@ -406,7 +450,7 @@ utm_term       = [audience_segment] (for search only)
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=video&utm_campaign=gruenstrom_tofu_wasser&utm_content=video15_wasser_16x9` |
 | Display URL | regios.at |
 | CTA | Mehr erfahren |
-| Headline | Wasserkraft aus dem Mühlviertel |
+| Headline | Unser Wasser, UNSERE ENERGIE REGIOS |
 
 **Ad Group 3: Wind**
 
@@ -416,13 +460,13 @@ utm_term       = [audience_segment] (for search only)
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=video&utm_campaign=gruenstrom_tofu_wind&utm_content=video15_wind_16x9` |
 | Display URL | regios.at |
 | CTA | Mehr erfahren |
-| Headline | Windenergie aus dem Mühlviertel |
+| Headline | Unser Wind, UNSERE ENERGIE REGIOS |
 
 ---
 
 ## 6. Meta Facebook Campaigns
 
-### Campaign A: Targeting - Grünstrom
+### Campaign A: Targeting Grünstrom
 
 **Campaign:** `[Awareness > Auction > Muehviertel > 30+] Gruenstrom`
 
@@ -441,84 +485,93 @@ utm_term       = [audience_segment] (for search only)
 | Setting | Value |
 |---------|-------|
 | Placements | Facebook Feed, Facebook Video Feeds, Facebook Stories, Facebook Reels |
-| Location | Mühlviertel region (Freistadt, Perg, Rohrbach, Urfahr-Umgebung districts) |
-| Age | 30-65+ |
+| Location | Mühlviertel region (Freistadt, Perg, Rohrbach, Urfahr Umgebung districts) |
+| Age | 30 to 65+ |
 | Gender | All |
 | Detailed Targeting | Interests: Renewable energy, Sustainability, Home ownership, Local community |
 | Optimization Goal | Reach |
 | Frequency Cap | 2 per week |
-| Attribution | 7-day click, 1-day view |
+| Attribution | 7 day click, 1 day view |
 
-**Ad 1: Sonne - Post (1:1)**
+**Ad 1: Sonne Post (1:1)**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
-| Primary Text | ☀️ Unsere Sonne, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün.<br><br>Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region!<br><br>🌱 Von Bürger:innen, für Bürger:innen. |
+| Primary Text | ☀️ Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün.<br><br>Mia san ned Deppad! Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region!<br><br>🌱 Von Bürger:innen, für Bürger:innen. |
 | Headline | Grünstrom aus dem Mühlviertel |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=video15_sonne_1x1` |
 
-**Ad 2: Wasser - Post (1:1)**
+**Ad 2: Wasser Post (1:1)**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
-| Primary Text | 💧 Unser Wasser, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Regionale Wasserkraft für eine nachhaltige Zukunft.<br><br>Über 18 Gemeinden aus dem Mühlviertel sind schon dabei!<br><br>🌱 Fair. Regional. Grün. |
+| Primary Text | 💧 Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Regionale Wasserkraft für eine nachhaltige Zukunft.<br><br>Über 18 Gemeinden aus dem Mühlviertel sind schon dabei!<br><br>🌱 Fair. Regional. Grün. |
 | Headline | Wasserkraft aus dem Mühlviertel |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=video15_wasser_1x1` |
 
-**Ad 3: Wind - Post (1:1)**
+**Ad 3: Wind Post (1:1)**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
-| Primary Text | 🌬️ Unser Wind, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Windenergie aus der Region, für die Region.<br><br>Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei!<br><br>🌱 Gemeinsam stark. |
+| Primary Text | 🌬️ Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Windenergie aus der Region, für die Region.<br><br>Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei!<br><br>🌱 Gemeinsam stark. |
 | Headline | Windenergie aus dem Mühlviertel |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=video15_wind_1x1` |
 
-**Ad 4: Sonne - Story (9:16)**
+**Ad 4: Sonne Story (9:16)**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
-| Primary Text | ☀️ Unsere Sonne – UNSERE ENERGIE |
+| Primary Text | ☀️ Unsere Sonne, UNSERE ENERGIE REGIOS |
 | CTA | Swipe Up |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=story15_sonne_9x16` |
 
-**Ad 5: Wasser - Story (9:16)**
+**Ad 5: Wasser Story (9:16)**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
-| Primary Text | 💧 Unser Wasser – UNSERE ENERGIE |
+| Primary Text | 💧 Unser Wasser, UNSERE ENERGIE REGIOS |
 | CTA | Swipe Up |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=story15_wasser_9x16` |
 
-**Ad 6: Wind - Story (9:16)**
+**Ad 6: Wind Story (9:16)**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
-| Primary Text | 🌬️ Unser Wind – UNSERE ENERGIE |
+| Primary Text | 🌬️ Unser Wind, UNSERE ENERGIE REGIOS |
 | CTA | Swipe Up |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=story15_wind_9x16` |
 
-**Ad 7: Strom 30s - Post (1:1)**
+**Ad 7: Strom 30s Post (1:1)**
 
 | Field | Content |
 |-------|---------|
 | Video | `30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
-| Primary Text | 🌱 Strom vom Mühlviertel: Fair, Regional und Grün<br><br>Regios Energiegenossenschaft steht für faire, sichere und nachhaltige Energieversorgung – von Bürger:innen, für Bürger:innen.<br><br>✔ Über 2 Mio. € bereits in die Region investiert<br>✔ 18+ Gemeinden & 15 Leitbetriebe dabei<br><br>Stärken wir gemeinsam das Mühlviertel! |
+| Primary Text | 🌱 Strom vom Mühlviertel: Fair, Regional und Grün<br><br>Mia Mühlviertel san ned Deppad! Regios Energiegenossenschaft steht für faire, sichere und nachhaltige Energieversorgung von Bürger:innen, für Bürger:innen.<br><br>✔ Über 2 Mio. € bereits in die Region investiert<br>✔ 18+ Gemeinden & 15 Leitbetriebe dabei<br><br>Stärken wir gemeinsam das Mühlviertel! |
 | Headline | UNSERE ENERGIE REGIOS |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=video30_strom_1x1` |
 
+**Ad 8: Strom 30s Story (9:16)**
+
+| Field | Content |
+|-------|---------|
+| Video | `30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4` |
+| Primary Text | 🌱 Mia san ned Deppad! UNSERE ENERGIE REGIOS |
+| CTA | Swipe Up |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=story30_strom_9x16` |
+
 ---
 
-### Campaign B: Targeting - Genossenschaft
+### Campaign B: Targeting Genossenschaft
 
 **Campaign:** `[Traffic > Auction > Muehviertel > 30+] Genossenschaft`
 
@@ -532,38 +585,58 @@ utm_term       = [audience_segment] (for search only)
 | Campaign Budget | €150 (Lifetime) |
 | Campaign Bid Strategy | Lowest cost |
 
-**Ad 1: Genossenschaft - Post (1:1)**
+**Ad 1: Genossenschaft Post (1:1)**
 
 | Field | Content |
 |-------|---------|
 | Video | `30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
-| Primary Text | 🤝 Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft – UNSERE ENERGIE REGIOS<br><br>Regios ist mehr als Strom: Es ist ein Modell für regionale Selbstbestimmung und wirtschaftliche Stabilität.<br><br>✔ Investitionspakete<br>✔ Grünstrom<br>✔ Grüne Pacht<br><br>Mach jetzt mit bei der Energiegenossenschaft! |
-| Headline | Investiere in die Stabilität des Mühlviertels |
+| Primary Text | 🤝 Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Regios ist mehr als Strom: Es ist ein Modell für regionale Selbstbestimmung und wirtschaftliche Stabilität.<br><br>✔ Investitionspakete<br>✔ Grünstrom<br>✔ Grüne Pacht<br><br>Mach jetzt gleich mit bei der Energiegenossenschaft! |
+| Headline | Investiere in die Stabilität des Mühlviertel |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=video30_genossenschaft_1x1` |
 
-**Ad 2: Genossenschaft - Story (9:16)**
+**Ad 2: Genossenschaft Story (9:16)**
 
 | Field | Content |
 |-------|---------|
 | Video | `30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
-| Primary Text | 🤝 UNSERE ENERGIE REGIOS |
+| Primary Text | 🤝 Mia san ned Deppad! UNSERE ENERGIE REGIOS |
 | CTA | Swipe Up |
 | Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=story30_genossenschaft_9x16` |
 
-**Ad 3: Genossenschaft Sonne - Post (1:1)**
+**Ad 3: Genossenschaft Sonne Post (1:1)**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` |
-| Primary Text | ☀️ Investiere in Sonnenenergie aus dem Mühlviertel<br><br>Werde Teil der Regios Energiegenossenschaft und profitiere von nachhaltigen Investitionspaketen.<br><br>🌱 Von Bürger:innen, für Bürger:innen. |
+| Primary Text | ☀️ Investiere in Sonnenenergie aus dem Mühlviertel<br><br>Mia san ned Deppad! Werde Teil der Regios Energiegenossenschaft und profitiere von nachhaltigen Investitionspaketen.<br><br>Zeigen wir was unser kleines Bauernland drauf hat!<br><br>🌱 Von Bürger:innen, für Bürger:innen. |
 | Headline | Beteiligung an Sonnenenergie |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sonne&utm_content=video15_genossenschaft_sonne_1x1` |
 
+**Ad 4: Genossenschaft Wasser Post (1:1)**
+
+| Field | Content |
+|-------|---------|
+| Video | `15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` |
+| Primary Text | 💧 Investiere in Wasserkraft aus dem Mühlviertel<br><br>Mia Mühlviertel san ned Deppad! Gemeinsames Eigentum für regionale Energieversorgung. Sichere dir deinen Anteil!<br><br>🌱 Fair. Regional. Zukunftsorientiert. |
+| Headline | Beteiligung an Wasserkraft |
+| CTA | Learn More |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wasser&utm_content=video15_genossenschaft_wasser_1x1` |
+
+**Ad 5: Genossenschaft Wind Post (1:1)**
+
+| Field | Content |
+|-------|---------|
+| Video | `15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` |
+| Primary Text | 🌬️ Investiere in Windenergie aus dem Mühlviertel<br><br>Mia san ned Deppad! Selbstbestimmung über die regionale Energieversorgung durch gemeinsames Eigentum.<br><br>🌱 Gemeinsam stark für die Zukunft. |
+| Headline | Beteiligung an Windenergie |
+| CTA | Learn More |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wind&utm_content=video15_genossenschaft_wind_1x1` |
+
 ---
 
-### Campaign C: Targeting - Carousels
+### Campaign C: Targeting Carousels
 
 **Campaign:** `[Traffic > Auction > Muehviertel > 30+] Carousels`
 
@@ -579,7 +652,7 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Images | Sonne_1080x1080_1.png through Sonne_1080x1080_5.png |
-| Primary Text | ☀️ Unsere Sonne, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Entdecke, wie Sonnenenergie aus der Region unsere Zukunft gestaltet. |
+| Primary Text | ☀️ Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Entdecke, wie Sonnenenergie aus der Region unsere Zukunft gestaltet. |
 | Card Headlines | 1: Unsere Sonne / 2: Unser Mühlviertel / 3: Unsere Energie / 4: Unsere Zukunft / 5: REGIOS |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=carousel_sonne_1080x1080` |
@@ -589,7 +662,7 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Images | wasser_1080x1080_1.png through wasser_1080x1080_5.png |
-| Primary Text | 💧 Unser Wasser, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Wasserkraft aus der Region für eine nachhaltige Energiezukunft. |
+| Primary Text | 💧 Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Wasserkraft aus der Region für eine nachhaltige Energiezukunft. |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=carousel_wasser_1080x1080` |
 
 **Carousel Ad 3: Wind**
@@ -597,7 +670,7 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Images | WInd_1080x1080_1.png through WInd_1080x1080_5.png |
-| Primary Text | 🌬️ Unser Wind, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Windenergie aus dem Mühlviertel – regional und nachhaltig. |
+| Primary Text | 🌬️ Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Windenergie aus dem Mühlviertel: regional und nachhaltig. |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=carousel_wind_1080x1080` |
 
 **Carousel Ad 4: Stabilität**
@@ -605,7 +678,7 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Images | Stabilitaet_1080x1080_1.png through Stabilitaet_1080x1080_5.png |
-| Primary Text | 🤝 Unsere Stabilität – UNSERE ENERGIE REGIOS<br><br>Investiere in die wirtschaftliche Stabilität des Mühlviertels. Gemeinsam sind wir stark! |
+| Primary Text | 🤝 Unsere Stabilität, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Investiere in die wirtschaftliche Stabilität des Mühlviertels. Gemeinsam sind wir stark! |
 | Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=carousel_stabilitaet_1080x1080` |
 
 **Carousel Ad 5: Zukunft**
@@ -613,14 +686,22 @@ utm_term       = [audience_segment] (for search only)
 | Field | Content |
 |-------|---------|
 | Images | Zukunft_1080x1080_1.png through Zukunft_1080x1080_5.png |
-| Primary Text | 🌱 Unsere Zukunft – UNSERE ENERGIE REGIOS<br><br>Ein Modell für regionale Selbstbestimmung und eine lebenswerte Zukunft. |
+| Primary Text | 🌱 Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! Ein Modell für regionale Selbstbestimmung und eine lebenswerte Zukunft. |
 | Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_zukunft&utm_content=carousel_zukunft_1080x1080` |
+
+**Carousel Ad 6: Sicherheit**
+
+| Field | Content |
+|-------|---------|
+| Images | Sicherheit_1080x1080_1.png through Sicherheit_1080x1080_5.png |
+| Primary Text | 🛡️ Unsere Sicherheit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Sichere Energieversorgung durch gemeinsames Eigentum. |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sicherheit&utm_content=carousel_sicherheit_1080x1080` |
 
 ---
 
 ## 7. Meta Instagram Campaigns
 
-### Campaign A: Targeting - Grünstrom (Instagram)
+### Campaign A: Targeting Grünstrom (Instagram)
 
 **Campaign:** `[Awareness > Auction > Muehviertel > 30+] IG Gruenstrom`
 
@@ -637,39 +718,72 @@ utm_term       = [audience_segment] (for search only)
 |---------|-------|
 | Placements | Instagram Feed, Instagram Stories, Instagram Reels |
 | Location | Mühlviertel region |
-| Age | 30-65+ |
+| Age | 30 to 65+ |
 | Gender | All |
 
-**Ad 1: Sonne - Post**
+**Ad 1: Sonne Post**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
-| Caption | ☀️ Unsere Sonne, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün. 🌱<br><br>Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region!<br><br>#regios #mühlviertel #grünstrom #energiegenossenschaft #nachhaltigkeit #sonnenenergie #oberösterreich |
+| Caption | ☀️ Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün. 🌱<br><br>Mia san ned Deppad! Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region!<br><br>#regios #mühlviertel #grünstrom #energiegenossenschaft #nachhaltigkeit #sonnenenergie #oberösterreich #miasanneddeppad |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=video15_sonne_1x1` |
 
-**Ad 2: Wasser - Post**
+**Ad 2: Wasser Post**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
-| Caption | 💧 Unser Wasser, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Regionale Wasserkraft für eine nachhaltige Zukunft. 🌱<br><br>Über 18 Gemeinden sind schon dabei!<br><br>#regios #mühlviertel #wasserkraft #energiegenossenschaft #nachhaltigkeit #oberösterreich |
+| Caption | 💧 Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Regionale Wasserkraft für eine nachhaltige Zukunft. 🌱<br><br>Über 18 Gemeinden sind schon dabei!<br><br>#regios #mühlviertel #wasserkraft #energiegenossenschaft #nachhaltigkeit #oberösterreich #miasanneddeppad |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=video15_wasser_1x1` |
 
-**Ad 3: Wind - Post**
+**Ad 3: Wind Post**
 
 | Field | Content |
 |-------|---------|
 | Video | `15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
-| Caption | 🌬️ Unser Wind, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Windenergie aus der Region, für die Region. 🌱<br><br>15+ Leitbetriebe sind schon dabei!<br><br>#regios #mühlviertel #windenergie #energiegenossenschaft #nachhaltigkeit #oberösterreich |
+| Caption | 🌬️ Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Windenergie aus der Region, für die Region. 🌱<br><br>15+ Leitbetriebe sind schon dabei!<br><br>#regios #mühlviertel #windenergie #energiegenossenschaft #nachhaltigkeit #oberösterreich #miasanneddeppad |
 | Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=video15_wind_1x1` |
 
-**Ad 4-6: Stories (9:16)** - Same as Facebook Stories with Instagram URLs
+**Ad 4: Sonne Story**
+
+| Field | Content |
+|-------|---------|
+| Video | `15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
+| Sticker Text | ☀️ Unsere Sonne, UNSERE ENERGIE |
+| CTA | Swipe Up |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=story15_sonne_9x16` |
+
+**Ad 5: Wasser Story**
+
+| Field | Content |
+|-------|---------|
+| Video | `15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
+| Sticker Text | 💧 Unser Wasser, UNSERE ENERGIE |
+| CTA | Swipe Up |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=story15_wasser_9x16` |
+
+**Ad 6: Wind Story**
+
+| Field | Content |
+|-------|---------|
+| Video | `15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
+| Sticker Text | 🌬️ Unser Wind, UNSERE ENERGIE |
+| CTA | Swipe Up |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=story15_wind_9x16` |
+
+**Ad 7: Strom 30s Post (1:1)**
+
+| Field | Content |
+|-------|---------|
+| Video | `30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
+| Caption | 🌱 UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün.<br><br>Mia Mühlviertel san ned Deppad! Von Bürger:innen, für Bürger:innen. ✔️ Über 2 Mio. € investiert ✔️ 18+ Gemeinden dabei<br><br>Stärken wir gemeinsam das Mühlviertel!<br><br>#regios #energiegenossenschaft #mühlviertel #grünstrom #nachhaltigkeit #miasanneddeppad |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=video30_strom_1x1` |
 
 ---
 
-### Campaign B: Targeting - Genossenschaft (Instagram)
+### Campaign B: Targeting Genossenschaft (Instagram)
 
 **Campaign:** `[Traffic > Auction > Muehviertel > 30+] IG Genossenschaft`
 
@@ -680,22 +794,38 @@ utm_term       = [audience_segment] (for search only)
 | Campaign Objective | Traffic |
 | Campaign Budget | €125 (Lifetime) |
 
-**Ad 1: Genossenschaft - Post (1:1)**
+**Ad 1: Genossenschaft Post (1:1)**
 
 | Field | Content |
 |-------|---------|
 | Video | `30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
-| Caption | 🤝 UNSERE ENERGIE REGIOS<br><br>Unsere Stabilität. Unsere Sicherheit. Unsere Zukunft.<br><br>Regios ist mehr als Strom: Ein Modell für regionale Selbstbestimmung und wirtschaftliche Stabilität.<br><br>Mach jetzt mit bei der Energiegenossenschaft! 🌱<br><br>#regios #genossenschaft #investieren #mühlviertel #nachhaltigkeit |
+| Caption | 🤝 UNSERE ENERGIE REGIOS<br><br>Unsere Stabilität. Unsere Sicherheit. Unsere Zukunft.<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Regios ist mehr als Strom: Ein Modell für regionale Selbstbestimmung und wirtschaftliche Stabilität.<br><br>Mach jetzt gleich mit bei der Energiegenossenschaft! 🌱<br><br>#regios #genossenschaft #investieren #mühlviertel #nachhaltigkeit #miasanneddeppad |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=video30_genossenschaft_1x1` |
 
-**Carousel Ad: Sarah (Bürger:in)**
+**Ad 2: Genossenschaft Story (9:16)**
+
+| Field | Content |
+|-------|---------|
+| Video | `30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
+| CTA | Swipe Up |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=story30_genossenschaft_9x16` |
+
+**Carousel Ad 1: Sarah (Bürger:in)**
 
 | Field | Content |
 |-------|---------|
 | Images | Sarah_1080x1080_1.png through sarah_1080x1080_5.png |
-| Caption | 👩 Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Stabilität und Zukunft! 🌱<br><br>#regios #mühlviertel #gemeinschaft #energiegenossenschaft |
+| Caption | 👩 Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Stabilität und Zukunft! 🌱<br><br>#regios #mühlviertel #gemeinschaft #energiegenossenschaft #miasanneddeppad |
 | Website URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_sarah_1080x1080` |
+
+**Carousel Ad 2: Susanne (Gemeinde)**
+
+| Field | Content |
+|-------|---------|
+| Images | susanne_1080x1080_1.png through susanne_1080x1080_5.png |
+| Caption | 👩‍💼 Unsere Susanne, Unsere Gemeinde, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Über 18 Gemeinden sind schon dabei! 🌱<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad |
+| Website URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne_1080x1080` |
 
 ---
 
@@ -716,7 +846,7 @@ utm_term       = [audience_segment] (for search only)
 | Frequency Cap | 3 impressions per user per day |
 
 **Audience Targeting:**
-- Website Visitors (All) - Past 30 days
+- Website Visitors (All) Past 30 days
 - Audience: Bürger
 - Audience: Genossenschaft
 - Audience: Grünstrom
@@ -773,97 +903,115 @@ https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_c
 2. Engagement: Meta Organic (180 days)
 3. Engagement: Instagram/Facebook Subscription
 4. Engagement: Messenger Contact
-5. Website Visitors (via Pixel) - 30 days
+5. Website Visitors (via Pixel) 30 days
 
-**Ad Set 1: Testimonial Videos - Sarah (Priority 1)**
+**Ad Set 1: Testimonial Videos Sarah (Priority 1)**
 
-**Ad 1: Sarah - Warum Regios**
+**Ad 1: Sarah Warum Regios**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Sarah - Short - Warum Regios.mp4` |
-| Primary Text | 👩 „Warum Regios?" – Sarah aus dem Mühlviertel erzählt<br><br>Unsere Sarah, Unsere Gemeinschaft – UNSERE ENERGIE REGIOS<br><br>Erfahre, warum immer mehr Bürger:innen Teil der Energiegenossenschaft werden. |
+| Primary Text | 👩 „Warum Regios?" Sarah aus dem Mühlviertel erzählt<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Erfahre, warum immer mehr Bürger:innen Teil der Energiegenossenschaft werden. |
 | Headline | Sarah empfiehlt Regios |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_sarah&utm_content=testimonial_sarah_warum` |
 
-**Ad 2: Sarah - Wertschöpfung**
+**Ad 2: Sarah Wertschöpfung**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Sarah - Short - Wertschöpfung in der Region.mp4` |
-| Primary Text | 👩 „Wertschöpfung in der Region" – Sarah aus dem Mühlviertel<br><br>Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region! |
+| Primary Text | 👩 „Wertschöpfung in der Region" Sarah aus dem Mühlviertel<br><br>Mia Mühlviertel san ned Deppad! Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region! |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_sarah&utm_content=testimonial_sarah_wertschoepfung` |
 
-**Ad 3: Sarah - Gemeinsam Stark**
+**Ad 3: Sarah Gemeinsam Stark**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Sarah - Short - Gemeinsam Stark.mp4` |
-| Primary Text | 👩 „Gemeinsam Stark" – Sarah aus dem Mühlviertel<br><br>Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Stabilität und Zukunft! |
+| Primary Text | 👩 „Gemeinsam Stark" Sarah aus dem Mühlviertel<br><br>Zeigen wir was unser kleines Bauernland drauf hat! Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Stabilität und Zukunft! |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_sarah&utm_content=testimonial_sarah_gemeinsam` |
 
-**Ad 4: Sarah - Long Version**
+**Ad 4: Sarah Long Version**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Sarah - Long - V1.mp4` |
-| Primary Text | 👩 Sarah aus dem Mühlviertel – Die ganze Geschichte<br><br>Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel – UNSERE ENERGIE REGIOS |
+| Primary Text | 👩 Sarah aus dem Mühlviertel: Die ganze Geschichte<br><br>Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_sarah&utm_content=testimonial_sarah_long` |
 
-**Ad Set 2: Testimonial Videos - Peter (Priority 2 - Landwirtschaft)**
+**Ad Set 2: Testimonial Videos Peter (Priority 2 Landwirtschaft)**
 
-**Ad 5: Peter - Doppelnutzung**
+**Ad 5: Peter Doppelnutzung**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Peter - Short - Doppelnutzung.mp4` |
-| Primary Text | 👨‍🌾 „Doppelnutzung" – Peter, Landwirt aus dem Mühlviertel<br><br>Erfahre, wie Landwirte von der Energiegenossenschaft profitieren. |
+| Primary Text | 👨‍🌾 „Doppelnutzung" Peter, Landwirt aus dem Mühlviertel<br><br>Mia Mühlviertel san ned Deppad! Erfahre, wie Landwirte von der Energiegenossenschaft profitieren. |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_peter&utm_content=testimonial_peter_doppelnutzung` |
 
-**Ad 6: Peter - Long Version**
+**Ad 6: Peter Long Version**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Peter - Long - V1.mp4` |
-| Primary Text | 👨‍🌾 Peter aus dem Mühlviertel – Die ganze Geschichte<br><br>Unsere Jakob, Unsere Bauern, Unser Mühlviertel – UNSERE ENERGIE REGIOS |
+| Primary Text | 👨‍🌾 Peter aus dem Mühlviertel: Die ganze Geschichte<br><br>Unsere Jakob, Unsere Bauern, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_peter&utm_content=testimonial_peter_long` |
 
-**Ad Set 3: Testimonial Videos - Susanne (Priority 3 - Gemeinde)**
+**Ad Set 3: Testimonial Videos Susanne (Priority 3 Gemeinde)**
 
-**Ad 7: Susanne - Warum Regios**
+**Ad 7: Susanne Warum Regios**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Susanne - Short - Warum Regios.mp4` |
-| Primary Text | 👩‍💼 „Warum Regios?" – Susanne, Gemeindevertreterin<br><br>Unsere Susanne, Unsere Gemeinde, Unser Mühlviertel – UNSERE ENERGIE REGIOS<br><br>Über 18 Gemeinden aus dem Mühlviertel sind schon dabei! |
+| Primary Text | 👩‍💼 „Warum Regios?" Susanne, Gemeindevertreterin<br><br>Unsere Susanne, Unsere Gemeinde, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Über 18 Gemeinden aus dem Mühlviertel sind schon dabei! |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_susanne&utm_content=testimonial_susanne_warum` |
 
-**Ad 8: Susanne - Long Version**
+**Ad 8: Susanne Long Version**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Susanne - Long - mit Abbinder - V1.mp4` |
-| Primary Text | 👩‍💼 Susanne – Die ganze Geschichte<br><br>Unsere Susanne, Unsere Lebensqualität – UNSERE ENERGIE REGIOS |
+| Primary Text | 👩‍💼 Susanne: Die ganze Geschichte<br><br>Unsere Susanne, Unsere Lebensqualität, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_susanne&utm_content=testimonial_susanne_long` |
 
-**Ad Set 4: Testimonial Videos - Norbert (Priority 4 - Alle)**
+**Ad Set 4: Testimonial Videos Norbert (Priority 4 Alle)**
 
-**Ad 9: Norbert - Sicherheit**
+**Ad 9: Norbert Sicherheit**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Norbert - Short - Sicherheit.mp4` |
-| Primary Text | 👨 „Sicherheit" – Norbert aus dem Mühlviertel<br><br>Unsere Norbert, Unsere Unabhängigkeit – UNSERE ENERGIE REGIOS |
+| Primary Text | 👨 „Sicherheit" Norbert aus dem Mühlviertel<br><br>Unsere Norbert, Unsere Unabhängigkeit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_norbert&utm_content=testimonial_norbert_sicherheit` |
 
-**Ad 10: Norbert - Long Version**
+**Ad 10: Norbert Long Version**
 
 | Field | Content |
 |-------|---------|
 | Video | `Testimonial - Norbert - Long - mit Abbinder - V1.mp4` |
-| Primary Text | 👨 Norbert aus dem Mühlviertel – Die ganze Geschichte<br><br>UNSERE ENERGIE REGIOS |
+| Primary Text | 👨 Norbert aus dem Mühlviertel: Die ganze Geschichte<br><br>Mia Mühlviertel san ned Deppad! UNSERE ENERGIE REGIOS |
 | Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial_norbert&utm_content=testimonial_norbert_long` |
+
+**Ad Set 5: Retargeting Carousels**
+
+**Carousel 1: Grünstrom Elements**
+
+| Field | Content |
+|-------|---------|
+| Images | Sonne, Wasser, Wind carousels mixed |
+| Primary Text | 🌱 Du hast dich schon über Regios informiert. Jetzt ist der richtige Zeitpunkt!<br><br>Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=carousel_elements` |
+
+**Carousel 2: Genossenschaft Values**
+
+| Field | Content |
+|-------|---------|
+| Images | Stabilitaet, Zukunft, Sicherheit carousels mixed |
+| Primary Text | 🤝 Bereit für den nächsten Schritt?<br><br>Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Investiere in die Stabilität des Mühlviertel! |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=carousel_values` |
 
 ---
 
@@ -895,7 +1043,7 @@ Yes, you can create audiences based on:
 |---------|-----|---------|
 | Grünstrom | `https://www.regios.at/regionaler-gruenstrom` | Green electricity information |
 | Beteiligung | `https://www.regios.at/beteiligung` | Cooperative membership/investment |
-| Bürger | `https://www.regios.at/buerger` | Citizen-focused landing page |
+| Bürger | `https://www.regios.at/buerger` | Citizen focused landing page |
 | Homepage | `https://www.regios.at` | Brand searches |
 
 ---
@@ -910,7 +1058,7 @@ Yes, you can create audiences based on:
 |---------------|------------|---------------------|
 | `Bürger` | Visitors to /buerger page | 90 days |
 | `Genossenschaft` | Visitors to /beteiligung page | 90 days |
-| `Grünstrom` | Visitors to /regionaler-gruenstrom page | 90 days |
+| `Grünstrom` | Visitors to /regionaler gruenstrom page | 90 days |
 | `All Website Visitors` | All visitors | 30 days |
 | `YouTube Viewers` | Viewed any video from channel | 90 days |
 | `Converters` | Completed form submission | 540 days |
@@ -933,10 +1081,10 @@ Yes, you can create audiences based on:
 | `Engagement: Organic` | People who engaged with organic content | 180 days |
 | `Engagement: IG/FB Followers` | Current followers | All |
 | `Engagement: Messenger` | People who sent message | 180 days |
-| `Website: All Visitors` | Pixel - All visitors | 30 days |
-| `Website: Grünstrom` | Pixel - /regionaler-gruenstrom | 60 days |
-| `Website: Beteiligung` | Pixel - /beteiligung | 60 days |
-| `Website: Bürger` | Pixel - /buerger | 60 days |
+| `Website: All Visitors` | Pixel All visitors | 30 days |
+| `Website: Grünstrom` | Pixel /regionaler gruenstrom | 60 days |
+| `Website: Beteiligung` | Pixel /beteiligung | 60 days |
+| `Website: Bürger` | Pixel /buerger | 60 days |
 | `Video: 50% Viewed` | People who watched 50%+ of videos | 90 days |
 | `Video: 75% Viewed` | People who watched 75%+ of videos | 90 days |
 
@@ -944,36 +1092,36 @@ Yes, you can create audiences based on:
 
 ## 11. Asset Mapping
 
-### Video Assets - Targeting
+### Video Assets Targeting
 
 | Platform | Placement | Product | Theme | Duration | Aspect | File Path |
 |----------|-----------|---------|-------|----------|--------|-----------|
-| Meta | Post | Grünstrom | Sonne | 15s | 1:1 | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Sonne - Online - 1-1 - V1.mp4 |
-| Meta | Post | Grünstrom | Wasser | 15s | 1:1 | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wasser - Online - 1-1 - V1.mp4 |
-| Meta | Post | Grünstrom | Wind | 15s | 1:1 | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wind - Online - 1-1 - V1.mp4 |
-| Meta | Story | Grünstrom | Sonne | 15s | 9:16 | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Sonne - Online - 9-16 - V3.mp4 |
-| Meta | Story | Grünstrom | Wasser | 15s | 9:16 | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wasser - Online - 9-16 - V3.mp4 |
-| Meta | Story | Grünstrom | Wind | 15s | 9:16 | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wind - Online - 9-16 - V3.mp4 |
-| Google | YouTube | Grünstrom | Sonne | 15s | 16:9 | Google/Targeting/Strom/15 Sek Strom - Sonne - Online - 16-9 - V1.mp4 |
-| Google | YouTube | Grünstrom | Wasser | 15s | 16:9 | Google/Targeting/Strom/15 Sek Strom - Wasser - Online - 16-9 - V1.mp4 |
-| Google | YouTube | Grünstrom | Wind | 15s | 16:9 | Google/Targeting/Strom/15 Sek Strom - Wind - Online - 16-9 - V1.mp4 |
+| Meta | Post | Grünstrom | Sonne | 15s | 1:1 | Social Media/Targeting/Video/15 Sek Strom/15 Sek Strom Sonne Online 1x1 V1.mp4 |
+| Meta | Post | Grünstrom | Wasser | 15s | 1:1 | Social Media/Targeting/Video/15 Sek Strom/15 Sek Strom Wasser Online 1x1 V1.mp4 |
+| Meta | Post | Grünstrom | Wind | 15s | 1:1 | Social Media/Targeting/Video/15 Sek Strom/15 Sek Strom Wind Online 1x1 V1.mp4 |
+| Meta | Story | Grünstrom | Sonne | 15s | 9:16 | Social Media/Targeting/Video/15 Sek Strom/15 Sek Strom Sonne Online 9x16 V3.mp4 |
+| Meta | Story | Grünstrom | Wasser | 15s | 9:16 | Social Media/Targeting/Video/15 Sek Strom/15 Sek Strom Wasser Online 9x16 V3.mp4 |
+| Meta | Story | Grünstrom | Wind | 15s | 9:16 | Social Media/Targeting/Video/15 Sek Strom/15 Sek Strom Wind Online 9x16 V3.mp4 |
+| Google | YouTube | Grünstrom | Sonne | 15s | 16:9 | Google/Targeting/Strom/15 Sek Strom Sonne Online 16x9 V1.mp4 |
+| Google | YouTube | Grünstrom | Wasser | 15s | 16:9 | Google/Targeting/Strom/15 Sek Strom Wasser Online 16x9 V1.mp4 |
+| Google | YouTube | Grünstrom | Wind | 15s | 16:9 | Google/Targeting/Strom/15 Sek Strom Wind Online 16x9 V1.mp4 |
 
-### Testimonial Videos - Retargeting (Priority Order)
+### Testimonial Videos Retargeting (Priority Order)
 
 | Priority | Testimonial | Type | File Path |
 |----------|-------------|------|-----------|
-| 1 | Sarah | Short - Warum Regios | Testimonial - Sarah/Testimonial - Sarah - Short - Warum Regios.mp4 |
-| 1 | Sarah | Short - Wertschöpfung | Testimonial - Sarah/Testimonial - Sarah - Short - Wertschöpfung in der Region.mp4 |
-| 1 | Sarah | Short - Gemeinsam Stark | Testimonial - Sarah/Testimonial - Sarah - Short - Gemeinsam Stark.mp4 |
-| 1 | Sarah | Long | Testimonial - Sarah/Testimonial - Sarah - Long - V1.mp4 |
-| 2 | Peter | Short - Doppelnutzung | Testimonial - Peter/Testimonial - Peter - Short - Doppelnutzung.mp4 |
-| 2 | Peter | Long | Testimonial - Peter/Testimonial - Peter - Long - V1.mp4 |
-| 3 | Susanne | Short - Warum Regios | Testimonial - Susanne/Testimonial - Susanne - Short - Warum Regios.mp4 |
-| 3 | Susanne | Long | Testimonial - Susanne/Testimonial - Susanne - Long - mit Abbinder - V1.mp4 |
-| 4 | Norbert | Short - Sicherheit | Testimonial - Norbert/Testimonial - Norbert - Short - Sicherheit.mp4 |
-| 4 | Norbert | Long | Testimonial - Norbert/Testimonial - Norbert - Long - mit Abbinder - V1.mp4 |
+| 1 | Sarah | Short Warum Regios | Testimonial Sarah/Testimonial Sarah Short Warum Regios.mp4 |
+| 1 | Sarah | Short Wertschöpfung | Testimonial Sarah/Testimonial Sarah Short Wertschöpfung in der Region.mp4 |
+| 1 | Sarah | Short Gemeinsam Stark | Testimonial Sarah/Testimonial Sarah Short Gemeinsam Stark.mp4 |
+| 1 | Sarah | Long | Testimonial Sarah/Testimonial Sarah Long V1.mp4 |
+| 2 | Peter | Short Doppelnutzung | Testimonial Peter/Testimonial Peter Short Doppelnutzung.mp4 |
+| 2 | Peter | Long | Testimonial Peter/Testimonial Peter Long V1.mp4 |
+| 3 | Susanne | Short Warum Regios | Testimonial Susanne/Testimonial Susanne Short Warum Regios.mp4 |
+| 3 | Susanne | Long | Testimonial Susanne/Testimonial Susanne Long mit Abbinder V1.mp4 |
+| 4 | Norbert | Short Sicherheit | Testimonial Norbert/Testimonial Norbert Short Sicherheit.mp4 |
+| 4 | Norbert | Long | Testimonial Norbert/Testimonial Norbert Long mit Abbinder V1.mp4 |
 
-### HTML5 Banner Assets - Retargeting
+### HTML5 Banner Assets Retargeting
 
 | Theme | Sizes Available | Path |
 |-------|-----------------|------|
@@ -1030,30 +1178,30 @@ Yes, you can create audiences based on:
 
 ### Recommended Report Pages
 
-1. **Executive Summary** - Total Spend, Impressions, Clicks, Conversions
-2. **Platform Performance** - Google vs Meta comparison
-3. **Funnel Analysis** - TOFU/MOFU/BOFU metrics
-4. **Product Performance** - Grünstrom vs Genossenschaft
-5. **Creative Analysis** - Performance by theme
-6. **Retargeting Analysis** - Testimonial performance
+1. **Executive Summary** Total Spend, Impressions, Clicks, Conversions
+2. **Platform Performance** Google vs Meta comparison
+3. **Funnel Analysis** TOFU/MOFU/BOFU metrics
+4. **Product Performance** Grünstrom vs Genossenschaft
+5. **Creative Analysis** Performance by theme
+6. **Retargeting Analysis** Testimonial performance
 
 ### Key Metrics to Track
 
 | Metric | Target |
 |--------|--------|
 | Reach | 50,000+ |
-| Frequency | 3-5x |
+| Frequency | 3 to 5x |
 | CTR | 1%+ |
-| CPC | < €0.50 |
-| CPM | < €10 |
+| CPC | less than €0.50 |
+| CPM | less than €10 |
 | Video Completion | 30%+ |
-| CPA | < €25 |
+| CPA | less than €25 |
 
 ---
 
 ## 13. Campaign Checklist
 
-### Pre-Launch Checklist
+### Pre Launch Checklist
 
 **Google Ads:**
 - [ ] Conversion tracking configured
@@ -1075,7 +1223,7 @@ Yes, you can create audiences based on:
 
 ---
 
-## 14. Quick Reference - All Campaign Names
+## 14. Quick Reference All Campaign Names
 
 ### Google Campaigns
 
@@ -1084,7 +1232,7 @@ Yes, you can create audiences based on:
 | `[Search > Brand+Generic > Upper Austria > 30+] Regios` | Search | €5.00 |
 | `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom` | Display | €4.00 |
 | `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft` | Display | €4.00 |
-| `[Video > Non-skippable > Muehviertel > 30+] 15 Sek Strom` | YouTube | €3.33 |
+| `[Video > Non skippable > Muehviertel > 30+] 15 Sek Strom` | YouTube | €3.33 |
 | `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting` | Display RT | €5.00 |
 
 ### Meta Campaigns
@@ -1102,27 +1250,47 @@ Yes, you can create audiences based on:
 
 ## 15. Key Messages Reference
 
-**Testimonial Priority for Bürger Target Group:**
-1. Sarah (Bürger:in) - Primary
-2. Peter (Landwirtschaft) - Secondary
-3. Susanne (Gemeinde) - Tertiary
-4. Norbert (Alle) - Quaternary
+### Testimonial Priority for Bürger Target Group
+1. Sarah (Bürger:in) Primary
+2. Peter (Landwirtschaft) Secondary
+3. Susanne (Gemeinde) Tertiary
+4. Norbert (Alle) Quaternary
 
-**Landing Page URLs:**
+### Landing Page URLs
 - Homepage: https://www.regios.at
 - Grünstrom: https://www.regios.at/regionaler-gruenstrom
 - Beteiligung: https://www.regios.at/beteiligung
 - Bürger: https://www.regios.at/buerger
 
-**Key Messages:**
-- "Strom vom Mühlviertel: Fair, Regional und Grün"
-- "Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft – UNSERE ENERGIE REGIOS"
-- "Von Bürger:innen, für Bürger:innen"
-- "Stärken wir gemeinsam das Mühlviertel"
+### Key Branded Messages (MUST USE)
+- **Main Tagline:** Strom vom Mühlviertel: Fair, Regional und Grün
+- **Dialect Slogan 1:** Mia san ned Deppad
+- **Dialect Slogan 2:** Mia Mühlviertel san ned Deppad
+- **Dialect CTA:** Mia Mühlviertel entscheiden selber wie es uns weitergeht
+- **Regional Pride:** Zeigen wir was unser kleines Bauernland drauf hat!
+- **Energy Elements:** Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS
+- **Values:** Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS
+- **Regional Identity:** UNSER MÜHLVIERTEL, UNSERE ENERGIE REGIOS
+- **CTA 1:** Stärken wir gemeinsam das Mühlviertel
+- **CTA 2:** Investiere in die Stabilität des Mühlviertel
+- **CTA 3:** Mach jetzt gleich mit bei der Energiegenossenschaft
+- **Social Proof:** Über 2 Millionen Euro wurden schon in das Mühlviertel investiert
+- **Social Proof:** Über 18 Gemeinden aus dem Mühlviertel sind schon dabei
+- **Social Proof:** Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei
+
+### Testimonial Slogans
+- Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS
+- Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS
+- Unsere Susanne, Unsere Gemeinde, Unser Mühlviertel, UNSERE ENERGIE REGIOS
+- Unsere Susanne, Unsere Lebensqualität, UNSERE ENERGIE REGIOS
+- Unsere Jakob, Unsere Bauern, Unser Mühlviertel, UNSERE ENERGIE REGIOS
+- Unsere Norbert, Unsere Unabhängigkeit, UNSERE ENERGIE REGIOS
+- Unser Christian, Unsere Stabilität, UNSERE ENERGIE REGIOS
 
 ---
 
-*Document Version: 1.0*  
+*Document Version: 2.0*  
 *Created: December 2024*  
+*Updated: Incorporated branded slogans, removed all hyphens/dashes from ad content*  
 *Campaign Period: 30 Days*  
 *Total Budget: EUR 1,500*
