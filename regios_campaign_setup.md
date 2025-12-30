@@ -203,10 +203,10 @@ utm_term       = [audience_segment] (for search only)
 | Headline 6 | 18+ Gemeinden dabei |
 | Headline 7 | Über 2 Mio. € investiert |
 | Headline 8 | UNSERE ENERGIE REGIOS |
-| Description 1 | Regios steht für faire, sichere und nachhaltige Energieversorgung im Mühlviertel. Mach jetzt gleich mit bei der Energiegenossenschaft! |
-| Description 2 | Stärken wir gemeinsam das Mühlviertel. Über 15 Leitbetriebe und 18 Gemeinden sind bereits dabei. Investiere in Stabilität. |
-| Description 3 | Mia Mühlviertel san ned Deppad! Unser Wasser, Unsere Sonne, Unser Wind. UNSERE ENERGIE REGIOS. Jetzt informieren! |
-| Description 4 | Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Unabhängigkeit und eine nachhaltige Zukunft fürs Mühlviertel. |
+| Description 1 | Faire, sichere Energie im Mühlviertel. Mach jetzt mit bei der Energiegenossenschaft! |
+| Description 2 | Stärken wir gemeinsam das Mühlviertel. 18 Gemeinden und 15 Leitbetriebe sind dabei! |
+| Description 3 | Mia san ned Deppad! Unser Wasser, Unsere Sonne, Unser Wind. Jetzt informieren! |
+| Description 4 | Von Bürger:innen, für Bürger:innen. Gemeinsam für eine nachhaltige Zukunft! |
 
 ### Ad Group 2: Generic Energy Terms
 
@@ -252,9 +252,9 @@ kündigen
 | Headline 6 | Jetzt Teil werden |
 | Headline 7 | Stabilität für die Region |
 | Headline 8 | Von Bürger:innen getragen |
-| Description 1 | Strom vom Mühlviertel: Fair, Regional und Grün. Unser Wasser, Unsere Sonne, Unser Wind. Von Bürger:innen, für Bürger:innen. |
-| Description 2 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € wurden bereits in die Region investiert. Jetzt informieren! |
-| Description 3 | Mia Mühlviertel entscheiden selber wie es uns weitergeht. Stärken wir gemeinsam das Mühlviertel. Mach jetzt mit! |
+| Description 1 | Strom vom Mühlviertel: Fair, Regional und Grün. Von Bürger:innen, für Bürger:innen. |
+| Description 2 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € bereits investiert! |
+| Description 3 | Mia Mühlviertel entscheiden selber. Stärken wir gemeinsam das Mühlviertel! |
 
 ---
 
