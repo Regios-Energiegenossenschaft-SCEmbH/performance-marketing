@@ -138,21 +138,22 @@ utm_term       = [audience_segment] (for search only)
 | Platform | Campaign Type | Daily Budget | Monthly Budget | % of Total |
 |----------|---------------|--------------|----------------|------------|
 | **Google** | Search (Brand/Generic) | €5.00 | €150 | 10% |
-| **Google** | Display Targeting | €8.00 | €240 | 16% |
-| **Google** | Display Retargeting | €5.00 | €150 | 10% |
-| **Google** | YouTube (Optional) | €3.33 | €100 | 7% |
+| **Google** | Display Targeting (HTML5 Banners) | €8.00 | €240 | 16% |
+| **Google** | Display Retargeting (HTML5 Banners) | €5.00 | €150 | 10% |
+| **Google** | YouTube Targeting | €3.33 | €100 | 7% |
 | **Meta** | Facebook Targeting | €10.00 | €300 | 20% |
 | **Meta** | Facebook Retargeting | €6.67 | €200 | 13% |
 | **Meta** | Instagram Targeting | €8.33 | €250 | 17% |
 | **Meta** | Instagram Retargeting | €3.67 | €110 | 7% |
 | **Total** | | **€50.00** | **€1,500** | **100%** |
 
-### Budget Rationale (Based on Historical Performance)
+### Budget Rationale (Based on Historical Performance & Available Assets)
 
 - Meta campaigns showed best Cost per Result: €0.22 to €0.34 per link click
 - Google Display CPM: €1.13 to €7.98 (variable)
 - YouTube Non skippable CPM: €6.42 to €6.67
-- Prioritize Meta for volume, Google for reach/retargeting
+- HTML5 banners available for both Targeting and Retargeting campaigns
+- Prioritize Meta for volume, Google Display for reach across GDN
 
 ---
 
@@ -307,16 +308,28 @@ kündigen
 
 ## 4. Google Display Campaigns
 
-### Campaign A: Targeting Grünstrom
+### IMPORTANT: HTML5 Banner Assets
 
-**Campaign:** `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom`
+**All HTML5 banners are located in:** `Google/Retargeting/Banners/HTML5/`
+
+Despite the folder name "Retargeting", these banners can be used for both Targeting (prospecting) and Retargeting campaigns.
+
+**Available Themes:**
+- **Grünstrom:** Wasser, Wind, Licht (Sonne)
+- **Genossenschaft:** Stabilitaet, Zukunft
+- **Testimonial (Retargeting only):** Sarah
+
+---
+
+### Campaign A: Display Targeting Grünstrom
+`[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom`
 
 **Settings:**
 
 | Setting | Value |
 |---------|-------|
 | Campaign Type | Display |
-| Campaign Subtype | Standard Display |
+| Campaign Subtype | Standard Display Campaign |
 | Goal | Website Traffic |
 | Network | Display Network |
 | Location | Upper Austria, Austria |
@@ -332,63 +345,53 @@ kündigen
 - Affinity Audiences: Green Living Enthusiasts, Home & Garden/Home Improvement
 - In Market: Business Services/Utilities, Real Estate/Residential Properties
 
-**Ad Group 1: Sonne**
+---
 
-**Responsive Display Ad:**
+#### Ad Group 1: Wasser (HTML5 Banners)
 
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=responsive_display` |
-| Headline 1 | Unsere Sonne, UNSERE ENERGIE |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Regional. Fair. Grün. |
-| Long Headline | Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
-| Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
-| Description 2 | Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Mach jetzt mit! |
-| Business Name | Regios Energiegenossenschaft |
-
-**Ad Group 2: Wasser**
-
-**Responsive Display Ad:**
-
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=responsive_display` |
-| Headline 1 | Unser Wasser, UNSERE ENERGIE |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Regional. Fair. Grün. |
-| Long Headline | Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
-| Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
-| Description 2 | Über 18 Gemeinden aus dem Mühlviertel sind schon dabei. Werde Teil der Bewegung! |
-| Business Name | Regios Energiegenossenschaft |
-
-**Ad Group 3: Wind**
-
-**Responsive Display Ad:**
-
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=responsive_display` |
-| Headline 1 | Unser Wind, UNSERE ENERGIE |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Regional. Fair. Grün. |
-| Long Headline | Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
-| Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
-| Description 2 | Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei. Jetzt informieren! |
-| Business Name | Regios Energiegenossenschaft |
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Wasser_300x250.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=banner_wasser_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Wasser_300x600.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=banner_wasser_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Wasser_320x50.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=banner_wasser_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Wasser_336x280.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=banner_wasser_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Wasser_728x90.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=banner_wasser_728x90` |
 
 ---
 
-### Campaign B: Targeting Genossenschaft
+#### Ad Group 2: Wind (HTML5 Banners)
 
-**Campaign:** `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft`
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Wind_300x250.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=banner_wind_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Wind_300x600.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=banner_wind_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Wind_320x50.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=banner_wind_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Wind_336x280.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=banner_wind_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Wind_728x90.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=banner_wind_728x90` |
+
+---
+
+#### Ad Group 3: Licht/Sonne (HTML5 Banners)
+
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Licht_300x250.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=banner_licht_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Licht_300x600.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=banner_licht_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Licht_320x50.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=banner_licht_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Licht_336x280.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=banner_licht_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Licht_728x90.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=banner_licht_728x90` |
+
+---
+
+### Campaign B: Display Targeting Genossenschaft
+`[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft`
 
 **Settings:**
 
 | Setting | Value |
 |---------|-------|
 | Campaign Type | Display |
-| Campaign Subtype | Standard Display |
+| Campaign Subtype | Standard Display Campaign |
 | Goal | Website Traffic |
 | Network | Display Network |
 | Location | Upper Austria, Austria |
@@ -397,50 +400,138 @@ kündigen
 | Daily Budget | €4.00 |
 | Frequency Cap | 5 impressions per user per day |
 
-**Ad Group 1: Stabilität**
+**Audience Targeting:**
+- Age: 30 to 65+
+- Gender: All
+- Household Income: Top 50%
+- Affinity Audiences: Green Living Enthusiasts, Banking & Finance/Investment
+- In Market: Business Services/Utilities, Real Estate/Residential Properties
 
-**Responsive Display Ad:**
+---
 
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=responsive_display` |
-| Headline 1 | Unsere Stabilität, UNSERE ENERGIE |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Investiere in die Region |
-| Long Headline | Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS |
-| Description 1 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € bereits in die Region investiert. |
-| Description 2 | Mia Mühlviertel entscheiden selber wie es uns weitergeht. Jetzt Mitglied werden! |
-| Business Name | Regios Energiegenossenschaft |
+#### Ad Group 1: Stabilitaet (HTML5 Banners)
 
-**Ad Group 2: Zukunft**
+| Size | File | UTM URL |
+|------|------|---------|
+| 160x600 | Google/Retargeting/Banners/HTML5/Stabilitaet_160x600.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_160x600` |
+| 300x250 | Google/Retargeting/Banners/HTML5/Stabilitaet_300x250.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Stabilitaet_300x600.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Stabilitaet_320x50.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_320x50` |
+| 320x100 | Google/Retargeting/Banners/HTML5/Stabilitaet_320X100.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_320x100` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Stabilitaet_336x280.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Stabilitaet_728x90.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_728x90` |
+| 970x250 | Google/Retargeting/Banners/HTML5/Stabilitaet_970x250.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=banner_stabilitaet_970x250` |
 
-**Responsive Display Ad:**
+---
 
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=responsive_display` |
-| Headline 1 | Unsere Zukunft, UNSERE ENERGIE |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Gemeinsam stark |
-| Long Headline | Ein Modell für regionale Selbstbestimmung, Stabilität und eine lebenswerte Zukunft |
-| Description 1 | Mach jetzt gleich mit bei der Energiegenossenschaft. Über 18 Gemeinden sind schon dabei! |
-| Description 2 | Zeigen wir was unser kleines Bauernland drauf hat! Von Bürger:innen, für Bürger:innen. |
-| Business Name | Regios Energiegenossenschaft |
+#### Ad Group 2: Zukunft (HTML5 Banners)
 
-**Ad Group 3: Mitgliedschaft**
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Zukunft_300x250.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=banner_zukunft_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Zukunft_300x600.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=banner_zukunft_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Zukunft_320x50.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=banner_zukunft_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Zukunft_336x280.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=banner_zukunft_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Zukunft_728x90.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=banner_zukunft_728x90` |
 
-**Responsive Display Ad:**
+---
 
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_mitgliedschaft&utm_content=responsive_display` |
-| Headline 1 | Werde Mitglied bei Regios |
-| Headline 2 | UNSERE ENERGIE REGIOS |
-| Headline 3 | Mia san ned Deppad |
-| Long Headline | Selbstbestimmung über die regionale Energieversorgung durch gemeinsames Eigentum |
-| Description 1 | Stärken wir gemeinsam das Mühlviertel. Jetzt Teil der Energiegenossenschaft werden! |
-| Description 2 | 250.000 Bürger:innen im Mühlviertel. Zeigen wir was unser kleines Bauernland drauf hat! |
-| Business Name | Regios Energiegenossenschaft |
+### Campaign C: Display Retargeting
+`[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting`
+
+**Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Campaign Type | Display |
+| Campaign Subtype | Standard Display Campaign |
+| Goal | Website Traffic |
+| Network | Display Network |
+| Location | Upper Austria, Austria |
+| Language | German |
+| Bid Strategy | Target CPA (€2.00) |
+| Daily Budget | €5.00 |
+| Frequency Cap | 3 impressions per user per day |
+
+**Audience Targeting:**
+- Remarketing Lists: Website Visitors (All) Past 30 days
+- Audience: Bürger (visitors to /buerger)
+- Audience: Genossenschaft (visitors to /beteiligung)
+- Audience: Grünstrom (visitors to /regionaler gruenstrom)
+
+---
+
+#### Ad Group 1: Grünstrom Retargeting (HTML5 Banners)
+
+**Use same banners as Targeting but with retargeting UTM medium:**
+
+**Theme: Wasser**
+
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Wasser_300x250.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wasser_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Wasser_300x600.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wasser_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Wasser_320x50.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wasser_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Wasser_336x280.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wasser_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Wasser_728x90.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wasser_728x90` |
+
+**Theme: Wind**
+
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Wind_300x250.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wind_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Wind_300x600.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wind_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Wind_320x50.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wind_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Wind_336x280.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wind_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Wind_728x90.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wind_728x90` |
+
+**Theme: Licht (Sonne)**
+
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Licht_300x250.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_licht_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Licht_300x600.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_licht_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Licht_320x50.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_licht_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Licht_336x280.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_licht_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Licht_728x90.zip | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_licht_728x90` |
+
+---
+
+#### Ad Group 2: Genossenschaft Retargeting (HTML5 Banners)
+
+**Theme: Stabilitaet**
+
+| Size | File | UTM URL |
+|------|------|---------|
+| 160x600 | Google/Retargeting/Banners/HTML5/Stabilitaet_160x600.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_160x600` |
+| 300x250 | Google/Retargeting/Banners/HTML5/Stabilitaet_300x250.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Stabilitaet_300x600.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Stabilitaet_320x50.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_320x50` |
+| 320x100 | Google/Retargeting/Banners/HTML5/Stabilitaet_320X100.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_320x100` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Stabilitaet_336x280.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Stabilitaet_728x90.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_728x90` |
+| 970x250 | Google/Retargeting/Banners/HTML5/Stabilitaet_970x250.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_970x250` |
+
+**Theme: Zukunft**
+
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Zukunft_300x250.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_zukunft_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Zukunft_300x600.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_zukunft_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Zukunft_320x50.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_zukunft_320x50` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Zukunft_336x280.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_zukunft_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Zukunft_728x90.zip | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_zukunft_728x90` |
+
+**Theme: Sarah (Testimonial - BOFU)**
+
+| Size | File | UTM URL |
+|------|------|---------|
+| 300x250 | Google/Retargeting/Banners/HTML5/Sarah_300x250.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_300x250` |
+| 300x600 | Google/Retargeting/Banners/HTML5/Sarah_300x600.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_300x600` |
+| 320x50 | Google/Retargeting/Banners/HTML5/Sarah_320x50.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_320x50` |
+| 320x100 | Google/Retargeting/Banners/HTML5/Sarah_320x100.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_320x100` |
+| 336x280 | Google/Retargeting/Banners/HTML5/Sarah_336x280.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_336x280` |
+| 728x90 | Google/Retargeting/Banners/HTML5/Sarah_728X90.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_728x90` |
 
 ---
 
@@ -876,74 +967,19 @@ kündigen
 
 ---
 
-## 8. Retargeting Campaigns
+## 8. Meta Retargeting Campaigns
 
-### Google Display Retargeting
+**Note:** Google Display Retargeting is covered in Section 4 with all HTML5 banner assets and UTM URLs.
 
-**Campaign:** `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting`
-
-**Settings:**
-
-| Setting | Value |
-|---------|-------|
-| Campaign Type | Display |
-| Goal | Website Traffic |
-| Bid Strategy | Target CPA (€2.00) |
-| Daily Budget | €5.00 |
-| Frequency Cap | 3 impressions per user per day |
-
-**Audience Targeting:**
-- Website Visitors (All) Past 30 days
-- Audience: Bürger
-- Audience: Genossenschaft
-- Audience: Grünstrom
-
-**Ad Group 1: Grünstrom Retargeting**
-
-**HTML5 Banners Available:**
-
-| Theme | Sizes |
-|-------|-------|
-| Wasser | 300x250, 300x600, 320x50, 336x280, 728x90 |
-| Wind | 300x250, 300x600, 320x50, 336x280, 728x90 |
-| Licht (Sonne) | 300x250, 300x600, 320x50, 336x280, 728x90 |
-
-**UTM URLs for Grünstrom Retargeting:**
-```
-https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wasser_300x250
-https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_wind_300x600
-https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=banner_licht_728x90
-```
-
-**Ad Group 2: Genossenschaft Retargeting**
-
-**HTML5 Banners Available:**
-
-| Theme | Sizes |
-|-------|-------|
-| Stabilitaet | 160x600, 300x250, 300x600, 320x50, 320x100, 336x280, 728x90, 970x250 |
-| Zukunft | 300x250, 300x600, 320x50, 336x280, 728x90 |
-| Sarah | 300x250, 300x600, 320x50, 320x100, 336x280, 728x90 |
-
-**UTM URLs for Genossenschaft Retargeting:**
-```
-https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_stabilitaet_300x250
-https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=banner_zukunft_728x90
-https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_300x600
-```
-
----
-
-### Meta Retargeting Campaigns
-
-**Campaign:** `[Traffic > Auction > Retargeting] Meta Retargeting`
+### Campaign: Meta Retargeting
+`[Traffic > Auction > Retargeting] Meta Retargeting`
 
 **Campaign Settings:**
 
 | Setting | Value |
 |---------|-------|
 | Campaign Objective | Traffic |
-| Campaign Budget | €310 (Lifetime) |
+| Campaign Budget | €310 (Lifetime) Split: €200 Facebook, €110 Instagram |
 
 **Custom Audiences to Use:**
 1. Engagement: Paid Meta Ads (180 days)
@@ -1695,21 +1731,22 @@ Not Sure/Video/30 Sek Kurz - Strom - TV - 9-16 - V1 mit URL.mp4
 | Campaign Name | Type | Daily Budget |
 |---------------|------|--------------|
 | `[Search > Brand+Generic > Upper Austria > 30+] Regios` | Search | €5.00 |
-| `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom` | Display | €4.00 |
-| `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft` | Display | €4.00 |
+| `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom` | Display (HTML5) | €4.00 |
+| `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft` | Display (HTML5) | €4.00 |
+| `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting` | Display RT (HTML5) | €5.00 |
 | `[Video > Non skippable > Muehviertel > 30+] 15 Sek Strom` | YouTube | €3.33 |
-| `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting` | Display RT | €5.00 |
 
 ### Meta Campaigns
 
 | Campaign Name | Platform | Objective | Lifetime Budget |
 |---------------|----------|-----------|-----------------|
-| `[Awareness > Auction > Muehviertel > 30+] Gruenstrom` | Facebook | Awareness | €150 |
-| `[Traffic > Auction > Muehviertel > 30+] Genossenschaft` | Facebook | Traffic | €150 |
-| `[Traffic > Auction > Muehviertel > 30+] Carousels` | Facebook | Traffic | €100 |
-| `[Awareness > Auction > Muehviertel > 30+] IG Gruenstrom` | Instagram | Awareness | €125 |
-| `[Traffic > Auction > Muehviertel > 30+] IG Genossenschaft` | Instagram | Traffic | €125 |
-| `[Traffic > Auction > Retargeting] Meta Retargeting` | FB + IG | Traffic | €310 |
+| `[Awareness > Auction > Muehviertel > 30+] Gruenstrom` | Facebook | Awareness | €300 |
+| `[Traffic > Auction > Muehviertel > 30+] Genossenschaft` | Facebook | Traffic | (part of above) |
+| `[Traffic > Auction > Muehviertel > 30+] Carousels` | Facebook | Traffic | (part of above) |
+| `[Traffic > Auction > Retargeting] FB Retargeting` | Facebook | Traffic | €200 |
+| `[Awareness > Auction > Muehviertel > 30+] IG Gruenstrom` | Instagram | Awareness | €250 |
+| `[Traffic > Auction > Muehviertel > 30+] IG Genossenschaft` | Instagram | Traffic | (part of above) |
+| `[Traffic > Auction > Retargeting] IG Retargeting` | Instagram | Traffic | €110 |
 
 ---
 
@@ -1754,17 +1791,18 @@ Not Sure/Video/30 Sek Kurz - Strom - TV - 9-16 - V1 mit URL.mp4
 
 ---
 
-*Document Version: 2.0*  
+*Document Version: 3.0*  
 *Created: December 2024*  
-*Updated: Incorporated branded slogans, removed all hyphens/dashes from ad content*  
+*Updated: Fixed Display campaigns (HTML5 for retargeting only), reallocated budget, added asset mapping*  
 *Campaign Period: 30 Days*  
 *Total Budget: EUR 1,500*
+
+---
 
 ## Contact
 
 This campaign setup was created by:
 
-**[Keferboeck Ltd.](https://keferboeck.com)**
+**Keferboeck Ltd.**
 
-For questions or support, please contact:  
-📧 **georg@keferboeck.com**
+For questions or support, please contact: 📧 **georg@keferboeck.com**
