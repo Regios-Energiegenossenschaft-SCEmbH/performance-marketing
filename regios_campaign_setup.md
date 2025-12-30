@@ -256,6 +256,53 @@ kündigen
 | Description 2 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € bereits investiert! |
 | Description 3 | Mia Mühlviertel entscheiden selber. Stärken wir gemeinsam das Mühlviertel! |
 
+### Sitelink Extensions (Both Ad Groups)
+
+**Sitelink 1: Bürger**
+
+| Field | Content |
+|-------|---------|
+| Sitelink Text | Für Bürger:innen |
+| Description Line 1 | Unsere Sarah, Unsere Gemeinschaft |
+| Description Line 2 | UNSERE ENERGIE REGIOS |
+| Final URL | `https://www.regios.at/buerger?utm_source=google&utm_medium=cpc&utm_campaign=brand_search_generic&utm_content=sitelink_buerger` |
+
+**Sitelink 2: Beteiligung**
+
+| Field | Content |
+|-------|---------|
+| Sitelink Text | Beteiligung |
+| Description Line 1 | Investiere in die Stabilität |
+| Description Line 2 | Über 2 Mio. € investiert |
+| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=cpc&utm_campaign=brand_search_generic&utm_content=sitelink_beteiligung` |
+
+**Sitelink 3: Regionaler Grünstrom**
+
+| Field | Content |
+|-------|---------|
+| Sitelink Text | Regionaler Grünstrom |
+| Description Line 1 | Fair, Regional und Grün |
+| Description Line 2 | Sonne, Wind und Wasser |
+| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=cpc&utm_campaign=brand_search_generic&utm_content=sitelink_gruenstrom` |
+
+**Sitelink 4: Grundstücksentwicklung**
+
+| Field | Content |
+|-------|---------|
+| Sitelink Text | Grundstücksentwicklung |
+| Description Line 1 | 45+ Hektar bereits gepachtet |
+| Description Line 2 | Grüne Pacht fürs Mühlviertel |
+| Final URL | `https://www.regios.at/grundstuecksentwicklung?utm_source=google&utm_medium=cpc&utm_campaign=brand_search_generic&utm_content=sitelink_grundstueck` |
+
+**Sitelink 5: Kontakt**
+
+| Field | Content |
+|-------|---------|
+| Sitelink Text | Kontakt |
+| Description Line 1 | Persönliche Beratung |
+| Description Line 2 | Wir sind für dich da |
+| Final URL | `https://www.regios.at/kontakt?utm_source=google&utm_medium=cpc&utm_campaign=brand_search_generic&utm_content=sitelink_kontakt` |
+
 ---
 
 ## 4. Google Display Campaigns
