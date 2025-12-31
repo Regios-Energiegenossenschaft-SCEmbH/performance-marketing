@@ -17,7 +17,8 @@ The landscape (1200x628) images used in Google Responsive Display Ads were cropp
 **Affected Campaigns:**
 - Google Display Targeting Grünstrom (Responsive Ads)
 - Google Display Targeting Genossenschaft (Responsive Ads)
-- Google Display Retargeting (Responsive Ads)
+
+**Note:** Retargeting uses Classic HTML5 banners ONLY (no Responsive).
 
 **Image Sources:**
 - Landscape (1200x628): Cropped from `Google/RAW/` folder ⚠️ REPLACE WHEN READY
