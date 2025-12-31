@@ -1119,7 +1119,7 @@ Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&
 | 4 | susanne_1080x1080_4.png | Unsere Zukunft | Gemeinsam stark | `...&utm_term=slide_4` |
 | 5 | susanne_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
 
-Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne`
+Base URL: `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne`
 
 **Carousel Ad 3: Christian (Bank/Unternehmen)**
 
@@ -1137,7 +1137,7 @@ Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&
 | 4 | christain_1080x1080_4.png | Unsere Zukunft | Nachhaltige Investition | `...&utm_term=slide_4` |
 | 5 | christain_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
 
-Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_christian`
+Base URL: `https://www.regios.at/bank?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_christian`
 
 **Carousel Ad 4: Martin (Leitbetrieb)**
 
@@ -1155,7 +1155,7 @@ Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&
 | 4 | Martin_1080x1080_4.png | Unsere Zukunft | Gemeinsam stark | `...&utm_term=slide_4` |
 | 5 | Martin_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
 
-Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_martin`
+Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_martin`
 
 **Carousel Ad 5: Klaus (Unternehmer)**
 
@@ -1173,7 +1173,7 @@ Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&
 | 4 | Klaus_1080x1080_4.png | Unsere Zukunft | Unabhängigkeit & Selbstgestaltung | `...&utm_term=slide_4` |
 | 5 | Klaus_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
 
-Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_klaus`
+Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_klaus`
 
 ---
 
