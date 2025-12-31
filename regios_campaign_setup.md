@@ -1182,14 +1182,17 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=soc
 **Note:** Google Display Retargeting is covered in Section 4 with all HTML5 banner assets and UTM URLs.
 
 ### Campaign: Meta Retargeting
-`[Traffic > Auction > Retargeting] Meta Retargeting`
+`[Leads > Auction > Retargeting] Meta Retargeting`
 
 **Campaign Settings:**
 
 | Setting | Value |
 |---------|-------|
-| Campaign Objective | Traffic |
+| Campaign Objective | Leads |
+| Conversion Location | Website |
+| Conversion Event | Lead (or Purchase if available) |
 | Campaign Budget | €310 (Lifetime) Split: €200 Facebook, €110 Instagram |
+| Bid Strategy | Lowest cost per lead |
 
 **Custom Audiences to Use:**
 1. Engagement: Paid Meta Ads (180 days)
