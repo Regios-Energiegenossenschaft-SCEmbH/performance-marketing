@@ -899,13 +899,17 @@ kündigen
 |-------|---------|
 | Images | Sonne_1080x1080_1.png through Sonne_1080x1080_5.png |
 | Primary Text | ☀️ Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Entdecke, wie Sonnenenergie aus der Region unsere Zukunft gestaltet. |
-| Card Headlines | 1: Unsere Sonne / 2: Unser Mühlviertel / 3: Unsere Energie / 4: Unsere Zukunft / 5: REGIOS |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=carousel_sonne&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=carousel_sonne&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=carousel_sonne&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=carousel_sonne&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=carousel_sonne&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | Sonne_1080x1080_1.png | Unsere Sonne | Sonnenenergie aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | Sonne_1080x1080_2.png | Unser Mühlviertel | Fair, Regional und Grün | `...&utm_term=slide_2` |
+| 3 | Sonne_1080x1080_3.png | Unsere Energie | Von Bürger:innen, für Bürger:innen | `...&utm_term=slide_3` |
+| 4 | Sonne_1080x1080_4.png | Unsere Zukunft | Über 2 Mio. € investiert | `...&utm_term=slide_4` |
+| 5 | Sonne_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=carousel_sonne`
 
 **Carousel Ad 2: Wasser**
 
@@ -914,11 +918,16 @@ kündigen
 | Images | wasser_1080x1080_1.png through wasser_1080x1080_5.png |
 | Primary Text | 💧 Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Wasserkraft aus der Region für eine nachhaltige Energiezukunft. |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=carousel_wasser&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=carousel_wasser&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=carousel_wasser&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=carousel_wasser&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=carousel_wasser&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | wasser_1080x1080_1.png | Unser Wasser | Wasserkraft aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | wasser_1080x1080_2.png | Unser Mühlviertel | Fair, Regional und Grün | `...&utm_term=slide_2` |
+| 3 | wasser_1080x1080_3.png | Unsere Energie | Von Bürger:innen, für Bürger:innen | `...&utm_term=slide_3` |
+| 4 | wasser_1080x1080_4.png | Unsere Zukunft | 18+ Gemeinden dabei | `...&utm_term=slide_4` |
+| 5 | wasser_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=carousel_wasser`
 
 **Carousel Ad 3: Wind**
 
@@ -927,11 +936,16 @@ kündigen
 | Images | WInd_1080x1080_1.png through WInd_1080x1080_5.png |
 | Primary Text | 🌬️ Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Windenergie aus dem Mühlviertel: regional und nachhaltig. |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=carousel_wind&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=carousel_wind&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=carousel_wind&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=carousel_wind&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=carousel_wind&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | WInd_1080x1080_1.png | Unser Wind | Windenergie aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | WInd_1080x1080_2.png | Unser Mühlviertel | Fair, Regional und Grün | `...&utm_term=slide_2` |
+| 3 | WInd_1080x1080_3.png | Unsere Energie | Von Bürger:innen, für Bürger:innen | `...&utm_term=slide_3` |
+| 4 | WInd_1080x1080_4.png | Unsere Zukunft | 15+ Leitbetriebe dabei | `...&utm_term=slide_4` |
+| 5 | WInd_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=carousel_wind`
 
 **Carousel Ad 4: Stabilität**
 
@@ -940,11 +954,16 @@ kündigen
 | Images | Stabilitaet_1080x1080_1.png through Stabilitaet_1080x1080_5.png |
 | Primary Text | 🤝 Unsere Stabilität, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Investiere in die wirtschaftliche Stabilität des Mühlviertels. Gemeinsam sind wir stark! |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=carousel_stabilitaet&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=carousel_stabilitaet&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=carousel_stabilitaet&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=carousel_stabilitaet&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=carousel_stabilitaet&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | Stabilitaet_1080x1080_1.png | Unsere Stabilität | Wirtschaftliche Sicherheit | `...&utm_term=slide_1` |
+| 2 | Stabilitaet_1080x1080_2.png | Unser Mühlviertel | Regionale Selbstbestimmung | `...&utm_term=slide_2` |
+| 3 | Stabilitaet_1080x1080_3.png | Unsere Genossenschaft | Gemeinsames Eigentum | `...&utm_term=slide_3` |
+| 4 | Stabilitaet_1080x1080_4.png | Unsere Zukunft | Über 2 Mio. € investiert | `...&utm_term=slide_4` |
+| 5 | Stabilitaet_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt Mitglied werden | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=carousel_stabilitaet`
 
 **Carousel Ad 5: Zukunft**
 
@@ -953,11 +972,16 @@ kündigen
 | Images | Zukunft_1080x1080_1.png through Zukunft_1080x1080_5.png |
 | Primary Text | 🌱 Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! Ein Modell für regionale Selbstbestimmung und eine lebenswerte Zukunft. |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_zukunft&utm_content=carousel_zukunft&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_zukunft&utm_content=carousel_zukunft&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_zukunft&utm_content=carousel_zukunft&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_zukunft&utm_content=carousel_zukunft&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_zukunft&utm_content=carousel_zukunft&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | Zukunft_1080x1080_1.png | Unsere Zukunft | Lebenswerte Region | `...&utm_term=slide_1` |
+| 2 | Zukunft_1080x1080_2.png | Unser Mühlviertel | Mia san ned Deppad | `...&utm_term=slide_2` |
+| 3 | Zukunft_1080x1080_3.png | Unsere Genossenschaft | Nachhaltige Investition | `...&utm_term=slide_3` |
+| 4 | Zukunft_1080x1080_4.png | Unsere Energie | Fair, Regional und Grün | `...&utm_term=slide_4` |
+| 5 | Zukunft_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt Mitglied werden | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_zukunft&utm_content=carousel_zukunft`
 
 **Carousel Ad 6: Sicherheit**
 
@@ -966,11 +990,16 @@ kündigen
 | Images | Sicherheit_1080x1080_1.png through Sicherheit_1080x1080_5.png |
 | Primary Text | 🛡️ Unsere Sicherheit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Sichere Energieversorgung durch gemeinsames Eigentum. |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sicherheit&utm_content=carousel_sicherheit&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sicherheit&utm_content=carousel_sicherheit&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sicherheit&utm_content=carousel_sicherheit&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sicherheit&utm_content=carousel_sicherheit&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sicherheit&utm_content=carousel_sicherheit&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | Sicherheit_1080x1080_1.png | Unsere Sicherheit | Sichere Energieversorgung | `...&utm_term=slide_1` |
+| 2 | Sicherheit_1080x1080_2.png | Unser Mühlviertel | Regionale Unabhängigkeit | `...&utm_term=slide_2` |
+| 3 | Sicherheit_1080x1080_3.png | Unsere Genossenschaft | Gemeinsames Eigentum | `...&utm_term=slide_3` |
+| 4 | Sicherheit_1080x1080_4.png | Unsere Zukunft | Langfristige Stabilität | `...&utm_term=slide_4` |
+| 5 | Sicherheit_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt Mitglied werden | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sicherheit&utm_content=carousel_sicherheit`
 
 ---
 
@@ -1063,11 +1092,16 @@ kündigen
 | Images | Sarah_1080x1080_1.png through sarah_1080x1080_5.png |
 | Caption | 👩 Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Von Bürger:innen, für Bürger:innen. Gemeinsam schaffen wir Stabilität und Zukunft! 🌱<br><br>#regios #mühlviertel #gemeinschaft #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_sarah&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_sarah&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_sarah&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_sarah&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_sarah&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | Sarah_1080x1080_1.png | Unsere Sarah | Bürger:in aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | Sarah_1080x1080_2.png | Unsere Gemeinschaft | Von Bürger:innen, für Bürger:innen | `...&utm_term=slide_2` |
+| 3 | Sarah_1080x1080_3.png | Unser Mühlviertel | Mia san ned Deppad | `...&utm_term=slide_3` |
+| 4 | sarah_1080x1080_4.png | Unsere Zukunft | Gemeinsam stark | `...&utm_term=slide_4` |
+| 5 | sarah_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_sarah`
 
 **Carousel Ad 2: Susanne (Gemeinde)**
 
@@ -1076,11 +1110,16 @@ kündigen
 | Images | susanne_1080x1080_1.png through susanne_1080x1080_5.png |
 | Caption | 👩‍💼 Unsere Susanne, Unsere Gemeinde, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Über 18 Gemeinden sind schon dabei! 🌱<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
-| Slide 1 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne&utm_term=slide_1` |
-| Slide 2 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne&utm_term=slide_2` |
-| Slide 3 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne&utm_term=slide_3` |
-| Slide 4 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne&utm_term=slide_4` |
-| Slide 5 URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne&utm_term=slide_5` |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | susanne_1080x1080_1.png | Unsere Susanne | Gemeinde aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | susanne_1080x1080_2.png | Unsere Gemeinden | 18+ Gemeinden dabei | `...&utm_term=slide_2` |
+| 3 | susanne_1080x1080_3.png | Unser Mühlviertel | Regionale Partnerschaft | `...&utm_term=slide_3` |
+| 4 | susanne_1080x1080_4.png | Unsere Zukunft | Gemeinsam stark | `...&utm_term=slide_4` |
+| 5 | susanne_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne`
 
 ---
 
