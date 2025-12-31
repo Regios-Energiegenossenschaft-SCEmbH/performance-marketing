@@ -364,7 +364,7 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | Location | Upper Austria, Austria |
 | Language | German |
 | Bid Strategy | Target CPM (€3.00) |
-| Daily Budget | €2.00 |
+| Daily Budget | €2.00 (Split: €4.00 total for Classic Targeting across Grünstrom + Genossenschaft) |
 | Frequency Cap | 5 impressions per user per day |
 
 **Audience Targeting:**
