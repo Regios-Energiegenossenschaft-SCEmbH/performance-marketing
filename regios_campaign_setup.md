@@ -1121,6 +1121,60 @@ Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&
 
 Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_susanne`
 
+**Carousel Ad 3: Christian (Bank/Unternehmen)**
+
+| Field | Content |
+|-------|---------|
+| Images | christain_1080x1080_1.png through christain_1080x1080_5.png |
+| Caption | 🏦 Unser Christian, Unser Partner, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Banken und Unternehmen als starke Partner für die Region. 🌱<br><br>#regios #mühlviertel #partnerschaft #energiegenossenschaft #miasanneddeppad |
+| CTA | Learn More |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | christain_1080x1080_1.png | Unser Christian | Partner aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | christain_1080x1080_2.png | Unsere Partner | Banken als Entwicklungspartner | `...&utm_term=slide_2` |
+| 3 | christain_1080x1080_3.png | Unser Mühlviertel | Vertrauen und Transparenz | `...&utm_term=slide_3` |
+| 4 | christain_1080x1080_4.png | Unsere Zukunft | Nachhaltige Investition | `...&utm_term=slide_4` |
+| 5 | christain_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_christian`
+
+**Carousel Ad 4: Martin (Leitbetrieb)**
+
+| Field | Content |
+|-------|---------|
+| Images | Martin_1080x1080_1.png through Martin_1080x1080_5.png |
+| Caption | 🏭 Unser Martin, Unser Leitbetrieb, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! 15+ Leitbetriebe sind schon dabei! 🌱<br><br>#regios #mühlviertel #leitbetrieb #energiegenossenschaft #miasanneddeppad |
+| CTA | Learn More |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | Martin_1080x1080_1.png | Unser Martin | Leitbetrieb aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | Martin_1080x1080_2.png | Unsere Leitbetriebe | 15+ Betriebe dabei | `...&utm_term=slide_2` |
+| 3 | Martin_1080x1080_3.png | Unser Mühlviertel | Regionale Wertschöpfung | `...&utm_term=slide_3` |
+| 4 | Martin_1080x1080_4.png | Unsere Zukunft | Gemeinsam stark | `...&utm_term=slide_4` |
+| 5 | Martin_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_martin`
+
+**Carousel Ad 5: Klaus (Unternehmer)**
+
+| Field | Content |
+|-------|---------|
+| Images | Klaus_1080x1080_1.png through Klaus_1080x1080_5.png |
+| Caption | 👨‍💼 Unser Klaus, Unser Unternehmer, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Regionale Wertschöpfung und stabile Preisentwicklung. 🌱<br><br>#regios #mühlviertel #unternehmer #energiegenossenschaft #miasanneddeppad |
+| CTA | Learn More |
+
+| Slide | Image | Headline | Description | URL |
+|-------|-------|----------|-------------|-----|
+| 1 | Klaus_1080x1080_1.png | Unser Klaus | Unternehmer aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | Klaus_1080x1080_2.png | Unsere Unternehmer | Regionale Wertschöpfung | `...&utm_term=slide_2` |
+| 3 | Klaus_1080x1080_3.png | Unser Mühlviertel | Stabile Preisentwicklung | `...&utm_term=slide_3` |
+| 4 | Klaus_1080x1080_4.png | Unsere Zukunft | Unabhängigkeit & Selbstgestaltung | `...&utm_term=slide_4` |
+| 5 | Klaus_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
+
+Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_klaus`
+
 ---
 
 ## 8. Meta Retargeting Campaigns
