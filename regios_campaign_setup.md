@@ -10,7 +10,19 @@
 
 ## ⚠️ IMPORTANT: Assets Pending Replacement
 
-**LANDSCAPE IMAGES FOR RESPONSIVE DISPLAY ADS (1200x628) ARE TEMPORARY CROPS**
+### 1. CAROUSEL ADS ON HOLD - AWAITING CORRECTED ASSETS
+
+The following Facebook Carousel Ads have **grammatical errors** on the image assets and are **NOT LIVE YET**. Design team has been informed and we are awaiting corrected assets:
+
+- ❌ **Carousel Ad 4: Stabilität** - NOT ONLINE
+- ❌ **Carousel Ad 5: Zukunft** - NOT ONLINE
+- ❌ **Carousel Ad 6: Sicherheit** - NOT ONLINE
+
+**Status:** Waiting for design team to deliver corrected carousel images.
+
+---
+
+### 2. LANDSCAPE IMAGES FOR RESPONSIVE DISPLAY ADS (1200x628) ARE TEMPORARY CROPS
 
 The landscape (1200x628) images used in Google Responsive Display Ads were cropped from the `Google/RAW/` folder as a temporary solution. These MUST be replaced with properly designed landscape assets once the design team delivers them.
 
