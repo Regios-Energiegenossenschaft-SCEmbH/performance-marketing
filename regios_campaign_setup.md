@@ -809,81 +809,49 @@ kündigen
 | Frequency Cap | 2 per week |
 | Attribution | 7 day click, 1 day view |
 
-**Ad 1: Sonne Post (1:1)**
+**Ad 1: Sonne (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
 | Primary Text | ☀️ Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün.<br><br>Mia san ned Deppad! Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region!<br><br>🌱 Von Bürger:innen, für Bürger:innen. |
 | Headline | Grünstrom aus dem Mühlviertel |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=video15_sonne_1x1` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=video15_sonne_feed_story` |
 
-**Ad 2: Wasser Post (1:1)**
+**Ad 2: Wasser (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
 | Primary Text | 💧 Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Regionale Wasserkraft für eine nachhaltige Zukunft.<br><br>Über 18 Gemeinden aus dem Mühlviertel sind schon dabei!<br><br>🌱 Fair. Regional. Grün. |
 | Headline | Wasserkraft aus dem Mühlviertel |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=video15_wasser_1x1` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=video15_wasser_feed_story` |
 
-**Ad 3: Wind Post (1:1)**
+**Ad 3: Wind (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
 | Primary Text | 🌬️ Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Windenergie aus der Region, für die Region.<br><br>Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei!<br><br>🌱 Gemeinsam stark. |
 | Headline | Windenergie aus dem Mühlviertel |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=video15_wind_1x1` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=video15_wind_feed_story` |
 
-**Ad 4: Sonne Story (9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video | `15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
-| Primary Text | ☀️ Unsere Sonne, UNSERE ENERGIE REGIOS |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=story15_sonne_9x16` |
-
-**Ad 5: Wasser Story (9:16)**
+**Ad 4: Strom 30s (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
-| Primary Text | 💧 Unser Wasser, UNSERE ENERGIE REGIOS |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=story15_wasser_9x16` |
-
-**Ad 6: Wind Story (9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video | `15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
-| Primary Text | 🌬️ Unser Wind, UNSERE ENERGIE REGIOS |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=story15_wind_9x16` |
-
-**Ad 7: Strom 30s Post (1:1)**
-
-| Field | Content |
-|-------|---------|
-| Video | `30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Feed (1:1) | `30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Story (9:16) | `30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4` |
 | Primary Text | 🌱 Strom vom Mühlviertel: Fair, Regional und Grün<br><br>Mia Mühlviertel san ned Deppad! Regios Energiegenossenschaft steht für faire, sichere und nachhaltige Energieversorgung von Bürger:innen, für Bürger:innen.<br><br>✔ Über 2 Mio. € bereits in die Region investiert<br>✔ 18+ Gemeinden & 15 Leitbetriebe dabei<br><br>Stärken wir gemeinsam das Mühlviertel! |
 | Headline | UNSERE ENERGIE REGIOS |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=video30_strom_1x1` |
-
-**Ad 8: Strom 30s Story (9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video | `30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4` |
-| Primary Text | 🌱 Mia san ned Deppad! UNSERE ENERGIE REGIOS |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=story30_strom_9x16` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=video30_strom_feed_story` |
 
 ---
 
@@ -901,54 +869,49 @@ kündigen
 | Campaign Budget | €150 (Lifetime) |
 | Campaign Bid Strategy | Lowest cost |
 
-**Ad 1: Genossenschaft Post (1:1)**
+**Ad 1: Genossenschaft 30s (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Feed (1:1) | `30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Story (9:16) | `30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
 | Primary Text | 🤝 Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Regios ist mehr als Strom: Es ist ein Modell für regionale Selbstbestimmung und wirtschaftliche Stabilität.<br><br>✔ Investitionspakete<br>✔ Grünstrom<br>✔ Grüne Pacht<br><br>Mach jetzt gleich mit bei der Energiegenossenschaft! |
 | Headline | Investiere in die Stabilität des Mühlviertel |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=video30_genossenschaft_1x1` |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=video30_genossenschaft_feed_story` |
 
-**Ad 2: Genossenschaft Story (9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video | `30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
-| Primary Text | 🤝 Mia san ned Deppad! UNSERE ENERGIE REGIOS |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=story30_genossenschaft_9x16` |
-
-**Ad 3: Genossenschaft Sonne Post (1:1)**
+**Ad 2: Genossenschaft Sonne 15s (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Genossenschaft - Sonne - Online - 9-16 - V1.mp4` |
 | Primary Text | ☀️ Investiere in Sonnenenergie aus dem Mühlviertel<br><br>Mia san ned Deppad! Werde Teil der Regios Energiegenossenschaft und profitiere von nachhaltigen Investitionspaketen.<br><br>Zeigen wir was unser kleines Bauernland drauf hat!<br><br>🌱 Von Bürger:innen, für Bürger:innen. |
 | Headline | Beteiligung an Sonnenenergie |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sonne&utm_content=video15_genossenschaft_sonne_1x1` |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sonne&utm_content=video15_genossenschaft_sonne_feed_story` |
 
-**Ad 4: Genossenschaft Wasser Post (1:1)**
+**Ad 3: Genossenschaft Wasser 15s (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Genossenschaft - Wasser - Online - 9-16 - V1.mp4` |
 | Primary Text | 💧 Investiere in Wasserkraft aus dem Mühlviertel<br><br>Mia Mühlviertel san ned Deppad! Gemeinsames Eigentum für regionale Energieversorgung. Sichere dir deinen Anteil!<br><br>🌱 Fair. Regional. Zukunftsorientiert. |
 | Headline | Beteiligung an Wasserkraft |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wasser&utm_content=video15_genossenschaft_wasser_1x1` |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wasser&utm_content=video15_genossenschaft_wasser_feed_story` |
 
-**Ad 5: Genossenschaft Wind Post (1:1)**
+**Ad 4: Genossenschaft Wind 15s (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Genossenschaft - Wind - Online - 9-16 - V1.mp4` |
 | Primary Text | 🌬️ Investiere in Windenergie aus dem Mühlviertel<br><br>Mia san ned Deppad! Selbstbestimmung über die regionale Energieversorgung durch gemeinsames Eigentum.<br><br>🌱 Gemeinsam stark für die Zukunft. |
 | Headline | Beteiligung an Windenergie |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wind&utm_content=video15_genossenschaft_wind_1x1` |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wind&utm_content=video15_genossenschaft_wind_feed_story` |
 
 ---
 
@@ -1037,65 +1000,42 @@ kündigen
 | Age | 30 to 65+ |
 | Gender | All |
 
-**Ad 1: Sonne Post**
+**Ad 1: Sonne (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
 | Caption | ☀️ Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün. 🌱<br><br>Mia san ned Deppad! Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Stärken wir gemeinsam die Region!<br><br>#regios #mühlviertel #grünstrom #energiegenossenschaft #nachhaltigkeit #sonnenenergie #oberösterreich #miasanneddeppad |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=video15_sonne_1x1` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=video15_sonne_feed_story` |
 
-**Ad 2: Wasser Post**
+**Ad 2: Wasser (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
 | Caption | 💧 Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Regionale Wasserkraft für eine nachhaltige Zukunft. 🌱<br><br>Über 18 Gemeinden sind schon dabei!<br><br>#regios #mühlviertel #wasserkraft #energiegenossenschaft #nachhaltigkeit #oberösterreich #miasanneddeppad |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=video15_wasser_1x1` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=video15_wasser_feed_story` |
 
-**Ad 3: Wind Post**
+**Ad 3: Wind (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
+| Video Feed (1:1) | `15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
+| Video Story (9:16) | `15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
 | Caption | 🌬️ Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Windenergie aus der Region, für die Region. 🌱<br><br>15+ Leitbetriebe sind schon dabei!<br><br>#regios #mühlviertel #windenergie #energiegenossenschaft #nachhaltigkeit #oberösterreich #miasanneddeppad |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=video15_wind_1x1` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=video15_wind_feed_story` |
 
-**Ad 4: Sonne Story**
-
-| Field | Content |
-|-------|---------|
-| Video | `15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
-| Sticker Text | ☀️ Unsere Sonne, UNSERE ENERGIE |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_sonne&utm_content=story15_sonne_9x16` |
-
-**Ad 5: Wasser Story**
+**Ad 4: Strom 30s (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
-| Sticker Text | 💧 Unser Wasser, UNSERE ENERGIE |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wasser&utm_content=story15_wasser_9x16` |
-
-**Ad 6: Wind Story**
-
-| Field | Content |
-|-------|---------|
-| Video | `15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
-| Sticker Text | 🌬️ Unser Wind, UNSERE ENERGIE |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_wind&utm_content=story15_wind_9x16` |
-
-**Ad 7: Strom 30s Post (1:1)**
-
-| Field | Content |
-|-------|---------|
-| Video | `30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Feed (1:1) | `30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Story (9:16) | `30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4` |
 | Caption | 🌱 UNSERE ENERGIE REGIOS<br><br>Strom vom Mühlviertel: Fair, Regional und Grün.<br><br>Mia Mühlviertel san ned Deppad! Von Bürger:innen, für Bürger:innen. ✔️ Über 2 Mio. € investiert ✔️ 18+ Gemeinden dabei<br><br>Stärken wir gemeinsam das Mühlviertel!<br><br>#regios #energiegenossenschaft #mühlviertel #grünstrom #nachhaltigkeit #miasanneddeppad |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=video30_strom_1x1` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=social&utm_campaign=gruenstrom_tofu_alle&utm_content=video30_strom_feed_story` |
 
 ---
 
@@ -1110,22 +1050,15 @@ kündigen
 | Campaign Objective | Traffic |
 | Campaign Budget | €125 (Lifetime) |
 
-**Ad 1: Genossenschaft Post (1:1)**
+**Ad 1: Genossenschaft 30s (Feed 1:1 + Story 9:16)**
 
 | Field | Content |
 |-------|---------|
-| Video | `30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Feed (1:1) | `30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
+| Video Story (9:16) | `30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
 | Caption | 🤝 UNSERE ENERGIE REGIOS<br><br>Unsere Stabilität. Unsere Sicherheit. Unsere Zukunft.<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Regios ist mehr als Strom: Ein Modell für regionale Selbstbestimmung und wirtschaftliche Stabilität.<br><br>Mach jetzt gleich mit bei der Energiegenossenschaft! 🌱<br><br>#regios #genossenschaft #investieren #mühlviertel #nachhaltigkeit #miasanneddeppad |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=video30_genossenschaft_1x1` |
-
-**Ad 2: Genossenschaft Story (9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video | `30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
-| CTA | Swipe Up |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=story30_genossenschaft_9x16` |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=video30_genossenschaft_feed_story` |
 
 **Carousel Ad 1: Sarah (Bürger:in)**
 
@@ -1527,29 +1460,28 @@ These must be replaced with properly designed landscape assets when the design t
 #### Facebook Targeting: Grünstrom
 `[Awareness > Auction > Muehviertel > 30+] Gruenstrom`
 
-| Ad | Theme | Placement | Video File |
-|----|-------|-----------|------------|
-| Ad 1 | Sonne | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
-| Ad 2 | Wasser | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
-| Ad 3 | Wind | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
-| Ad 4 | Sonne | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
-| Ad 5 | Wasser | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
-| Ad 6 | Wind | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
-| Ad 7 | Strom 30s | Post 1:1 | `Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
-| Ad 8 | Strom 30s | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4` |
+**Note:** Each ad combines Feed (1:1) + Story (9:16) placements with a single UTM.
+
+| Ad | Theme | Video Feed (1:1) | Video Story (9:16) |
+|----|-------|-----------------|-------------------|
+| Ad 1 | Sonne | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
+| Ad 2 | Wasser | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
+| Ad 3 | Wind | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wind - Online - 1-1 - V1.mp4` | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
+| Ad 4 | Strom 30s | `Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` | `Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4` |
 
 ---
 
 #### Facebook Targeting: Genossenschaft
 `[Traffic > Auction > Muehviertel > 30+] Genossenschaft`
 
-| Ad | Theme | Placement | Video File |
-|----|-------|-----------|------------|
-| Ad 1 | Genossenschaft 30s | Post 1:1 | `Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
-| Ad 2 | Genossenschaft 30s | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
-| Ad 3 | Genossenschaft Sonne 15s | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` |
-| Ad 4 | Genossenschaft Wasser 15s | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` |
-| Ad 5 | Genossenschaft Wind 15s | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` |
+**Note:** Each ad combines Feed (1:1) + Story (9:16) placements with a single UTM.
+
+| Ad | Theme | Video Feed (1:1) | Video Story (9:16) |
+|----|-------|-----------------|-------------------|
+| Ad 1 | Genossenschaft 30s | `Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` | `Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
+| Ad 2 | Genossenschaft Sonne 15s | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 9-16 - V1.mp4` |
+| Ad 3 | Genossenschaft Wasser 15s | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 9-16 - V1.mp4` |
+| Ad 4 | Genossenschaft Wind 15s | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 9-16 - V1.mp4` |
 
 ---
 
@@ -1571,7 +1503,7 @@ These must be replaced with properly designed landscape assets when the design t
 `[Awareness > Auction > Muehviertel > 30+] IG Gruenstrom`
 `[Traffic > Auction > Muehviertel > 30+] IG Genossenschaft`
 
-Same video assets as Facebook, plus:
+**Note:** Each ad combines Feed (1:1) + Story (9:16) placements with a single UTM. Same video assets as Facebook.
 
 | Carousel | Theme | Image Files |
 |----------|-------|-------------|
