@@ -1139,23 +1139,23 @@ Base URL: `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=social
 
 Base URL: `https://www.regios.at/bank?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_christian`
 
-**Carousel Ad 4: Martin (Leitbetrieb)**
+**Carousel Ad 4: Martin (Grundbesitzer)**
 
 | Field | Content |
 |-------|---------|
 | Images | Martin_1080x1080_1.png through Martin_1080x1080_5.png |
-| Caption | 🏭 Unser Martin, Unser Leitbetrieb, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! 15+ Leitbetriebe sind schon dabei! 🌱<br><br>#regios #mühlviertel #leitbetrieb #energiegenossenschaft #miasanneddeppad |
+| Caption | 🌾 Unser Martin, Unser Grundbesitzer, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel san ned Deppad! Grüne Pacht für Grundbesitzer:innen! 🌱<br><br>#regios #mühlviertel #grundbesitzer #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
 
 | Slide | Image | Headline | Description | URL |
 |-------|-------|----------|-------------|-----|
-| 1 | Martin_1080x1080_1.png | Unser Martin | Leitbetrieb aus dem Mühlviertel | `...&utm_term=slide_1` |
-| 2 | Martin_1080x1080_2.png | Unsere Leitbetriebe | 15+ Betriebe dabei | `...&utm_term=slide_2` |
+| 1 | Martin_1080x1080_1.png | Unser Martin | Grundbesitzer aus dem Mühlviertel | `...&utm_term=slide_1` |
+| 2 | Martin_1080x1080_2.png | Unsere Grundbesitzer | Grüne Pacht | `...&utm_term=slide_2` |
 | 3 | Martin_1080x1080_3.png | Unser Mühlviertel | Regionale Wertschöpfung | `...&utm_term=slide_3` |
 | 4 | Martin_1080x1080_4.png | Unsere Zukunft | Gemeinsam stark | `...&utm_term=slide_4` |
 | 5 | Martin_1080x1080_5.png | UNSERE ENERGIE REGIOS | Jetzt informieren | `...&utm_term=slide_5` |
 
-Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_martin`
+Base URL: `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=social&utm_campaign=genossenschaft_tofu_testimonial&utm_content=carousel_martin`
 
 **Carousel Ad 5: Klaus (Unternehmer)**
 
