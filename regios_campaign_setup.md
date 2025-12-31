@@ -8,6 +8,23 @@
 
 ---
 
+## ⚠️ IMPORTANT: Assets Pending Replacement
+
+**LANDSCAPE IMAGES FOR RESPONSIVE DISPLAY ADS (1200x628) ARE TEMPORARY CROPS**
+
+The landscape (1200x628) images used in Google Responsive Display Ads were cropped from the `Google/RAW/` folder as a temporary solution. These MUST be replaced with properly designed landscape assets once the design team delivers them.
+
+**Affected Campaigns:**
+- Google Display Targeting Grünstrom (Responsive Ads)
+- Google Display Targeting Genossenschaft (Responsive Ads)
+- Google Display Retargeting (Responsive Ads)
+
+**Image Sources:**
+- Landscape (1200x628): Cropped from `Google/RAW/` folder ⚠️ REPLACE WHEN READY
+- Square (1080x1080): From `Social Media/Targeting/Posts/Carousels/1080x1080/` folder ✓
+
+---
+
 ## Branded Slogans Reference (MUST USE)
 
 ### Main Tagline
@@ -138,8 +155,10 @@ utm_term       = [audience_segment] (for search only)
 | Platform | Campaign Type | Daily Budget | Monthly Budget | % of Total |
 |----------|---------------|--------------|----------------|------------|
 | **Google** | Search (Brand/Generic) | €5.00 | €150 | 10% |
-| **Google** | Display Targeting (HTML5 Banners) | €8.00 | €240 | 16% |
-| **Google** | Display Retargeting (HTML5 Banners) | €5.00 | €150 | 10% |
+| **Google** | Display Targeting Classic (HTML5) | €4.00 | €120 | 8% |
+| **Google** | Display Targeting Responsive | €4.00 | €120 | 8% |
+| **Google** | Display Retargeting Classic (HTML5) | €2.50 | €75 | 5% |
+| **Google** | Display Retargeting Responsive | €2.50 | €75 | 5% |
 | **Google** | YouTube Targeting | €3.33 | €100 | 7% |
 | **Meta** | Facebook Targeting | €10.00 | €300 | 20% |
 | **Meta** | Facebook Retargeting | €6.67 | €200 | 13% |
@@ -152,8 +171,9 @@ utm_term       = [audience_segment] (for search only)
 - Meta campaigns showed best Cost per Result: €0.22 to €0.34 per link click
 - Google Display CPM: €1.13 to €7.98 (variable)
 - YouTube Non skippable CPM: €6.42 to €6.67
-- HTML5 banners available for both Targeting and Retargeting campaigns
-- Prioritize Meta for volume, Google Display for reach across GDN
+- **Classic HTML5 Display:** Higher quality, more interactive banners
+- **Responsive Display:** Wider reach, auto optimized placements, uses temporary landscape crops
+- Split Display budget 50/50 between Classic and Responsive to test performance
 
 ---
 
@@ -308,7 +328,12 @@ kündigen
 
 ## 4. Google Display Campaigns
 
-### IMPORTANT: HTML5 Banner Assets
+### IMPORTANT: Two Campaign Types
+
+We run both **Classic Display (HTML5 banners)** and **Responsive Display Ads** for maximum reach:
+
+1. **Classic Display (HTML5):** Higher quality, animated banners with more control
+2. **Responsive Display:** Auto optimized, wider placement reach
 
 **All HTML5 banners are located in:** `Google/Retargeting/Banners/HTML5/`
 
@@ -319,9 +344,13 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 - **Genossenschaft:** Stabilitaet, Zukunft
 - **Testimonial (Retargeting only):** Sarah
 
+**Responsive Display Image Sources:**
+- **Landscape (1200x628):** Cropped from `Google/RAW/` folder ⚠️ TEMPORARY - REPLACE WHEN DESIGN READY
+- **Square (1080x1080):** From `Social Media/Targeting/Posts/Carousels/1080x1080/` folder ✓
+
 ---
 
-### Campaign A: Display Targeting Grünstrom
+### Campaign A: Display Targeting Grünstrom (Classic HTML5)
 `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom`
 
 **Settings:**
@@ -335,7 +364,7 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | Location | Upper Austria, Austria |
 | Language | German |
 | Bid Strategy | Target CPM (€3.00) |
-| Daily Budget | €4.00 |
+| Daily Budget | €2.00 |
 | Frequency Cap | 5 impressions per user per day |
 
 **Audience Targeting:**
@@ -383,7 +412,91 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 
 ---
 
-### Campaign B: Display Targeting Genossenschaft
+### Campaign A2: Display Targeting Grünstrom (Responsive)
+`[Display > Responsive > Targeting > Upper Austria > 30+] Gruenstrom`
+
+**Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Campaign Type | Display |
+| Campaign Subtype | Standard Display Campaign |
+| Goal | Website Traffic |
+| Network | Display Network |
+| Location | Upper Austria, Austria |
+| Language | German |
+| Bid Strategy | Target CPM (€3.00) |
+| Daily Budget | €2.00 |
+| Frequency Cap | 5 impressions per user per day |
+
+**Audience Targeting:** Same as Classic campaign above.
+
+---
+
+#### Responsive Display Ad: Sonne
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=responsive_sonne` |
+| Landscape Image (1200x628) | Google/RAW/[Sonne image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png |
+| Headline 1 | Unsere Sonne, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Regional. Fair. Grün. |
+| Headline 4 | Grünstrom aus dem Mühlviertel |
+| Headline 5 | Sonnenenergie für die Region |
+| Long Headline | Unsere Sonne, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
+| Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
+| Description 2 | Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Mach jetzt mit! |
+| Description 3 | Strom vom Mühlviertel: Fair, Regional und Grün. Von Bürger:innen, für Bürger:innen. |
+| Description 4 | Mia Mühlviertel san ned Deppad! Sonnenenergie aus der Region. Jetzt informieren! |
+| Business Name | Regios Energiegenossenschaft |
+
+---
+
+#### Responsive Display Ad: Wasser
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=responsive_wasser` |
+| Landscape Image (1200x628) | Google/RAW/[Wasser image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png |
+| Headline 1 | Unser Wasser, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Regional. Fair. Grün. |
+| Headline 4 | Wasserkraft aus dem Mühlviertel |
+| Headline 5 | Regionale Wasserkraft |
+| Long Headline | Unser Wasser, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
+| Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
+| Description 2 | Über 18 Gemeinden aus dem Mühlviertel sind schon dabei. Werde Teil der Bewegung! |
+| Description 3 | Strom vom Mühlviertel: Fair, Regional und Grün. Von Bürger:innen, für Bürger:innen. |
+| Description 4 | Mia Mühlviertel san ned Deppad! Wasserkraft aus der Region. Jetzt informieren! |
+| Business Name | Regios Energiegenossenschaft |
+
+---
+
+#### Responsive Display Ad: Wind
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=responsive_wind` |
+| Landscape Image (1200x628) | Google/RAW/[Wind image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png |
+| Headline 1 | Unser Wind, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Regional. Fair. Grün. |
+| Headline 4 | Windenergie aus dem Mühlviertel |
+| Headline 5 | Regionale Windkraft |
+| Long Headline | Unser Wind, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
+| Description 1 | Stärken wir gemeinsam das Mühlviertel. Investiere in die Stabilität der Region. |
+| Description 2 | Über 15 Leitbetriebe aus dem Mühlviertel sind schon dabei. Jetzt informieren! |
+| Description 3 | Strom vom Mühlviertel: Fair, Regional und Grün. Von Bürger:innen, für Bürger:innen. |
+| Description 4 | Mia Mühlviertel san ned Deppad! Windenergie aus der Region. Jetzt informieren! |
+| Business Name | Regios Energiegenossenschaft |
+
+---
+
+### Campaign B: Display Targeting Genossenschaft (Classic HTML5)
 `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft`
 
 **Settings:**
@@ -397,7 +510,7 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | Location | Upper Austria, Austria |
 | Language | German |
 | Bid Strategy | Target CPM (€3.00) |
-| Daily Budget | €4.00 |
+| Daily Budget | €2.00 |
 | Frequency Cap | 5 impressions per user per day |
 
 **Audience Targeting:**
@@ -436,7 +549,70 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 
 ---
 
-### Campaign C: Display Retargeting
+### Campaign B2: Display Targeting Genossenschaft (Responsive)
+`[Display > Responsive > Targeting > Upper Austria > 30+] Genossenschaft`
+
+**Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Campaign Type | Display |
+| Campaign Subtype | Standard Display Campaign |
+| Goal | Website Traffic |
+| Network | Display Network |
+| Location | Upper Austria, Austria |
+| Language | German |
+| Bid Strategy | Target CPM (€3.00) |
+| Daily Budget | €2.00 |
+| Frequency Cap | 5 impressions per user per day |
+
+**Audience Targeting:** Same as Classic campaign above.
+
+---
+
+#### Responsive Display Ad: Stabilitaet
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=responsive_stabilitaet` |
+| Landscape Image (1200x628) | Google/RAW/[Stabilitaet image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png |
+| Headline 1 | Unsere Stabilität, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Investiere in die Region |
+| Headline 4 | Wirtschaftliche Stabilität |
+| Headline 5 | Beteiligung am Mühlviertel |
+| Long Headline | Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS |
+| Description 1 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € bereits in die Region investiert. |
+| Description 2 | Mia Mühlviertel entscheiden selber wie es uns weitergeht. Jetzt Mitglied werden! |
+| Description 3 | Regios: Ein Energiemodell für regionale Selbstbestimmung und wirtschaftliche Stabilität. |
+| Description 4 | Mach jetzt gleich mit bei der Energiegenossenschaft. Von Bürger:innen, für Bürger:innen. |
+| Business Name | Regios Energiegenossenschaft |
+
+---
+
+#### Responsive Display Ad: Zukunft
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=responsive_zukunft` |
+| Landscape Image (1200x628) | Google/RAW/[Zukunft image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png |
+| Headline 1 | Unsere Zukunft, UNSERE ENERGIE |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Gemeinsam stark |
+| Headline 4 | Zukunft fürs Mühlviertel |
+| Headline 5 | Nachhaltige Energie |
+| Long Headline | Ein Modell für regionale Selbstbestimmung, Stabilität und eine lebenswerte Zukunft |
+| Description 1 | Mach jetzt gleich mit bei der Energiegenossenschaft. Über 18 Gemeinden sind schon dabei! |
+| Description 2 | Zeigen wir was unser kleines Bauernland drauf hat! Von Bürger:innen, für Bürger:innen. |
+| Description 3 | Stärken wir gemeinsam das Mühlviertel. Jetzt Teil der Energiegenossenschaft werden! |
+| Description 4 | Mia Mühlviertel san ned Deppad! Gemeinsam für eine nachhaltige Zukunft. |
+| Business Name | Regios Energiegenossenschaft |
+
+---
+
+### Campaign C: Display Retargeting (Classic HTML5)
 `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting`
 
 **Settings:**
@@ -450,7 +626,7 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | Location | Upper Austria, Austria |
 | Language | German |
 | Bid Strategy | Target CPA (€2.00) |
-| Daily Budget | €5.00 |
+| Daily Budget | €2.50 |
 | Frequency Cap | 3 impressions per user per day |
 
 **Audience Targeting:**
@@ -532,6 +708,94 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | 320x100 | Google/Retargeting/Banners/HTML5/Sarah_320x100.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_320x100` |
 | 336x280 | Google/Retargeting/Banners/HTML5/Sarah_336x280.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_336x280` |
 | 728x90 | Google/Retargeting/Banners/HTML5/Sarah_728X90.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_728x90` |
+
+---
+
+### Campaign C2: Display Retargeting (Responsive)
+`[Display > Responsive > Retargeting > Upper Austria > 30+] Retargeting`
+
+**Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Campaign Type | Display |
+| Campaign Subtype | Standard Display Campaign |
+| Goal | Website Traffic |
+| Network | Display Network |
+| Location | Upper Austria, Austria |
+| Language | German |
+| Bid Strategy | Target CPA (€2.00) |
+| Daily Budget | €2.50 |
+| Frequency Cap | 3 impressions per user per day |
+
+**Audience Targeting:**
+- Remarketing Lists: Website Visitors (All) Past 30 days
+- Audience: Bürger (visitors to /buerger)
+- Audience: Genossenschaft (visitors to /beteiligung)
+- Audience: Grünstrom (visitors to /regionaler gruenstrom)
+
+---
+
+#### Responsive Display Ad: Grünstrom Retargeting
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=responsive_gruenstrom` |
+| Landscape Image (1200x628) | Google/RAW/[Grünstrom image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png |
+| Headline 1 | Du warst schon bei uns! |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Grünstrom aus dem Mühlviertel |
+| Headline 4 | Jetzt Teil werden |
+| Headline 5 | UNSERE ENERGIE REGIOS |
+| Long Headline | Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS |
+| Description 1 | Du hast dich schon über Regios informiert. Jetzt ist der richtige Zeitpunkt! |
+| Description 2 | Strom vom Mühlviertel: Fair, Regional und Grün. Von Bürger:innen, für Bürger:innen. |
+| Description 3 | Mia Mühlviertel san ned Deppad! Stärken wir gemeinsam das Mühlviertel! |
+| Description 4 | Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Mach jetzt mit! |
+| Business Name | Regios Energiegenossenschaft |
+
+---
+
+#### Responsive Display Ad: Genossenschaft Retargeting
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=responsive_genossenschaft` |
+| Landscape Image (1200x628) | Google/RAW/[Genossenschaft image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png |
+| Headline 1 | Bereit für den nächsten Schritt? |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Investiere in die Region |
+| Headline 4 | Werde Mitglied |
+| Headline 5 | UNSERE ENERGIE REGIOS |
+| Long Headline | Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS |
+| Description 1 | Du hast dich schon über Regios informiert. Mach jetzt gleich mit bei der Energiegenossenschaft! |
+| Description 2 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € bereits in die Region investiert. |
+| Description 3 | Mia Mühlviertel entscheiden selber wie es uns weitergeht. Jetzt Mitglied werden! |
+| Description 4 | Zeigen wir was unser kleines Bauernland drauf hat! Von Bürger:innen, für Bürger:innen. |
+| Business Name | Regios Energiegenossenschaft |
+
+---
+
+#### Responsive Display Ad: Sarah Testimonial Retargeting (BOFU)
+
+| Field | Content |
+|-------|---------|
+| Final URL | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=responsive_sarah` |
+| Landscape Image (1200x628) | Google/RAW/[Sarah image cropped] ⚠️ TEMPORARY |
+| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_1.png |
+| Headline 1 | Unsere Sarah, Unsere Gemeinschaft |
+| Headline 2 | Mia san ned Deppad |
+| Headline 3 | Von Bürger:innen für Bürger:innen |
+| Headline 4 | Jetzt Mitglied werden |
+| Headline 5 | UNSERE ENERGIE REGIOS |
+| Long Headline | Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
+| Description 1 | Sarah aus dem Mühlviertel empfiehlt Regios. Erfahre warum immer mehr Bürger:innen dabei sind! |
+| Description 2 | Mia Mühlviertel san ned Deppad! Gemeinsam schaffen wir Stabilität und Zukunft! |
+| Description 3 | Stärken wir gemeinsam das Mühlviertel. Jetzt Teil der Energiegenossenschaft werden! |
+| Description 4 | Über 18 Gemeinden und 15 Leitbetriebe sind schon dabei. Werde Teil der Bewegung! |
+| Business Name | Regios Energiegenossenschaft |
 
 ---
 
@@ -1731,9 +1995,12 @@ Not Sure/Video/30 Sek Kurz - Strom - TV - 9-16 - V1 mit URL.mp4
 | Campaign Name | Type | Daily Budget |
 |---------------|------|--------------|
 | `[Search > Brand+Generic > Upper Austria > 30+] Regios` | Search | €5.00 |
-| `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom` | Display (HTML5) | €4.00 |
-| `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft` | Display (HTML5) | €4.00 |
-| `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting` | Display RT (HTML5) | €5.00 |
+| `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom` | Display Classic (HTML5) | €2.00 |
+| `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft` | Display Classic (HTML5) | €2.00 |
+| `[Display > Responsive > Targeting > Upper Austria > 30+] Gruenstrom` | Display Responsive | €2.00 |
+| `[Display > Responsive > Targeting > Upper Austria > 30+] Genossenschaft` | Display Responsive | €2.00 |
+| `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting` | Display Classic RT (HTML5) | €2.50 |
+| `[Display > Responsive > Retargeting > Upper Austria > 30+] Retargeting` | Display Responsive RT | €2.50 |
 | `[Video > Non skippable > Muehviertel > 30+] 15 Sek Strom` | YouTube | €3.33 |
 
 ### Meta Campaigns
