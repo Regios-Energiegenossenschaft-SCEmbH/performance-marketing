@@ -880,39 +880,6 @@ kündigen
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=video30_genossenschaft_feed_story` |
 
-**Ad 2: Genossenschaft Sonne 15s (Feed 1:1 + Story 9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video Feed (1:1) | `15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` |
-| Video Story (9:16) | `15 Sek Genossenschaft - Sonne - Online - 9-16 - V1.mp4` |
-| Primary Text | ☀️ Investiere in Sonnenenergie aus dem Mühlviertel<br><br>Mia san ned Deppad! Werde Teil der Regios Energiegenossenschaft und profitiere von nachhaltigen Investitionspaketen.<br><br>Zeigen wir was unser kleines Bauernland drauf hat!<br><br>🌱 Von Bürger:innen, für Bürger:innen. |
-| Headline | Beteiligung an Sonnenenergie |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_sonne&utm_content=video15_genossenschaft_sonne_feed_story` |
-
-**Ad 3: Genossenschaft Wasser 15s (Feed 1:1 + Story 9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video Feed (1:1) | `15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` |
-| Video Story (9:16) | `15 Sek Genossenschaft - Wasser - Online - 9-16 - V1.mp4` |
-| Primary Text | 💧 Investiere in Wasserkraft aus dem Mühlviertel<br><br>Mia Mühlviertel san ned Deppad! Gemeinsames Eigentum für regionale Energieversorgung. Sichere dir deinen Anteil!<br><br>🌱 Fair. Regional. Zukunftsorientiert. |
-| Headline | Beteiligung an Wasserkraft |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wasser&utm_content=video15_genossenschaft_wasser_feed_story` |
-
-**Ad 4: Genossenschaft Wind 15s (Feed 1:1 + Story 9:16)**
-
-| Field | Content |
-|-------|---------|
-| Video Feed (1:1) | `15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` |
-| Video Story (9:16) | `15 Sek Genossenschaft - Wind - Online - 9-16 - V1.mp4` |
-| Primary Text | 🌬️ Investiere in Windenergie aus dem Mühlviertel<br><br>Mia san ned Deppad! Selbstbestimmung über die regionale Energieversorgung durch gemeinsames Eigentum.<br><br>🌱 Gemeinsam stark für die Zukunft. |
-| Headline | Beteiligung an Windenergie |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=social&utm_campaign=genossenschaft_tofu_wind&utm_content=video15_genossenschaft_wind_feed_story` |
-
 ---
 
 ### Campaign C: Targeting Carousels
@@ -1479,9 +1446,6 @@ These must be replaced with properly designed landscape assets when the design t
 | Ad | Theme | Video Feed (1:1) | Video Story (9:16) |
 |----|-------|-----------------|-------------------|
 | Ad 1 | Genossenschaft 30s | `Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` | `Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
-| Ad 2 | Genossenschaft Sonne 15s | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 9-16 - V1.mp4` |
-| Ad 3 | Genossenschaft Wasser 15s | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 9-16 - V1.mp4` |
-| Ad 4 | Genossenschaft Wind 15s | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 9-16 - V1.mp4` |
 
 ---
 
