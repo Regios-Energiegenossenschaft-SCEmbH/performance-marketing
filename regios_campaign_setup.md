@@ -157,8 +157,7 @@ utm_term       = [audience_segment] (for search only)
 | **Google** | Search (Brand/Generic) | €5.00 | €150 | 10% |
 | **Google** | Display Targeting Classic (HTML5) | €4.00 | €120 | 8% |
 | **Google** | Display Targeting Responsive | €4.00 | €120 | 8% |
-| **Google** | Display Retargeting Classic (HTML5) | €2.50 | €75 | 5% |
-| **Google** | Display Retargeting Responsive | €2.50 | €75 | 5% |
+| **Google** | Display Retargeting Classic (HTML5) | €5.00 | €150 | 10% |
 | **Google** | YouTube Targeting | €3.33 | €100 | 7% |
 | **Meta** | Facebook Targeting | €10.00 | €300 | 20% |
 | **Meta** | Facebook Retargeting | €6.67 | €200 | 13% |
@@ -171,9 +170,9 @@ utm_term       = [audience_segment] (for search only)
 - Meta campaigns showed best Cost per Result: €0.22 to €0.34 per link click
 - Google Display CPM: €1.13 to €7.98 (variable)
 - YouTube Non skippable CPM: €6.42 to €6.67
-- **Classic HTML5 Display:** Higher quality, more interactive banners
-- **Responsive Display:** Wider reach, auto optimized placements, uses temporary landscape crops
-- Split Display budget 50/50 between Classic and Responsive to test performance
+- **Targeting:** Both Classic HTML5 AND Responsive Display Ads (to test which performs better)
+- **Retargeting:** Classic HTML5 ONLY (higher quality for warm audiences)
+- **Responsive Display image sources:** Landscape from Google/RAW (temporary), Square from Social Media Carousels
 
 ---
 
@@ -328,25 +327,27 @@ kündigen
 
 ## 4. Google Display Campaigns
 
-### IMPORTANT: Two Campaign Types
+### Campaign Structure Overview
 
-We run both **Classic Display (HTML5 banners)** and **Responsive Display Ads** for maximum reach:
+| Campaign Type | Ad Format | Purpose |
+|---------------|-----------|---------|
+| **Targeting Classic** | HTML5 Banners | Prospecting with high-quality animated banners |
+| **Targeting Responsive** | Responsive Display Ads | Prospecting with auto-optimized placements |
+| **Retargeting Classic** | HTML5 Banners | Remarketing with high-quality animated banners |
 
-1. **Classic Display (HTML5):** Higher quality, animated banners with more control
-2. **Responsive Display:** Auto optimized, wider placement reach
+**Note:** We use Responsive Display Ads for TARGETING only. Retargeting uses Classic HTML5 only.
 
-**All HTML5 banners are located in:** `Google/Retargeting/Banners/HTML5/`
+---
 
-Despite the folder name "Retargeting", these banners can be used for both Targeting (prospecting) and Retargeting campaigns.
+### Asset Sources
 
-**Available Themes:**
-- **Grünstrom:** Wasser, Wind, Licht (Sonne)
-- **Genossenschaft:** Stabilitaet, Zukunft
-- **Testimonial (Retargeting only):** Sarah
+**Classic Display (HTML5 Banners):**
+- Location: `Google/Retargeting/Banners/HTML5/`
+- Themes: Wasser, Wind, Licht (Sonne), Stabilitaet, Zukunft, Sarah
 
-**Responsive Display Image Sources:**
-- **Landscape (1200x628):** Cropped from `Google/RAW/` folder ⚠️ TEMPORARY - REPLACE WHEN DESIGN READY
-- **Square (1080x1080):** From `Social Media/Targeting/Posts/Carousels/1080x1080/` folder ✓
+**Responsive Display Ads:**
+- Landscape (1200x628): `Google/RAW/` folder ⚠️ TEMPORARY CROPS - REPLACE WHEN DESIGN READY
+- Square (1080x1080): `Social Media/Targeting/Posts/Carousels/1080x1080/` folder ✓
 
 ---
 
@@ -364,7 +365,7 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | Location | Upper Austria, Austria |
 | Language | German |
 | Bid Strategy | Target CPM (€3.00) |
-| Daily Budget | €2.00 (Split: €4.00 total for Classic Targeting across Grünstrom + Genossenschaft) |
+| Daily Budget | €2.00 |
 | Frequency Cap | 5 impressions per user per day |
 
 **Audience Targeting:**
@@ -626,7 +627,7 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | Location | Upper Austria, Austria |
 | Language | German |
 | Bid Strategy | Target CPA (€2.00) |
-| Daily Budget | €2.50 |
+| Daily Budget | €5.00 |
 | Frequency Cap | 3 impressions per user per day |
 
 **Audience Targeting:**
@@ -708,94 +709,6 @@ Despite the folder name "Retargeting", these banners can be used for both Target
 | 320x100 | Google/Retargeting/Banners/HTML5/Sarah_320x100.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_320x100` |
 | 336x280 | Google/Retargeting/Banners/HTML5/Sarah_336x280.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_336x280` |
 | 728x90 | Google/Retargeting/Banners/HTML5/Sarah_728X90.zip | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=banner_sarah_728x90` |
-
----
-
-### Campaign C2: Display Retargeting (Responsive)
-`[Display > Responsive > Retargeting > Upper Austria > 30+] Retargeting`
-
-**Settings:**
-
-| Setting | Value |
-|---------|-------|
-| Campaign Type | Display |
-| Campaign Subtype | Standard Display Campaign |
-| Goal | Website Traffic |
-| Network | Display Network |
-| Location | Upper Austria, Austria |
-| Language | German |
-| Bid Strategy | Target CPA (€2.00) |
-| Daily Budget | €2.50 |
-| Frequency Cap | 3 impressions per user per day |
-
-**Audience Targeting:**
-- Remarketing Lists: Website Visitors (All) Past 30 days
-- Audience: Bürger (visitors to /buerger)
-- Audience: Genossenschaft (visitors to /beteiligung)
-- Audience: Grünstrom (visitors to /regionaler gruenstrom)
-
----
-
-#### Responsive Display Ad: Grünstrom Retargeting
-
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=responsive_gruenstrom` |
-| Landscape Image (1200x628) | Google/RAW/[Grünstrom image cropped] ⚠️ TEMPORARY |
-| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png |
-| Headline 1 | Du warst schon bei uns! |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Grünstrom aus dem Mühlviertel |
-| Headline 4 | Jetzt Teil werden |
-| Headline 5 | UNSERE ENERGIE REGIOS |
-| Long Headline | Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS |
-| Description 1 | Du hast dich schon über Regios informiert. Jetzt ist der richtige Zeitpunkt! |
-| Description 2 | Strom vom Mühlviertel: Fair, Regional und Grün. Von Bürger:innen, für Bürger:innen. |
-| Description 3 | Mia Mühlviertel san ned Deppad! Stärken wir gemeinsam das Mühlviertel! |
-| Description 4 | Über 2 Millionen Euro wurden schon in das Mühlviertel investiert. Mach jetzt mit! |
-| Business Name | Regios Energiegenossenschaft |
-
----
-
-#### Responsive Display Ad: Genossenschaft Retargeting
-
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_mofu_retargeting&utm_content=responsive_genossenschaft` |
-| Landscape Image (1200x628) | Google/RAW/[Genossenschaft image cropped] ⚠️ TEMPORARY |
-| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png |
-| Headline 1 | Bereit für den nächsten Schritt? |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Investiere in die Region |
-| Headline 4 | Werde Mitglied |
-| Headline 5 | UNSERE ENERGIE REGIOS |
-| Long Headline | Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS |
-| Description 1 | Du hast dich schon über Regios informiert. Mach jetzt gleich mit bei der Energiegenossenschaft! |
-| Description 2 | Investiere in die Stabilität des Mühlviertel. Über 2 Mio. € bereits in die Region investiert. |
-| Description 3 | Mia Mühlviertel entscheiden selber wie es uns weitergeht. Jetzt Mitglied werden! |
-| Description 4 | Zeigen wir was unser kleines Bauernland drauf hat! Von Bürger:innen, für Bürger:innen. |
-| Business Name | Regios Energiegenossenschaft |
-
----
-
-#### Responsive Display Ad: Sarah Testimonial Retargeting (BOFU)
-
-| Field | Content |
-|-------|---------|
-| Final URL | `https://www.regios.at/buerger?utm_source=google&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=responsive_sarah` |
-| Landscape Image (1200x628) | Google/RAW/[Sarah image cropped] ⚠️ TEMPORARY |
-| Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_1.png |
-| Headline 1 | Unsere Sarah, Unsere Gemeinschaft |
-| Headline 2 | Mia san ned Deppad |
-| Headline 3 | Von Bürger:innen für Bürger:innen |
-| Headline 4 | Jetzt Mitglied werden |
-| Headline 5 | UNSERE ENERGIE REGIOS |
-| Long Headline | Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS |
-| Description 1 | Sarah aus dem Mühlviertel empfiehlt Regios. Erfahre warum immer mehr Bürger:innen dabei sind! |
-| Description 2 | Mia Mühlviertel san ned Deppad! Gemeinsam schaffen wir Stabilität und Zukunft! |
-| Description 3 | Stärken wir gemeinsam das Mühlviertel. Jetzt Teil der Energiegenossenschaft werden! |
-| Description 4 | Über 18 Gemeinden und 15 Leitbetriebe sind schon dabei. Werde Teil der Bewegung! |
-| Business Name | Regios Energiegenossenschaft |
 
 ---
 
@@ -1443,76 +1356,100 @@ This section maps every available asset to its specific campaign, ad group, and 
 
 ---
 
-### GOOGLE CAMPAIGNS
-
-#### Google Search Campaign
-`[Search > Brand+Generic > Upper Austria > 30+] Regios`
-
-No creative assets required (text ads only).
+### GOOGLE DISPLAY CAMPAIGNS
 
 ---
 
-#### Google Display Campaign: Targeting Grünstrom
+#### Campaign A: Display Targeting Grünstrom (Classic HTML5)
 `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom`
 
-**Note:** No HTML5 banners available for targeting. Use Responsive Display Ads with uploaded images or request banner creation.
+**Ad Format:** HTML5 Banners
 
-**Recommended:** Use static images from carousel assets as fallback:
-
-| Ad Group | Theme | Image Assets for Responsive Display |
-|----------|-------|-------------------------------------|
-| Sonne | Sonnenenergie | Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png |
-| Wasser | Wasserkraft | Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png |
-| Wind | Windenergie | Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png |
+| Ad Group | Theme | HTML5 Banner Files | Sizes |
+|----------|-------|-------------------|-------|
+| Ad Group 1 | Wasser | `Google/Retargeting/Banners/HTML5/Wasser_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
+| Ad Group 2 | Wind | `Google/Retargeting/Banners/HTML5/Wind_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
+| Ad Group 3 | Licht (Sonne) | `Google/Retargeting/Banners/HTML5/Licht_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
 
 ---
 
-#### Google Display Campaign: Targeting Genossenschaft
+#### Campaign A2: Display Targeting Grünstrom (Responsive)
+`[Display > Responsive > Targeting > Upper Austria > 30+] Gruenstrom`
+
+**Ad Format:** Responsive Display Ads
+
+| Ad | Theme | Landscape Image (1200x628) | Square Image (1080x1080) |
+|----|-------|---------------------------|-------------------------|
+| RDA 1 | Sonne | `Google/RAW/[Sonne cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png` |
+| RDA 2 | Wasser | `Google/RAW/[Wasser cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png` |
+| RDA 3 | Wind | `Google/RAW/[Wind cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png` |
+
+---
+
+#### Campaign B: Display Targeting Genossenschaft (Classic HTML5)
 `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft`
 
-**Note:** No HTML5 banners available for targeting. Use Responsive Display Ads with uploaded images.
+**Ad Format:** HTML5 Banners
 
-**Recommended:** Use static images from carousel assets:
-
-| Ad Group | Theme | Image Assets for Responsive Display |
-|----------|-------|-------------------------------------|
-| Stabilität | Wirtschaftliche Stabilität | Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png |
-| Zukunft | Lebenswerte Zukunft | Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png |
-| Mitgliedschaft | Genossenschaft | Social Media/Targeting/Posts/Carousels/1080x1080/mitglied/Miedglied Energie_1080x1080_1.png |
+| Ad Group | Theme | HTML5 Banner Files | Sizes |
+|----------|-------|-------------------|-------|
+| Ad Group 1 | Stabilitaet | `Google/Retargeting/Banners/HTML5/Stabilitaet_[SIZE].zip` | 160x600, 300x250, 300x600, 320x50, 320x100, 336x280, 728x90, 970x250 |
+| Ad Group 2 | Zukunft | `Google/Retargeting/Banners/HTML5/Zukunft_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
 
 ---
 
-#### Google Display Campaign: Retargeting
+#### Campaign B2: Display Targeting Genossenschaft (Responsive)
+`[Display > Responsive > Targeting > Upper Austria > 30+] Genossenschaft`
+
+**Ad Format:** Responsive Display Ads
+
+| Ad | Theme | Landscape Image (1200x628) | Square Image (1080x1080) |
+|----|-------|---------------------------|-------------------------|
+| RDA 1 | Stabilitaet | `Google/RAW/[Stabilitaet cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png` |
+| RDA 2 | Zukunft | `Google/RAW/[Zukunft cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png` |
+
+---
+
+#### Campaign C: Display Retargeting (Classic HTML5 ONLY)
 `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting`
+
+**Ad Format:** HTML5 Banners ONLY (no Responsive for Retargeting)
 
 **Ad Group 1: Grünstrom Retargeting**
 
-| Theme | Banner File | Sizes |
-|-------|-------------|-------|
-| Wasser | Google/Retargeting/Banners/HTML5/Wasser_[SIZE].zip | 300x250, 300x600, 320x50, 336x280, 728x90 |
-| Wind | Google/Retargeting/Banners/HTML5/Wind_[SIZE].zip | 300x250, 300x600, 320x50, 336x280, 728x90 |
-| Licht (Sonne) | Google/Retargeting/Banners/HTML5/Licht_[SIZE].zip | 300x250, 300x600, 320x50, 336x280, 728x90 |
+| Theme | HTML5 Banner Files | Sizes |
+|-------|-------------------|-------|
+| Wasser | `Google/Retargeting/Banners/HTML5/Wasser_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
+| Wind | `Google/Retargeting/Banners/HTML5/Wind_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
+| Licht (Sonne) | `Google/Retargeting/Banners/HTML5/Licht_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
 
-**Complete Wasser Banner Set:**
+**Ad Group 2: Genossenschaft Retargeting**
+
+| Theme | HTML5 Banner Files | Sizes |
+|-------|-------------------|-------|
+| Stabilitaet | `Google/Retargeting/Banners/HTML5/Stabilitaet_[SIZE].zip` | 160x600, 300x250, 300x600, 320x50, 320x100, 336x280, 728x90, 970x250 |
+| Zukunft | `Google/Retargeting/Banners/HTML5/Zukunft_[SIZE].zip` | 300x250, 300x600, 320x50, 336x280, 728x90 |
+| Sarah (BOFU) | `Google/Retargeting/Banners/HTML5/Sarah_[SIZE].zip` | 300x250, 300x600, 320x50, 320x100, 336x280, 728x90 |
+
+---
+
+### COMPLETE HTML5 BANNER FILE LIST
+
+**Grünstrom Themes:**
+
 ```
 Google/Retargeting/Banners/HTML5/Wasser_300x250.zip
 Google/Retargeting/Banners/HTML5/Wasser_300x600.zip
 Google/Retargeting/Banners/HTML5/Wasser_320x50.zip
 Google/Retargeting/Banners/HTML5/Wasser_336x280.zip
 Google/Retargeting/Banners/HTML5/Wasser_728x90.zip
-```
 
-**Complete Wind Banner Set:**
-```
 Google/Retargeting/Banners/HTML5/Wind_300x250.zip
 Google/Retargeting/Banners/HTML5/Wind_300x600.zip
 Google/Retargeting/Banners/HTML5/Wind_320x50.zip
 Google/Retargeting/Banners/HTML5/Wind_336x280.zip
 Google/Retargeting/Banners/HTML5/Wind_728x90.zip
-```
 
-**Complete Licht (Sonne) Banner Set:**
-```
 Google/Retargeting/Banners/HTML5/Licht_300x250.zip
 Google/Retargeting/Banners/HTML5/Licht_300x600.zip
 Google/Retargeting/Banners/HTML5/Licht_320x50.zip
@@ -1520,15 +1457,8 @@ Google/Retargeting/Banners/HTML5/Licht_336x280.zip
 Google/Retargeting/Banners/HTML5/Licht_728x90.zip
 ```
 
-**Ad Group 2: Genossenschaft Retargeting**
+**Genossenschaft Themes:**
 
-| Theme | Banner File | Sizes |
-|-------|-------------|-------|
-| Stabilitaet | Google/Retargeting/Banners/HTML5/Stabilitaet_[SIZE].zip | 160x600, 300x250, 300x600, 320x50, 320x100, 336x280, 728x90, 970x250 |
-| Zukunft | Google/Retargeting/Banners/HTML5/Zukunft_[SIZE].zip | 300x250, 300x600, 320x50, 336x280, 728x90 |
-| Sarah | Google/Retargeting/Banners/HTML5/Sarah_[SIZE].zip | 300x250, 300x600, 320x50, 320x100, 336x280, 728x90 |
-
-**Complete Stabilitaet Banner Set:**
 ```
 Google/Retargeting/Banners/HTML5/Stabilitaet_160x600.zip
 Google/Retargeting/Banners/HTML5/Stabilitaet_300x250.zip
@@ -1538,19 +1468,13 @@ Google/Retargeting/Banners/HTML5/Stabilitaet_320X100.zip
 Google/Retargeting/Banners/HTML5/Stabilitaet_336x280.zip
 Google/Retargeting/Banners/HTML5/Stabilitaet_728x90.zip
 Google/Retargeting/Banners/HTML5/Stabilitaet_970x250.zip
-```
 
-**Complete Zukunft Banner Set:**
-```
 Google/Retargeting/Banners/HTML5/Zukunft_300x250.zip
 Google/Retargeting/Banners/HTML5/Zukunft_300x600.zip
 Google/Retargeting/Banners/HTML5/Zukunft_320x50.zip
 Google/Retargeting/Banners/HTML5/Zukunft_336x280.zip
 Google/Retargeting/Banners/HTML5/Zukunft_728x90.zip
-```
 
-**Complete Sarah Banner Set:**
-```
 Google/Retargeting/Banners/HTML5/Sarah_300x250.zip
 Google/Retargeting/Banners/HTML5/Sarah_300x600.zip
 Google/Retargeting/Banners/HTML5/Sarah_320x50.zip
@@ -1561,354 +1485,132 @@ Google/Retargeting/Banners/HTML5/Sarah_728X90.zip
 
 ---
 
-#### Google YouTube Campaign: Targeting Grünstrom
+### RESPONSIVE DISPLAY AD IMAGE SOURCES
+
+**⚠️ LANDSCAPE IMAGES (1200x628) - TEMPORARY CROPS FROM:**
+`Google/RAW/`
+
+These must be replaced with properly designed landscape assets when the design team delivers them.
+
+**SQUARE IMAGES (1080x1080) - FROM:**
+`Social Media/Targeting/Posts/Carousels/1080x1080/`
+
+| Theme | Square Image File |
+|-------|------------------|
+| Sonne | `Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png` |
+| Wasser | `Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png` |
+| Wind | `Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png` |
+| Stabilitaet | `Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png` |
+| Zukunft | `Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png` |
+| Sicherheit | `Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_1.png` |
+| Sarah | `Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_1.png` |
+| Susanne | `Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_1.png` |
+
+---
+
+### GOOGLE YOUTUBE CAMPAIGN
+
+#### Campaign: YouTube Targeting Grünstrom
 `[Video > Non skippable > Muehviertel > 30+] 15 Sek Strom`
 
 | Ad Group | Theme | Video File |
 |----------|-------|------------|
-| Sonne | Sonnenenergie | Google/Targeting/Strom/15 Sek Strom - Sonne - Online - 16-9 - V1.mp4 |
-| Wasser | Wasserkraft | Google/Targeting/Strom/15 Sek Strom - Wasser - Online - 16-9 - V1.mp4 |
-| Wind | Windenergie | Google/Targeting/Strom/15 Sek Strom - Wind - Online - 16-9 - V1.mp4 |
+| Ad Group 1 | Sonne | `Google/Targeting/Strom/15 Sek Strom - Sonne - Online - 16-9 - V1.mp4` |
+| Ad Group 2 | Wasser | `Google/Targeting/Strom/15 Sek Strom - Wasser - Online - 16-9 - V1.mp4` |
+| Ad Group 3 | Wind | `Google/Targeting/Strom/15 Sek Strom - Wind - Online - 16-9 - V1.mp4` |
 
 ---
 
 ### META CAMPAIGNS
 
-#### Facebook Campaign: Targeting Grünstrom
+#### Facebook Targeting: Grünstrom
 `[Awareness > Auction > Muehviertel > 30+] Gruenstrom`
 
-**15 Second Videos (Posts 1:1)**
-
-| Ad | Theme | Video File |
-|----|-------|------------|
-| Ad 1 | Sonne | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Sonne - Online - 1-1 - V1.mp4 |
-| Ad 2 | Wasser | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wasser - Online - 1-1 - V1.mp4 |
-| Ad 3 | Wind | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wind - Online - 1-1 - V1.mp4 |
-
-**15 Second Videos (Stories 9:16)**
-
-| Ad | Theme | Video File |
-|----|-------|------------|
-| Ad 4 | Sonne | Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Sonne - Online - 9-16 - V3.mp4 |
-| Ad 5 | Wasser | Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wasser - Online - 9-16 - V3.mp4 |
-| Ad 6 | Wind | Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wind - Online - 9-16 - V3.mp4 |
-
-**30 Second Videos**
-
 | Ad | Theme | Placement | Video File |
 |----|-------|-----------|------------|
-| Ad 7 | Strom Gesamt | Post 1:1 | Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4 |
-| Ad 8 | Strom Gesamt | Story 9:16 | Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4 |
+| Ad 1 | Sonne | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Sonne - Online - 1-1 - V1.mp4` |
+| Ad 2 | Wasser | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wasser - Online - 1-1 - V1.mp4` |
+| Ad 3 | Wind | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wind - Online - 1-1 - V1.mp4` |
+| Ad 4 | Sonne | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Sonne - Online - 9-16 - V3.mp4` |
+| Ad 5 | Wasser | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wasser - Online - 9-16 - V3.mp4` |
+| Ad 6 | Wind | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/15 Sek Strom - Wind - Online - 9-16 - V3.mp4` |
+| Ad 7 | Strom 30s | Post 1:1 | `Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4` |
+| Ad 8 | Strom 30s | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4` |
 
 ---
 
-#### Facebook Campaign: Targeting Genossenschaft
+#### Facebook Targeting: Genossenschaft
 `[Traffic > Auction > Muehviertel > 30+] Genossenschaft`
 
-**30 Second Videos**
-
 | Ad | Theme | Placement | Video File |
 |----|-------|-----------|------------|
-| Ad 1 | Genossenschaft | Post 1:1 | Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4 |
-| Ad 2 | Genossenschaft | Story 9:16 | Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4 |
-
-**15 Second Videos (Genossenschaft themed)**
-
-| Ad | Theme | Placement | Video File |
-|----|-------|-----------|------------|
-| Ad 3 | Genossenschaft Sonne | Post 1:1 | Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4 |
-| Ad 4 | Genossenschaft Wasser | Post 1:1 | Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4 |
-| Ad 5 | Genossenschaft Wind | Post 1:1 | Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4 |
-
-**15 Second Videos (Genossenschaft Stories)**
-
-| Ad | Theme | Placement | Video File |
-|----|-------|-----------|------------|
-| Ad 6 | Genossenschaft Sonne | Story 9:16 | Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 9-16 - V1.mp4 |
-| Ad 7 | Genossenschaft Wasser | Story 9:16 | Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 9-16 - V1.mp4 |
-| Ad 8 | Genossenschaft Wind | Story 9:16 | Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 9-16 - V1.mp4 |
+| Ad 1 | Genossenschaft 30s | Post 1:1 | `Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4` |
+| Ad 2 | Genossenschaft 30s | Story 9:16 | `Social Media/Retargeting/Video/Targeting/FB/Story/30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4` |
+| Ad 3 | Genossenschaft Sonne 15s | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Sonne - Online - 1-1 - V1.mp4` |
+| Ad 4 | Genossenschaft Wasser 15s | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wasser - Online - 1-1 - V1.mp4` |
+| Ad 5 | Genossenschaft Wind 15s | Post 1:1 | `Social Media/Targeting/Video/15 Sek - Genossenschaft/15 Sek Genossenschaft - Wind - Online - 1-1 - V1.mp4` |
 
 ---
 
-#### Facebook Campaign: Targeting Carousels
+#### Facebook Targeting: Carousels
 `[Traffic > Auction > Muehviertel > 30+] Carousels`
 
-**Grünstrom Carousels**
-
-| Carousel | Theme | Image Files (5 cards) |
-|----------|-------|----------------------|
-| Carousel 1 | Sonne | Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png through Sonne_1080x1080_5.png |
-| Carousel 2 | Wasser | Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png through wasser_1080x1080_5.png |
-| Carousel 3 | Wind | Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png through WInd_1080x1080_5.png |
-
-**Genossenschaft Carousels**
-
-| Carousel | Theme | Image Files (5 cards) |
-|----------|-------|----------------------|
-| Carousel 4 | Stabilitaet | Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png through Stabilitaet_1080x1080_5.png |
-| Carousel 5 | Zukunft | Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png through Zukunft_1080x1080_5.png |
-| Carousel 6 | Sicherheit | Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_1.png through Sicherheit_1080x1080_5.png |
-
-**Complete Sonne Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_5.png
-```
-
-**Complete Wasser Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_5.png
-```
-
-**Complete Wind Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_5.png
-```
-
-**Complete Stabilitaet Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_5.png
-```
-
-**Complete Zukunft Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_5.png
-```
-
-**Complete Sicherheit Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_5.png
-```
+| Carousel | Theme | Image Files (5 cards each) |
+|----------|-------|---------------------------|
+| Carousel 1 | Sonne | `Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_[1-5].png` |
+| Carousel 2 | Wasser | `Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_[1-5].png` |
+| Carousel 3 | Wind | `Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_[1-5].png` |
+| Carousel 4 | Stabilitaet | `Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_[1-5].png` |
+| Carousel 5 | Zukunft | `Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_[1-5].png` |
+| Carousel 6 | Sicherheit | `Social Media/Targeting/Posts/Carousels/1080x1080/Sicherheit/Sicherheit_1080x1080_[1-5].png` |
 
 ---
 
-#### Instagram Campaign: Targeting Grünstrom
+#### Instagram Targeting
 `[Awareness > Auction > Muehviertel > 30+] IG Gruenstrom`
-
-**15 Second Videos (Posts 1:1)**
-
-| Ad | Theme | Video File |
-|----|-------|------------|
-| Ad 1 | Sonne | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Sonne - Online - 1-1 - V1.mp4 |
-| Ad 2 | Wasser | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wasser - Online - 1-1 - V1.mp4 |
-| Ad 3 | Wind | Social Media/Targeting/Video/15 Sek - Strom/15 Sek Strom - Wind - Online - 1-1 - V1.mp4 |
-
-**15 Second Videos (Stories 9:16)**
-
-| Ad | Theme | Video File |
-|----|-------|------------|
-| Ad 4 | Sonne | Social Media/Retargeting/Video/Targeting/Instagram/Story/15 Sek Strom - Sonne - Online - 9-16 - V3.mp4 |
-| Ad 5 | Wasser | Social Media/Retargeting/Video/Targeting/Instagram/Story/15 Sek Strom - Wasser - Online - 9-16 - V3.mp4 |
-| Ad 6 | Wind | Social Media/Retargeting/Video/Targeting/Instagram/Story/15 Sek Strom - Wind - Online - 9-16 - V3.mp4 |
-
-**30 Second Videos**
-
-| Ad | Theme | Placement | Video File |
-|----|-------|-----------|------------|
-| Ad 7 | Strom Gesamt | Post 1:1 | Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Strom - TV - 1-1 - V1 ohne URL.mp4 |
-| Ad 8 | Strom Gesamt | Story 9:16 | Social Media/Retargeting/Video/Targeting/Instagram/Story/30 Sek Kurz - Strom - TV - 9-16 - V1 ohne URL.mp4 |
-
----
-
-#### Instagram Campaign: Targeting Genossenschaft
 `[Traffic > Auction > Muehviertel > 30+] IG Genossenschaft`
 
-**30 Second Videos**
-
-| Ad | Theme | Placement | Video File |
-|----|-------|-----------|------------|
-| Ad 1 | Genossenschaft | Post 1:1 | Social Media/Retargeting/Video/Targeting/Instagram/Post/30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 ohne URL.mp4 |
-| Ad 2 | Genossenschaft | Story 9:16 | Social Media/Retargeting/Video/Targeting/Instagram/Story/30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 ohne URL.mp4 |
-
-**Testimonial Carousels**
-
-| Carousel | Testimonial | Image Files (5 cards) |
-|----------|-------------|----------------------|
-| Carousel 1 | Sarah | Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_1.png through sarah_1080x1080_5.png |
-| Carousel 2 | Susanne | Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_1.png through susanne_1080x1080_5.png |
-
-**Complete Sarah Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sarah/sarah_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/sarah/sarah_1080x1080_5.png
-```
-
-**Complete Susanne Carousel Files:**
-```
-Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_1.png
-Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_2.png
-Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_3.png
-Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_4.png
-Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_5.png
-```
-
----
-
-#### Meta Campaign: Retargeting
-`[Traffic > Auction > Retargeting] Meta Retargeting`
-
-**Ad Set 1: Testimonial Videos Sarah (Priority 1 for Bürger)**
-
-| Ad | Video Type | Video File |
-|----|------------|------------|
-| Ad 1 | Sarah Short Warum Regios | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Short - Warum Regios.mp4 |
-| Ad 2 | Sarah Short Wertschöpfung | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Short - Wertschöpfung in der Region.mp4 |
-| Ad 3 | Sarah Short Gemeinsam Stark | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Short - Gemeinsam Stark.mp4 |
-| Ad 4 | Sarah Long | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Long - V1.mp4 |
-
-**Additional Sarah Short Videos Available:**
-```
-Testimonial - Sarah - Short - Persönlicher Ansprechpartner.mp4
-Testimonial - Sarah - Short - Produkte.mp4
-Testimonial - Sarah - Short - Risiko oder Chance.mp4
-Testimonial - Sarah - Short - Vorstellung.mp4
-Testimonial - Sarah - Short - Wie auf Regios gekommen.mp4
-Testimonial - Sarah - Short - Wirkungskraft.mp4
-Testimonial - Sarah - Short - Zweifel.mp4
-Testimonial - Sarah - Short - ws ist wichtig.mp4
-```
-
-**Ad Set 2: Testimonial Videos Peter (Priority 2 for Landwirtschaft)**
-
-| Ad | Video Type | Video File |
-|----|------------|------------|
-| Ad 5 | Peter Short Doppelnutzung | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Peter/Testimonial - Peter - Short - Doppelnutzung.mp4 |
-| Ad 6 | Peter Short Selbstversorger | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Peter/Testimonial - Peter - Short - Selbstversorger.mp4 |
-| Ad 7 | Peter Long | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Peter/Testimonial - Peter - Long - V1.mp4 |
-
-**Additional Peter Short Videos Available:**
-```
-Testimonial - Peter - Short - Risiko oder Chance.mp4
-Testimonial - Peter - Short - Vorstellung.mp4
-Testimonial - Peter - Short - regionale Energieversorgung.mp4
-Testimonial - Peter - Short - weiteres Standbein.mp4
-Testimonial - Peter - Short - wie kennengelernt.mp4
-```
-
-**Ad Set 3: Testimonial Videos Susanne (Priority 3 for Gemeinde)**
-
-| Ad | Video Type | Video File |
-|----|------------|------------|
-| Ad 8 | Susanne Short Warum Regios | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Susanne/Testimonial - Susanne - Short - Warum Regios.mp4 |
-| Ad 9 | Susanne Short USP | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Susanne/Testimonial - Susanne - Short - USP.mp4 |
-| Ad 10 | Susanne Long | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Susanne/Testimonial - Susanne - Long - mit Abbinder - V1.mp4 |
-
-**Additional Susanne Short Videos Available:**
-```
-Testimonial - Susanne - Short - Erreichbarkeit.mp4
-Testimonial - Susanne - Short - Regios wichtiger Partner für Energie.mp4
-Testimonial - Susanne - Short - Riskio oder Chance.mp4
-Testimonial - Susanne - Short - Sichtbare Veränderung.mp4
-Testimonial - Susanne - Short - gemeinsames Eigentum.mp4
-```
-
-**Ad Set 4: Testimonial Videos Norbert (Priority 4 for Alle)**
-
-| Ad | Video Type | Video File |
-|----|------------|------------|
-| Ad 11 | Norbert Short Sicherheit | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Norbert/Testimonial - Norbert - Short - Sicherheit.mp4 |
-| Ad 12 | Norbert Short Transparenz | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Norbert/Testimonial - Norbert - Short - Transparenz.mp4 |
-| Ad 13 | Norbert Long | Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Norbert/Testimonial - Norbert - Long - mit Abbinder - V1.mp4 |
-
-**Additional Norbert Short Videos Available:**
-```
-Testimonial - Norbert - Short - Banken als Partner.mp4
-Testimonial - Norbert - Short - Erreichbarkeit.mp4
-Testimonial - Norbert - Short - Nachhaltigkeit.mp4
-Testimonial - Norbert - Short - Risiko oder Chance.mp4
-Testimonial - Norbert - Short - Risiko.mp4
-Testimonial - Norbert - Short - Vertrauen.mp4
-Testimonial - Norbert - Short - Wirkungskraft.mp4
-```
-
-**Ad Set 5: Retargeting Carousels**
+Same video assets as Facebook, plus:
 
 | Carousel | Theme | Image Files |
 |----------|-------|-------------|
-| Carousel 1 | Grünstrom Elements | Mix of Sonne, Wasser, Wind carousel images |
-| Carousel 2 | Genossenschaft Values | Mix of Stabilitaet, Zukunft, Sicherheit carousel images |
+| Sarah | Testimonial | `Social Media/Targeting/Posts/Carousels/1080x1080/sarah/Sarah_1080x1080_[1-5].png` |
+| Susanne | Testimonial | `Social Media/Targeting/Posts/Carousels/1080x1080/susanne/susanne_1080x1080_[1-5].png` |
+
+---
+
+#### Meta Retargeting
+`[Traffic > Auction > Retargeting] Meta Retargeting`
+
+**Testimonial Videos (Priority Order):**
+
+| Priority | Testimonial | Video Files |
+|----------|-------------|-------------|
+| 1 | Sarah | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Short - Warum Regios.mp4` |
+| 1 | Sarah | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Short - Wertschöpfung in der Region.mp4` |
+| 1 | Sarah | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Short - Gemeinsam Stark.mp4` |
+| 1 | Sarah | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Sarah/Testimonial - Sarah - Long - V1.mp4` |
+| 2 | Peter | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Peter/Testimonial - Peter - Short - Doppelnutzung.mp4` |
+| 2 | Peter | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Peter/Testimonial - Peter - Long - V1.mp4` |
+| 3 | Susanne | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Susanne/Testimonial - Susanne - Short - Warum Regios.mp4` |
+| 3 | Susanne | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Susanne/Testimonial - Susanne - Long - mit Abbinder - V1.mp4` |
+| 4 | Norbert | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Norbert/Testimonial - Norbert - Short - Sicherheit.mp4` |
+| 4 | Norbert | `Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Norbert/Testimonial - Norbert - Long - mit Abbinder - V1.mp4` |
 
 ---
 
 ### ADDITIONAL AVAILABLE ASSETS (Not Currently Mapped)
 
-**Christian Testimonials (available for future use):**
-```
-Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Christian/
-├── Testimonial - Christian - Short - mit Abbinder - Bank als Entwicklungspartner.mp4
-├── Testimonial - Christian - Short - mit Abbinder - Fossiler zu erneuerbar.mp4
-├── Testimonial - Christian - Short - mit Abbinder - Langfristigkeit.mp4
-├── Testimonial - Christian - Short - mit Abbinder - Nachhaltigkeit.mp4
-├── Testimonial - Christian - Short - mit Abbinder - Sicherheit Stabilität.mp4
-├── Testimonial - Christian - Short - mit Abbinder - Transparenz.mp4
-├── Testimonial - Christian - Short - mit Abbinder - Vertrauen.mp4
-└── (and more...)
-```
+**Christian Testimonials:**
+`Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Christian/`
 
-**Klaus Testimonials (available for future use):**
-```
-Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Klaus/
-├── Testimonial - Klaus - Short - Energiekosten.mp4
-├── Testimonial - Klaus - Short - Kompetenz Regios.mp4
-├── Testimonial - Klaus - Short - Langfristigkeit.mp4
-├── Testimonial - Klaus - Short - Unabhängigkeit Selbstgestaltung.mp4
-├── Testimonial - Klaus - Short - Verantwortung der Region.mp4
-├── Testimonial - Klaus - Short - Vertrauen.mp4
-├── Testimonial - Klaus - Short - Wirkungskraft.mp4
-├── Testimonial - Klaus - Short - regionale Wertschöpfung.mp4
-└── Testimonial - Klaus - Short - stabile Preisentwicklung.mp4
-```
+**Klaus Testimonials:**
+`Social Media/Retargeting/Video/Retargeting/FB Feed/Retargeting/Testimonial - Klaus/`
 
-**Additional Carousel Formats Available:**
-
-| Format | Use Case | Path |
-|--------|----------|------|
-| 1080x1350 | Instagram Feed (Portrait) | Social Media/Targeting/Posts/Carousels/1080x1350/ |
-| 1080x1920 | Stories/Reels | Social Media/Targeting/Posts/Carousels/1080x1920/ |
-| 1200x628 | Facebook Link Posts | Social Media/Targeting/Posts/Carousels/1200x628/ |
-
-**Static Post Images (1200x1200):**
-```
-Social Media/Targeting/Posts/1200x1200/Sarah.png
-Social Media/Targeting/Posts/1200x1200/Stabilitaet.png
-Social Media/Targeting/Posts/1200x1200/Susanne.png
-Social Media/Targeting/Posts/1200x1200/Zukunft.png
-```
-
-**Videos in "Not Sure" folder (may need review):**
-```
-Not Sure/Video/30 Sek Kurz - Genossenschaft - TV - 1-1 - V1 mit URL.mp4
-Not Sure/Video/30 Sek Kurz - Genossenschaft - TV - 9-16 - V1 mit URL.mp4
-Not Sure/Video/30 Sek Kurz - Strom - TV - 1-1 - V1 mit URL.mp4
-Not Sure/Video/30 Sek Kurz - Strom - TV - 9-16 - V1 mit URL.mp4
-```
-*Note: These have URL burned in. Use "ohne URL" versions for ads where you set the landing page separately.*
+**Additional Carousel Formats:**
+- 1080x1350 (Instagram Portrait): `Social Media/Targeting/Posts/Carousels/1080x1350/`
+- 1080x1920 (Stories/Reels): `Social Media/Targeting/Posts/Carousels/1080x1920/`
+- 1200x628 (Facebook Link): `Social Media/Targeting/Posts/Carousels/1200x628/`
 
 ---
 
@@ -1995,13 +1697,14 @@ Not Sure/Video/30 Sek Kurz - Strom - TV - 9-16 - V1 mit URL.mp4
 | Campaign Name | Type | Daily Budget |
 |---------------|------|--------------|
 | `[Search > Brand+Generic > Upper Austria > 30+] Regios` | Search | €5.00 |
-| `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom` | Display Classic (HTML5) | €2.00 |
-| `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft` | Display Classic (HTML5) | €2.00 |
-| `[Display > Responsive > Targeting > Upper Austria > 30+] Gruenstrom` | Display Responsive | €2.00 |
-| `[Display > Responsive > Targeting > Upper Austria > 30+] Genossenschaft` | Display Responsive | €2.00 |
-| `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting` | Display Classic RT (HTML5) | €2.50 |
-| `[Display > Responsive > Retargeting > Upper Austria > 30+] Retargeting` | Display Responsive RT | €2.50 |
+| `[Display > Classic > Targeting > Upper Austria > 30+] Gruenstrom` | Classic HTML5 | €2.00 |
+| `[Display > Classic > Targeting > Upper Austria > 30+] Genossenschaft` | Classic HTML5 | €2.00 |
+| `[Display > Responsive > Targeting > Upper Austria > 30+] Gruenstrom` | Responsive | €2.00 |
+| `[Display > Responsive > Targeting > Upper Austria > 30+] Genossenschaft` | Responsive | €2.00 |
+| `[Display > Classic > Retargeting > Upper Austria > 30+] Retargeting` | Classic HTML5 | €5.00 |
 | `[Video > Non skippable > Muehviertel > 30+] 15 Sek Strom` | YouTube | €3.33 |
+
+**Note:** Retargeting uses Classic HTML5 ONLY. No Responsive Display for Retargeting.
 
 ### Meta Campaigns
 
