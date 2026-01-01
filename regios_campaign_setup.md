@@ -1206,145 +1206,189 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 
 ---
 
+
 ## FACEBOOK RETARGETING ADS
 
-### Ad Set 1a: Facebook - Video Carousels (Shorts)
+**Asset Base Path:** `Final Assets/Social Media/Retargeting/Video/Retargeting/Meta All/`
 
-**Placements:** Facebook Feed, Facebook Video Feeds
+### Ad Set 1a: Facebook - Testimonial Videos (Feed + Story)
 
-**Purpose:** Bite-sized content users can swipe through - tests engagement with short-form video carousels.
+**Placements:** Facebook Feed, Facebook Stories, Facebook Reels
 
----
+**Purpose:** Individual testimonial videos with Feed (1:1) + Story (9:16) format combinations.
 
-**Video Carousel Ad 1: Sarah (Bürger:in)**
-
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Primary Text | 👩 Sarah aus dem Mühlviertel erzählt ihre Geschichte<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Swipe durch und erfahre, warum Sarah Teil der Energiegenossenschaft ist. 🌱 |
-| CTA | Learn More |
-
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Sarah - Short - Vorstellung.mp4 | Vorstellung | `...&utm_term=slide_1` |
-| 2 | Testimonial - Sarah - Short - Warum Regios.mp4 | Warum Regios | `...&utm_term=slide_2` |
-| 3 | Testimonial - Sarah - Short - Wertschöpfung in der Region.mp4 | Wertschöpfung | `...&utm_term=slide_3` |
-| 4 | Testimonial - Sarah - Short - Gemeinsam Stark.mp4 | Gemeinsam Stark | `...&utm_term=slide_4` |
-| 5 | Testimonial - Sarah - Short - Produkte.mp4 | Produkte | `...&utm_term=slide_5` |
-| 6 | Testimonial - Sarah - Short - Persönlicher Ansprechpartner.mp4 | Ansprechpartner | `...&utm_term=slide_6` |
-| 7 | Testimonial - Sarah - Short - Wirkungskraft.mp4 | Wirkungskraft | `...&utm_term=slide_7` |
-
-Base URL: `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_sarah`
+**UTM Structure:** `utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=[name]&utm_term=[topic]`
 
 ---
 
-**Video Carousel Ad 2: Peter (Grundbesitzer/Landwirt)**
+#### Sarah (Bürger:in) - 11 Ads
 
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Primary Text | 👨‍🌾 Peter, Landwirt aus dem Mühlviertel erzählt<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! Swipe durch Peters Geschichte. 🌱 |
-| CTA | Learn More |
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Sarah/Sarah 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Sarah/Sarah 9_16 mit Abbinder/`
 
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Peter - Short - Vorstellung.mp4 | Vorstellung | `...&utm_term=slide_1` |
-| 2 | Testimonial - Peter - Short - wie kennengelernt.mp4 | Wie kennengelernt | `...&utm_term=slide_2` |
-| 3 | Testimonial - Peter - Short - Doppelnutzung.mp4 | Doppelnutzung | `...&utm_term=slide_3` |
-| 4 | Testimonial - Peter - Short - Selbstversorger.mp4 | Selbstversorger | `...&utm_term=slide_4` |
-| 5 | Testimonial - Peter - Short - weiteres Standbein.mp4 | Weiteres Standbein | `...&utm_term=slide_5` |
-| 6 | Testimonial - Peter - Short - regionale Energieversorgung.mp4 | Regionale Energie | `...&utm_term=slide_6` |
-| 7 | Testimonial - Peter - Short - Risiko oder Chance.mp4 | Risiko oder Chance | `...&utm_term=slide_7` |
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Warum Regios | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
+| 3 | Wertschöpfung in der Region | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `wertschoepfung` |
+| 4 | Gemeinsam Stark | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `gemeinsam_stark` |
+| 5 | Produkte | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Produkte.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Produkte.mp4` | `produkte` |
+| 6 | Persönlicher Ansprechpartner | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `ansprechpartner` |
+| 7 | Wirkungskraft | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 8 | Wie auf Regios gekommen | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `wie_gekommen` |
+| 9 | Risiko oder Chance | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
+| 10 | Zweifel | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Zweifel.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Zweifel.mp4` | `zweifel` |
+| 11 | Was ist wichtig | `Testimonial - Sarah - 1-1 - Short  - mit Abbinder- ws ist wichtig.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - ws ist wichtig.mp4` | `was_wichtig` |
 
-Base URL: `https://www.regios.at/grundbesitzer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_peter`
+**Primary Text:** 👩 Sarah aus dem Mühlviertel erzählt: „[Topic]"<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad!
 
----
+**Base URL:** `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah`
 
-**Video Carousel Ad 3: Susanne (Gemeinde)**
-
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Primary Text | 👩‍💼 Susanne, Gemeindevertreterin aus dem Mühlviertel<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS<br><br>Über 18 Gemeinden sind schon dabei! Swipe durch Susannes Geschichte. 🌱 |
-| CTA | Learn More |
-
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Susanne - Short - Warum Regios.mp4 | Warum Regios | `...&utm_term=slide_1` |
-| 2 | Testimonial - Susanne - Short - USP.mp4 | USP | `...&utm_term=slide_2` |
-| 3 | Testimonial - Susanne - Short - Sichtbare Veränderung.mp4 | Sichtbare Veränderung | `...&utm_term=slide_3` |
-| 4 | Testimonial - Susanne - Short - gemeinsames Eigentum.mp4 | Gemeinsames Eigentum | `...&utm_term=slide_4` |
-| 5 | Testimonial - Susanne - Short - Regios wichtiger Partner für Energie.mp4 | Wichtiger Partner | `...&utm_term=slide_5` |
-| 6 | Testimonial - Susanne - Short - Erreichbarkeit.mp4 | Erreichbarkeit | `...&utm_term=slide_6` |
-| 7 | Testimonial - Susanne - Short - Riskio oder Chance.mp4 | Risiko oder Chance | `...&utm_term=slide_7` |
-
-Base URL: `https://www.regios.at/gemeinde?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_susanne`
+**CTA:** Learn More
 
 ---
 
-**Video Carousel Ad 4: Norbert (Bürger)**
+#### Peter (Grundbesitzer) - 7 Ads
 
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Primary Text | 👨 Norbert aus dem Mühlviertel erzählt<br><br>Unser Norbert, Unsere Sicherheit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Swipe durch Norberts Geschichte. 🌱 |
-| CTA | Learn More |
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Peter/Peter 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Peter/Peter 9_16 mit Abbinder/`
 
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Norbert - Short - Sicherheit.mp4 | Sicherheit | `...&utm_term=slide_1` |
-| 2 | Testimonial - Norbert - Short - Transparenz.mp4 | Transparenz | `...&utm_term=slide_2` |
-| 3 | Testimonial - Norbert - Short - Vertrauen.mp4 | Vertrauen | `...&utm_term=slide_3` |
-| 4 | Testimonial - Norbert - Short - Nachhaltigkeit.mp4 | Nachhaltigkeit | `...&utm_term=slide_4` |
-| 5 | Testimonial - Norbert - Short - Banken als Partner.mp4 | Banken als Partner | `...&utm_term=slide_5` |
-| 6 | Testimonial - Norbert - Short - Wirkungskraft.mp4 | Wirkungskraft | `...&utm_term=slide_6` |
-| 7 | Testimonial - Norbert - Short - Risiko oder Chance.mp4 | Risiko oder Chance | `...&utm_term=slide_7` |
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Wie kennengelernt | `Testimonial - Peter - 1-1 - Short - mit Abbinder - wie kennengelernt.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - wie kennengelernt.mp4` | `kennengelernt` |
+| 3 | Doppelnutzung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Doppelnutzung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Doppelnutzung.mp4` | `doppelnutzung` |
+| 4 | Selbstversorger | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Selbstversorger.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Selbstversorger.mp4` | `selbstversorger` |
+| 5 | Weiteres Standbein | `Testimonial - Peter - 1-1 - Short - mit Abbinder - weiteres Standbein.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - weiteres Standbein.mp4` | `standbein` |
+| 6 | Regionale Energieversorgung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `energieversorgung` |
+| 7 | Risiko oder Chance | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
 
-Base URL: `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_norbert`
+**Primary Text:** 👨‍🌾 Peter, Grundbesitzer aus dem Mühlviertel: „[Topic]"<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat!
 
----
+**Base URL:** `https://www.regios.at/grundbesitzer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter`
 
-**Video Carousel Ad 5: Christian (Bank)**
-
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Primary Text | 🏦 Christian, Bankpartner aus dem Mühlviertel<br><br>Unser Christian, Unsere Partner, UNSERE ENERGIE REGIOS<br><br>Banken als Entwicklungspartner! Swipe durch Christians Geschichte. 🌱 |
-| CTA | Learn More |
-
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Christian - Short - mit Abbinder - Vorstellung.mp4 | Vorstellung | `...&utm_term=slide_1` |
-| 2 | Testimonial - Christian - Short - mit Abbinder - Bank als Entwicklungspartner.mp4 | Entwicklungspartner | `...&utm_term=slide_2` |
-| 3 | Testimonial - Christian - Short - mit Abbinder - Vertrauen.mp4 | Vertrauen | `...&utm_term=slide_3` |
-| 4 | Testimonial - Christian - Short - mit Abbinder - Transparenz.mp4 | Transparenz | `...&utm_term=slide_4` |
-| 5 | Testimonial - Christian - Short - mit Abbinder - Sicherheit Stabilität.mp4 | Sicherheit & Stabilität | `...&utm_term=slide_5` |
-| 6 | Testimonial - Christian - Short - mit Abbinder - Nachhaltigkeit.mp4 | Nachhaltigkeit | `...&utm_term=slide_6` |
-| 7 | Testimonial - Christian - Short - mit Abbinder - Langfristigkeit.mp4 | Langfristigkeit | `...&utm_term=slide_7` |
-
-Base URL: `https://www.regios.at/bank?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_christian`
+**CTA:** Learn More
 
 ---
 
-**Video Carousel Ad 6: Klaus (Unternehmer)**
+#### Susanne (Gemeinde) - 10 Ads
 
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Primary Text | 👨‍💼 Klaus, Unternehmer aus dem Mühlviertel<br><br>Unser Klaus, Unsere Unternehmer, UNSERE ENERGIE REGIOS<br><br>Regionale Wertschöpfung! Swipe durch Klaus' Geschichte. 🌱 |
-| CTA | Learn More |
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Susanne/Susanne 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Susanne/Susanne 9_16 mit Abbinder/`
 
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Klaus - Short - Kompetenz Regios.mp4 | Kompetenz Regios | `...&utm_term=slide_1` |
-| 2 | Testimonial - Klaus - Short - regionale Wertschöpfung.mp4 | Regionale Wertschöpfung | `...&utm_term=slide_2` |
-| 3 | Testimonial - Klaus - Short - stabile Preisentwicklung.mp4 | Stabile Preise | `...&utm_term=slide_3` |
-| 4 | Testimonial - Klaus - Short - Unabhängigkeit Selbstgestaltung.mp4 | Unabhängigkeit | `...&utm_term=slide_4` |
-| 5 | Testimonial - Klaus - Short - Verantwortung der Region.mp4 | Verantwortung | `...&utm_term=slide_5` |
-| 6 | Testimonial - Klaus - Short - Vertrauen.mp4 | Vertrauen | `...&utm_term=slide_6` |
-| 7 | Testimonial - Klaus - Short - Langfristigkeit.mp4 | Langfristigkeit | `...&utm_term=slide_7` |
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Warum Regios | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
+| 3 | USP | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - USP.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - USP.mp4` | `usp` |
+| 4 | Sichtbare Veränderung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `veraenderung` |
+| 5 | Gemeinsames Eigentum | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `eigentum` |
+| 6 | Regios wichtiger Partner | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `partner` |
+| 7 | Erreichbarkeit | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
+| 8 | Risiko oder Chance | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Riskio oder Chance.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Riskio oder Chance.mp4` | `risiko_chance` |
+| 9 | Vertrauen | `Testimonial - Susanne - 1-1 - Short  - mit Abbinder - Vertrauen.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 10 | Danke | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Danke.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Danke.mp4` | `danke` |
 
-Base URL: `https://www.regios.at/unternehmer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_klaus`
+**Primary Text:** 👩‍💼 Susanne, Gemeindevertreterin: „[Topic]"<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS<br><br>Über 18 Gemeinden sind schon dabei!
+
+**Base URL:** `https://www.regios.at/gemeinde?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne`
+
+**CTA:** Learn More
+
+---
+
+#### Norbert (Bürger) - 10 Ads
+
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Norbert/Norbert 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Norbert/Norbert 9_16 mit Abbinder/`
+
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Sicherheit | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Sicherheit.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Sicherheit.mp4` | `sicherheit` |
+| 3 | Transparenz | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 4 | Vertrauen | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 5 | Nachhaltigkeit | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
+| 6 | Banken als Partner | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Banken als Partner.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Banken als Partner.mp4` | `banken_partner` |
+| 7 | Wirkungskraft | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 8 | Erreichbarkeit | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
+| 9 | Risiko | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Risiko.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Risiko.mp4` | `risiko` |
+| 10 | Risiko oder Chance | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
+
+**Primary Text:** 👨 Norbert aus dem Mühlviertel: „[Topic]"<br><br>Unser Norbert, Unsere Sicherheit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad!
+
+**Base URL:** `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert`
+
+**CTA:** Learn More
+
+---
+
+#### Christian (Bank) - 19 Ads
+
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Christian/1_1/`
+- Story (9:16): `Testimonial - Christian/9_16/`
+
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Bank als Entwicklungspartner | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `entwicklungspartner` |
+| 3 | Banken und öffentliche Hand | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `oeffentliche_hand` |
+| 4 | Fossiler zu erneuerbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `erneuerbar` |
+| 5 | Gfrei und Sichtbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder- Gfrei- und Sichtbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Gfrei- und Sichtbar.mp4` | `gfrei_sichtbar` |
+| 6 | Integration | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Integration.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Integration.mp4` | `integration` |
+| 7 | Investition Energie | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Investition Energie.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Investition Energie.mp4` | `investition` |
+| 8 | Langfristigkeit als Erfolgsmodell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `erfolgsmodell` |
+| 9 | Langfristigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
+| 10 | Nachhaltigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
+| 11 | Prinzip Genossenschaft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `prinzip` |
+| 12 | Regios als langfristiges Modell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `langfristiges_modell` |
+| 13 | Sicherheit Stabilität | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `sicherheit_stabilitaet` |
+| 14 | Struktur Aufstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `struktur` |
+| 15 | Transparenz | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 16 | Vertrauen | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 17 | Wirkungskraft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 18 | Geprüfte Produkte | `Testimonial - Christian - 1-1 - Short - mit Abbinder - geprüfte Produkte.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - geprüfte Produkte.mp4` | `produkte` |
+| 19 | Greifbare Kommunikation | `Testimonial - Christian - 1-1 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `kommunikation` |
+
+**Primary Text:** 🏦 Christian, Bankpartner: „[Topic]"<br><br>Unser Christian, Unsere Partner, UNSERE ENERGIE REGIOS<br><br>Banken als Entwicklungspartner!
+
+**Base URL:** `https://www.regios.at/bank?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian`
+
+**CTA:** Learn More
+
+---
+
+#### Klaus (Unternehmer) - 12 Ads
+
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Klaus/Klaus 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Klaus/Klaus 9_16 mit Abbinder/`
+
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Kompetenz Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Kompetenz Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Kompetenz Regios.mp4` | `kompetenz` |
+| 3 | Regionale Wertschöpfung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `wertschoepfung` |
+| 4 | Stabile Preisentwicklung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `preisentwicklung` |
+| 5 | Unabhängigkeit Selbstgestaltung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `unabhaengigkeit` |
+| 6 | Verantwortung der Region | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Verantwortung der Region.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Verantwortung der Region.mp4` | `verantwortung` |
+| 7 | Vertrauen | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 8 | Transparenz | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 9 | Langfristigkeit | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
+| 10 | Wirkungskraft | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 11 | Energiekosten | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Energiekosten.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Energiekosten.mp4` | `energiekosten` |
+| 12 | Vorbild Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vorbild Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vorbild Regios.mp4` | `vorbild` |
+
+**Primary Text:** 👨‍💼 Klaus, Unternehmer: „[Topic]"<br><br>Unser Klaus, Unsere Unternehmer, UNSERE ENERGIE REGIOS<br><br>Regionale Wertschöpfung!
+
+**Base URL:** `https://www.regios.at/unternehmer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus`
+
+**CTA:** Learn More
 
 ---
 
@@ -1352,55 +1396,20 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=facebook&utm_medium=reta
 
 **Placements:** Facebook Feed, Facebook Video Feeds
 
-**Purpose:** Full-length interviews for users who prefer complete stories - tests engagement with long-form content.
+**Purpose:** Full-length interviews for users who prefer complete stories.
 
----
+**Asset Path:** `Final Assets/Social Media/Retargeting/Video/Retargeting/Meta All/`
 
-**Ad 1: Sarah Long (Bürger:in)**
+| Ad | Person | Video (16:9) | Landing Page | Full URL |
+|----|--------|--------------|--------------|----------|
+| 1 | Sarah | `Testimonial - Sarah/Sarah 16_9 mit Abbinder/Testimonial - Sarah - Long - V1.mp4` | /buerger | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah&utm_term=long` |
+| 2 | Peter | `Testimonial - Peter/Peter 16_9 mit Abbinder/Testimonial - Peter - Long - V1.mp4` | /grundbesitzer | `https://www.regios.at/grundbesitzer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter&utm_term=long` |
+| 3 | Susanne | `Testimonial - Susanne/Susanne 16_9 mit Abbinder/Testimonial - Susanne - Long - mit Abbinder - V1.mp4` | /gemeinde | `https://www.regios.at/gemeinde?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne&utm_term=long` |
+| 4 | Klaus | `Testimonial - Klaus/Klaus 16_9 mit Abbinder/Testimonial - Klaus - Long - mit Abbinder - V1.mp4` | /unternehmer | `https://www.regios.at/unternehmer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus&utm_term=long` |
 
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Sarah - Long - V1.mp4` |
-| Primary Text | 👩 Sarah aus dem Mühlviertel: Das ganze Interview<br><br>Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Erfahre Sarahs komplette Geschichte und warum sie Teil der Energiegenossenschaft ist. |
-| Headline | Sarah erzählt ihre Geschichte |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_sarah` |
+**Primary Text Template:** 👤 [Name] aus dem Mühlviertel: Das ganze Interview<br><br>UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Erfahre die komplette Geschichte.
 
----
-
-**Ad 2: Peter Long (Grundbesitzer/Landwirt)**
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Peter - Long - V1.mp4` |
-| Primary Text | 👨‍🌾 Peter, Landwirt aus dem Mühlviertel: Das ganze Interview<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! Peters komplette Geschichte. |
-| Headline | Peter erzählt seine Geschichte |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/grundbesitzer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_peter` |
-
----
-
-**Ad 3: Susanne Long (Gemeinde)**
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Susanne - Long - mit Abbinder - V1.mp4` |
-| Primary Text | 👩‍💼 Susanne, Gemeindevertreterin: Das ganze Interview<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS<br><br>Über 18 Gemeinden sind schon dabei! Susannes komplette Geschichte. |
-| Headline | Susanne erzählt ihre Geschichte |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/gemeinde?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_susanne` |
-
----
-
-**Ad 4: Norbert Long (Bürger)**
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Norbert - Long - mit Abbinder - V1.mp4` |
-| Primary Text | 👨 Norbert aus dem Mühlviertel: Das ganze Interview<br><br>Unser Norbert, Unsere Sicherheit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Norberts komplette Geschichte. |
-| Headline | Norbert erzählt seine Geschichte |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_norbert` |
+**CTA:** Learn More
 
 ---
 
@@ -1419,7 +1428,7 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=facebook&utm_medium=reta
 | Images | Sonne, Wasser, Wind carousels mixed |
 | Primary Text | 🌱 Du hast dich schon über Regios informiert. Jetzt ist der richtige Zeitpunkt!<br><br>Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=carousel_elements` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=carousel&utm_term=elements` |
 
 ---
 
@@ -1430,149 +1439,192 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=facebook&utm_medium=reta
 | Images | Stabilitaet, Zukunft, Sicherheit carousels mixed |
 | Primary Text | 🤝 Bereit für den nächsten Schritt?<br><br>Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Investiere in die Stabilität des Mühlviertel! |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=carousel_values` |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=carousel&utm_term=values` |
 
 ---
 
 ## INSTAGRAM RETARGETING ADS
 
-### Ad Set 1b: Instagram - Video Carousels (Shorts)
+**Asset Base Path:** `Final Assets/Social Media/Retargeting/Video/Retargeting/Meta All/`
 
-**Placements:** Instagram Feed, Instagram Reels
+### Ad Set 1b: Instagram - Testimonial Videos (Feed + Story/Reels)
 
-**Purpose:** Bite-sized content users can swipe through - tests engagement with short-form video carousels.
+**Placements:** Instagram Feed, Instagram Stories, Instagram Reels
 
----
+**Purpose:** Individual testimonial videos with Feed (1:1) + Story/Reels (9:16) format combinations.
 
-**Video Carousel Ad 1: Sarah (Bürger:in)**
-
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Caption | 👩 Sarah aus dem Mühlviertel erzählt ihre Geschichte<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Swipe durch und erfahre, warum Sarah Teil der Energiegenossenschaft ist. 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Sarah - Short - Vorstellung.mp4 | Vorstellung | `...&utm_term=slide_1` |
-| 2 | Testimonial - Sarah - Short - Warum Regios.mp4 | Warum Regios | `...&utm_term=slide_2` |
-| 3 | Testimonial - Sarah - Short - Wertschöpfung in der Region.mp4 | Wertschöpfung | `...&utm_term=slide_3` |
-| 4 | Testimonial - Sarah - Short - Gemeinsam Stark.mp4 | Gemeinsam Stark | `...&utm_term=slide_4` |
-| 5 | Testimonial - Sarah - Short - Produkte.mp4 | Produkte | `...&utm_term=slide_5` |
-| 6 | Testimonial - Sarah - Short - Persönlicher Ansprechpartner.mp4 | Ansprechpartner | `...&utm_term=slide_6` |
-| 7 | Testimonial - Sarah - Short - Wirkungskraft.mp4 | Wirkungskraft | `...&utm_term=slide_7` |
-
-Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_sarah`
+**UTM Structure:** `utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=[name]&utm_term=[topic]`
 
 ---
 
-**Video Carousel Ad 2: Peter (Grundbesitzer/Landwirt)**
+#### Sarah (Bürger:in) - 11 Ads
 
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Caption | 👨‍🌾 Peter, Landwirt aus dem Mühlviertel erzählt<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! Swipe durch Peters Geschichte. 🌱<br><br>#regios #mühlviertel #landwirtschaft #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Sarah/Sarah 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Sarah/Sarah 9_16 mit Abbinder/`
 
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Peter - Short - Vorstellung.mp4 | Vorstellung | `...&utm_term=slide_1` |
-| 2 | Testimonial - Peter - Short - wie kennengelernt.mp4 | Wie kennengelernt | `...&utm_term=slide_2` |
-| 3 | Testimonial - Peter - Short - Doppelnutzung.mp4 | Doppelnutzung | `...&utm_term=slide_3` |
-| 4 | Testimonial - Peter - Short - Selbstversorger.mp4 | Selbstversorger | `...&utm_term=slide_4` |
-| 5 | Testimonial - Peter - Short - weiteres Standbein.mp4 | Weiteres Standbein | `...&utm_term=slide_5` |
-| 6 | Testimonial - Peter - Short - regionale Energieversorgung.mp4 | Regionale Energie | `...&utm_term=slide_6` |
-| 7 | Testimonial - Peter - Short - Risiko oder Chance.mp4 | Risiko oder Chance | `...&utm_term=slide_7` |
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Warum Regios | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
+| 3 | Wertschöpfung in der Region | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `wertschoepfung` |
+| 4 | Gemeinsam Stark | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `gemeinsam_stark` |
+| 5 | Produkte | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Produkte.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Produkte.mp4` | `produkte` |
+| 6 | Persönlicher Ansprechpartner | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `ansprechpartner` |
+| 7 | Wirkungskraft | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 8 | Wie auf Regios gekommen | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `wie_gekommen` |
+| 9 | Risiko oder Chance | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
+| 10 | Zweifel | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Zweifel.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Zweifel.mp4` | `zweifel` |
+| 11 | Was ist wichtig | `Testimonial - Sarah - 1-1 - Short  - mit Abbinder- ws ist wichtig.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - ws ist wichtig.mp4` | `was_wichtig` |
 
-Base URL: `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_peter`
+**Caption:** 👩 Sarah aus dem Mühlviertel erzählt: „[Topic]"<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad
 
----
+**Base URL:** `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah`
 
-**Video Carousel Ad 3: Susanne (Gemeinde)**
-
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Caption | 👩‍💼 Susanne, Gemeindevertreterin aus dem Mühlviertel<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS<br><br>Über 18 Gemeinden sind schon dabei! Swipe durch Susannes Geschichte. 🌱<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Susanne - Short - Warum Regios.mp4 | Warum Regios | `...&utm_term=slide_1` |
-| 2 | Testimonial - Susanne - Short - USP.mp4 | USP | `...&utm_term=slide_2` |
-| 3 | Testimonial - Susanne - Short - Sichtbare Veränderung.mp4 | Sichtbare Veränderung | `...&utm_term=slide_3` |
-| 4 | Testimonial - Susanne - Short - gemeinsames Eigentum.mp4 | Gemeinsames Eigentum | `...&utm_term=slide_4` |
-| 5 | Testimonial - Susanne - Short - Regios wichtiger Partner für Energie.mp4 | Wichtiger Partner | `...&utm_term=slide_5` |
-| 6 | Testimonial - Susanne - Short - Erreichbarkeit.mp4 | Erreichbarkeit | `...&utm_term=slide_6` |
-| 7 | Testimonial - Susanne - Short - Riskio oder Chance.mp4 | Risiko oder Chance | `...&utm_term=slide_7` |
-
-Base URL: `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_susanne`
+**CTA:** Learn More
 
 ---
 
-**Video Carousel Ad 4: Norbert (Bürger)**
+#### Peter (Grundbesitzer) - 7 Ads
 
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Caption | 👨 Norbert aus dem Mühlviertel erzählt<br><br>Unser Norbert, Unsere Sicherheit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Swipe durch Norberts Geschichte. 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Peter/Peter 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Peter/Peter 9_16 mit Abbinder/`
 
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Norbert - Short - Sicherheit.mp4 | Sicherheit | `...&utm_term=slide_1` |
-| 2 | Testimonial - Norbert - Short - Transparenz.mp4 | Transparenz | `...&utm_term=slide_2` |
-| 3 | Testimonial - Norbert - Short - Vertrauen.mp4 | Vertrauen | `...&utm_term=slide_3` |
-| 4 | Testimonial - Norbert - Short - Nachhaltigkeit.mp4 | Nachhaltigkeit | `...&utm_term=slide_4` |
-| 5 | Testimonial - Norbert - Short - Banken als Partner.mp4 | Banken als Partner | `...&utm_term=slide_5` |
-| 6 | Testimonial - Norbert - Short - Wirkungskraft.mp4 | Wirkungskraft | `...&utm_term=slide_6` |
-| 7 | Testimonial - Norbert - Short - Risiko oder Chance.mp4 | Risiko oder Chance | `...&utm_term=slide_7` |
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Wie kennengelernt | `Testimonial - Peter - 1-1 - Short - mit Abbinder - wie kennengelernt.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - wie kennengelernt.mp4` | `kennengelernt` |
+| 3 | Doppelnutzung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Doppelnutzung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Doppelnutzung.mp4` | `doppelnutzung` |
+| 4 | Selbstversorger | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Selbstversorger.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Selbstversorger.mp4` | `selbstversorger` |
+| 5 | Weiteres Standbein | `Testimonial - Peter - 1-1 - Short - mit Abbinder - weiteres Standbein.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - weiteres Standbein.mp4` | `standbein` |
+| 6 | Regionale Energieversorgung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `energieversorgung` |
+| 7 | Risiko oder Chance | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
 
-Base URL: `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_norbert`
+**Caption:** 👨‍🌾 Peter, Grundbesitzer aus dem Mühlviertel: „[Topic]"<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #landwirtschaft #energiegenossenschaft #miasanneddeppad
 
----
+**Base URL:** `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter`
 
-**Video Carousel Ad 5: Christian (Bank)**
-
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Caption | 🏦 Christian, Bankpartner aus dem Mühlviertel<br><br>Unser Christian, Unsere Partner, UNSERE ENERGIE REGIOS<br><br>Banken als Entwicklungspartner! Swipe durch Christians Geschichte. 🌱<br><br>#regios #mühlviertel #bank #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Christian - Short - mit Abbinder - Vorstellung.mp4 | Vorstellung | `...&utm_term=slide_1` |
-| 2 | Testimonial - Christian - Short - mit Abbinder - Bank als Entwicklungspartner.mp4 | Entwicklungspartner | `...&utm_term=slide_2` |
-| 3 | Testimonial - Christian - Short - mit Abbinder - Vertrauen.mp4 | Vertrauen | `...&utm_term=slide_3` |
-| 4 | Testimonial - Christian - Short - mit Abbinder - Transparenz.mp4 | Transparenz | `...&utm_term=slide_4` |
-| 5 | Testimonial - Christian - Short - mit Abbinder - Sicherheit Stabilität.mp4 | Sicherheit & Stabilität | `...&utm_term=slide_5` |
-| 6 | Testimonial - Christian - Short - mit Abbinder - Nachhaltigkeit.mp4 | Nachhaltigkeit | `...&utm_term=slide_6` |
-| 7 | Testimonial - Christian - Short - mit Abbinder - Langfristigkeit.mp4 | Langfristigkeit | `...&utm_term=slide_7` |
-
-Base URL: `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_christian`
+**CTA:** Learn More
 
 ---
 
-**Video Carousel Ad 6: Klaus (Unternehmer)**
+#### Susanne (Gemeinde) - 10 Ads
 
-| Field | Content |
-|-------|---------|
-| Format | Video Carousel |
-| Caption | 👨‍💼 Klaus, Unternehmer aus dem Mühlviertel<br><br>Unser Klaus, Unsere Unternehmer, UNSERE ENERGIE REGIOS<br><br>Regionale Wertschöpfung! Swipe durch Klaus' Geschichte. 🌱<br><br>#regios #mühlviertel #unternehmer #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Susanne/Susanne 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Susanne/Susanne 9_16 mit Abbinder/`
 
-| Slide | Video | Headline | URL |
-|-------|-------|----------|-----|
-| 1 | Testimonial - Klaus - Short - Kompetenz Regios.mp4 | Kompetenz Regios | `...&utm_term=slide_1` |
-| 2 | Testimonial - Klaus - Short - regionale Wertschöpfung.mp4 | Regionale Wertschöpfung | `...&utm_term=slide_2` |
-| 3 | Testimonial - Klaus - Short - stabile Preisentwicklung.mp4 | Stabile Preise | `...&utm_term=slide_3` |
-| 4 | Testimonial - Klaus - Short - Unabhängigkeit Selbstgestaltung.mp4 | Unabhängigkeit | `...&utm_term=slide_4` |
-| 5 | Testimonial - Klaus - Short - Verantwortung der Region.mp4 | Verantwortung | `...&utm_term=slide_5` |
-| 6 | Testimonial - Klaus - Short - Vertrauen.mp4 | Vertrauen | `...&utm_term=slide_6` |
-| 7 | Testimonial - Klaus - Short - Langfristigkeit.mp4 | Langfristigkeit | `...&utm_term=slide_7` |
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Warum Regios | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
+| 3 | USP | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - USP.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - USP.mp4` | `usp` |
+| 4 | Sichtbare Veränderung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `veraenderung` |
+| 5 | Gemeinsames Eigentum | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `eigentum` |
+| 6 | Regios wichtiger Partner | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `partner` |
+| 7 | Erreichbarkeit | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
+| 8 | Risiko oder Chance | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Riskio oder Chance.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Riskio oder Chance.mp4` | `risiko_chance` |
+| 9 | Vertrauen | `Testimonial - Susanne - 1-1 - Short  - mit Abbinder - Vertrauen.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 10 | Danke | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Danke.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Danke.mp4` | `danke` |
 
-Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=carousel_shorts_klaus`
+**Caption:** 👩‍💼 Susanne, Gemeindevertreterin: „[Topic]"<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad
+
+**Base URL:** `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne`
+
+**CTA:** Learn More
+
+---
+
+#### Norbert (Bürger) - 10 Ads
+
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Norbert/Norbert 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Norbert/Norbert 9_16 mit Abbinder/`
+
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Sicherheit | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Sicherheit.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Sicherheit.mp4` | `sicherheit` |
+| 3 | Transparenz | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 4 | Vertrauen | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 5 | Nachhaltigkeit | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
+| 6 | Banken als Partner | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Banken als Partner.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Banken als Partner.mp4` | `banken_partner` |
+| 7 | Wirkungskraft | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 8 | Erreichbarkeit | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
+| 9 | Risiko | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Risiko.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Risiko.mp4` | `risiko` |
+| 10 | Risiko oder Chance | `Testimonial - Norbert - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Norbert - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
+
+**Caption:** 👨 Norbert aus dem Mühlviertel: „[Topic]"<br><br>Unser Norbert, Unsere Sicherheit, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad
+
+**Base URL:** `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert`
+
+**CTA:** Learn More
+
+---
+
+#### Christian (Bank) - 19 Ads
+
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Christian/1_1/`
+- Story (9:16): `Testimonial - Christian/9_16/`
+
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Bank als Entwicklungspartner | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `entwicklungspartner` |
+| 3 | Banken und öffentliche Hand | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `oeffentliche_hand` |
+| 4 | Fossiler zu erneuerbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `erneuerbar` |
+| 5 | Gfrei und Sichtbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder- Gfrei- und Sichtbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Gfrei- und Sichtbar.mp4` | `gfrei_sichtbar` |
+| 6 | Integration | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Integration.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Integration.mp4` | `integration` |
+| 7 | Investition Energie | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Investition Energie.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Investition Energie.mp4` | `investition` |
+| 8 | Langfristigkeit als Erfolgsmodell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `erfolgsmodell` |
+| 9 | Langfristigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
+| 10 | Nachhaltigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
+| 11 | Prinzip Genossenschaft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `prinzip` |
+| 12 | Regios als langfristiges Modell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `langfristiges_modell` |
+| 13 | Sicherheit Stabilität | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `sicherheit_stabilitaet` |
+| 14 | Struktur Aufstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `struktur` |
+| 15 | Transparenz | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 16 | Vertrauen | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 17 | Wirkungskraft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 18 | Geprüfte Produkte | `Testimonial - Christian - 1-1 - Short - mit Abbinder - geprüfte Produkte.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - geprüfte Produkte.mp4` | `produkte` |
+| 19 | Greifbare Kommunikation | `Testimonial - Christian - 1-1 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `kommunikation` |
+
+**Caption:** 🏦 Christian, Bankpartner: „[Topic]"<br><br>Unser Christian, Unsere Partner, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #bank #energiegenossenschaft #miasanneddeppad
+
+**Base URL:** `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian`
+
+**CTA:** Learn More
+
+---
+
+#### Klaus (Unternehmer) - 12 Ads
+
+**Asset Paths:**
+- Feed (1:1): `Testimonial - Klaus/Klaus 1_1 mit Abbinder/`
+- Story (9:16): `Testimonial - Klaus/Klaus 9_16 mit Abbinder/`
+
+| Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
+|----|-------|------------------|-------------------|----------|
+| 1 | Vorstellung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
+| 2 | Kompetenz Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Kompetenz Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Kompetenz Regios.mp4` | `kompetenz` |
+| 3 | Regionale Wertschöpfung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `wertschoepfung` |
+| 4 | Stabile Preisentwicklung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `preisentwicklung` |
+| 5 | Unabhängigkeit Selbstgestaltung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `unabhaengigkeit` |
+| 6 | Verantwortung der Region | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Verantwortung der Region.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Verantwortung der Region.mp4` | `verantwortung` |
+| 7 | Vertrauen | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 8 | Transparenz | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 9 | Langfristigkeit | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
+| 10 | Wirkungskraft | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 11 | Energiekosten | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Energiekosten.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Energiekosten.mp4` | `energiekosten` |
+| 12 | Vorbild Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vorbild Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vorbild Regios.mp4` | `vorbild` |
+
+**Caption:** 👨‍💼 Klaus, Unternehmer: „[Topic]"<br><br>Unser Klaus, Unsere Unternehmer, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #unternehmer #energiegenossenschaft #miasanneddeppad
+
+**Base URL:** `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus`
+
+**CTA:** Learn More
 
 ---
 
@@ -1580,51 +1632,18 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=ret
 
 **Placements:** Instagram Feed, Instagram Reels
 
-**Purpose:** Full-length interviews for users who prefer complete stories.
+**Asset Path:** `Final Assets/Social Media/Retargeting/Video/Retargeting/Meta All/`
 
----
+| Ad | Person | Video (16:9) | Landing Page | Full URL |
+|----|--------|--------------|--------------|----------|
+| 1 | Sarah | `Testimonial - Sarah/Sarah 16_9 mit Abbinder/Testimonial - Sarah - Long - V1.mp4` | /buerger | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah&utm_term=long` |
+| 2 | Peter | `Testimonial - Peter/Peter 16_9 mit Abbinder/Testimonial - Peter - Long - V1.mp4` | /grundbesitzer | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter&utm_term=long` |
+| 3 | Susanne | `Testimonial - Susanne/Susanne 16_9 mit Abbinder/Testimonial - Susanne - Long - mit Abbinder - V1.mp4` | /gemeinde | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne&utm_term=long` |
+| 4 | Klaus | `Testimonial - Klaus/Klaus 16_9 mit Abbinder/Testimonial - Klaus - Long - mit Abbinder - V1.mp4` | /unternehmer | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus&utm_term=long` |
 
-**Ad 1: Sarah Long (Bürger:in)**
+**Caption Template:** 👤 [Name] aus dem Mühlviertel: Das ganze Interview<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>Mia san ned Deppad! Erfahre die komplette Geschichte.<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad
 
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Sarah - Long - V1.mp4` |
-| Caption | 👩 Sarah aus dem Mühlviertel: Das ganze Interview<br><br>Unsere Sarah, Unsere Bürger:in, Unser Mühlviertel, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! Erfahre Sarahs komplette Geschichte. 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_sarah` |
-
----
-
-**Ad 2: Peter Long (Grundbesitzer/Landwirt)**
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Peter - Long - V1.mp4` |
-| Caption | 👨‍🌾 Peter, Landwirt aus dem Mühlviertel: Das ganze Interview<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! 🌱<br><br>#regios #mühlviertel #landwirtschaft #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_peter` |
-
----
-
-**Ad 3: Susanne Long (Gemeinde)**
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Susanne - Long - mit Abbinder - V1.mp4` |
-| Caption | 👩‍💼 Susanne, Gemeindevertreterin: Das ganze Interview<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS<br><br>Über 18 Gemeinden sind schon dabei! 🌱<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_susanne` |
-
----
-
-**Ad 4: Norbert Long (Bürger)**
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Norbert - Long - mit Abbinder - V1.mp4` |
-| Caption | 👨 Norbert aus dem Mühlviertel: Das ganze Interview<br><br>Unser Norbert, Unsere Sicherheit, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=video_long_norbert` |
+**CTA:** Learn More
 
 ---
 
@@ -1643,7 +1662,7 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=ret
 | Images | Sonne, Wasser, Wind carousels mixed |
 | Caption | 🌱 Du hast dich schon über Regios informiert. Jetzt ist der richtige Zeitpunkt!<br><br>Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! 🌱<br><br>#regios #mühlviertel #grünstrom #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=carousel_elements` |
+| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=carousel&utm_term=elements` |
 
 ---
 
@@ -1654,7 +1673,23 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=ret
 | Images | Stabilitaet, Zukunft, Sicherheit carousels mixed |
 | Caption | 🤝 Bereit für den nächsten Schritt?<br><br>Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! 🌱<br><br>#regios #mühlviertel #genossenschaft #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=carousel_values` |
+| Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=carousel&utm_term=values` |
+
+---
+
+### Retargeting Ad Count Summary
+
+| Person | Role | Landing Page | Short Videos | Long Video | Total |
+|--------|------|--------------|--------------|------------|-------|
+| Sarah | Bürger:in | /buerger | 11 | 1 | 12 |
+| Peter | Grundbesitzer | /grundbesitzer | 7 | 1 | 8 |
+| Susanne | Gemeinde | /gemeinde | 10 | 1 | 11 |
+| Norbert | Bürger | /buerger | 10 | 0 | 10 |
+| Christian | Bank | /bank | 19 | 0 | 19 |
+| Klaus | Unternehmer | /unternehmer | 12 | 1 | 13 |
+| **Total per platform** | | | **69** | **4** | **73 video ads** |
+| **Image Carousels** | | | | | **2 per platform** |
+| **Total (FB + IG)** | | | **138** | **8** | **150 ads total** |
 
 ---
 
