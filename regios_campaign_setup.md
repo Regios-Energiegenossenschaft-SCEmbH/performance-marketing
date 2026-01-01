@@ -1221,7 +1221,7 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 
 ---
 
-#### Sarah (Bürger:in) - 11 Ads
+#### Sarah (Bürger:in) - 10 Ads
 
 **Asset Paths:**
 - Feed (1:1): `Testimonial - Sarah/Sarah 1_1 mit Abbinder/`
@@ -1231,15 +1231,14 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
 | 2 | Warum Regios | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
-| 3 | Wertschöpfung in der Region | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `wertschoepfung` |
-| 4 | Gemeinsam Stark | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `gemeinsam_stark` |
-| 5 | Produkte | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Produkte.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Produkte.mp4` | `produkte` |
-| 6 | Persönlicher Ansprechpartner | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `ansprechpartner` |
-| 7 | Wirkungskraft | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
-| 8 | Wie auf Regios gekommen | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `wie_gekommen` |
-| 9 | Risiko oder Chance | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
-| 10 | Zweifel | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Zweifel.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Zweifel.mp4` | `zweifel` |
-| 11 | Was ist wichtig | `Testimonial - Sarah - 1-1 - Short  - mit Abbinder- ws ist wichtig.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - ws ist wichtig.mp4` | `was_wichtig` |
+| 3 | Wie auf Regios gekommen | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `wie_gekommen` |
+| 4 | Zweifel | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Zweifel.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Zweifel.mp4` | `zweifel` |
+| 5 | Was ist wichtig | `Testimonial - Sarah - 1-1 - Short  - mit Abbinder- ws ist wichtig.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - ws ist wichtig.mp4` | `was_wichtig` |
+| 6 | Gemeinsam Stark | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `gemeinsam_stark` |
+| 7 | Wertschöpfung in der Region | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `wertschoepfung` |
+| 8 | Persönlicher Ansprechpartner | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `ansprechpartner` |
+| 9 | Wirkungskraft | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 10 | Produkte | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Produkte.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Produkte.mp4` | `produkte` |
 
 **Primary Text:** 👩 Sarah aus dem Mühlviertel erzählt: „[Topic]"<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad!
 
@@ -1258,11 +1257,11 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 | Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
-| 2 | Wie kennengelernt | `Testimonial - Peter - 1-1 - Short - mit Abbinder - wie kennengelernt.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - wie kennengelernt.mp4` | `kennengelernt` |
-| 3 | Doppelnutzung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Doppelnutzung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Doppelnutzung.mp4` | `doppelnutzung` |
-| 4 | Selbstversorger | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Selbstversorger.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Selbstversorger.mp4` | `selbstversorger` |
-| 5 | Weiteres Standbein | `Testimonial - Peter - 1-1 - Short - mit Abbinder - weiteres Standbein.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - weiteres Standbein.mp4` | `standbein` |
-| 6 | Regionale Energieversorgung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `energieversorgung` |
+| 2 | Regionale Energieversorgung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `energieversorgung` |
+| 3 | Selbstversorger | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Selbstversorger.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Selbstversorger.mp4` | `selbstversorger` |
+| 4 | Weiteres Standbein | `Testimonial - Peter - 1-1 - Short - mit Abbinder - weiteres Standbein.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - weiteres Standbein.mp4` | `standbein` |
+| 5 | Wie kennengelernt | `Testimonial - Peter - 1-1 - Short - mit Abbinder - wie kennengelernt.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - wie kennengelernt.mp4` | `kennengelernt` |
+| 6 | Doppelnutzung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Doppelnutzung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Doppelnutzung.mp4` | `doppelnutzung` |
 | 7 | Risiko oder Chance | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
 
 **Primary Text:** 👨‍🌾 Peter, Grundbesitzer aus dem Mühlviertel: „[Topic]"<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat!
@@ -1283,13 +1282,13 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
 | 2 | Warum Regios | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
-| 3 | USP | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - USP.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - USP.mp4` | `usp` |
-| 4 | Sichtbare Veränderung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `veraenderung` |
-| 5 | Gemeinsames Eigentum | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `eigentum` |
+| 3 | Gemeinsames Eigentum | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `eigentum` |
+| 4 | Erreichbarkeit | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
+| 5 | USP | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - USP.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - USP.mp4` | `usp` |
 | 6 | Regios wichtiger Partner | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `partner` |
-| 7 | Erreichbarkeit | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
-| 8 | Risiko oder Chance | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Riskio oder Chance.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Riskio oder Chance.mp4` | `risiko_chance` |
-| 9 | Vertrauen | `Testimonial - Susanne - 1-1 - Short  - mit Abbinder - Vertrauen.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 7 | Vertrauen | `Testimonial - Susanne - 1-1 - Short  - mit Abbinder - Vertrauen.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 8 | Sichtbare Veränderung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `veraenderung` |
+| 9 | Risiko oder Chance | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Riskio oder Chance.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Riskio oder Chance.mp4` | `risiko_chance` |
 | 10 | Danke | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Danke.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Danke.mp4` | `danke` |
 
 **Primary Text:** 👩‍💼 Susanne, Gemeindevertreterin: „[Topic]"<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS<br><br>Über 18 Gemeinden sind schon dabei!
@@ -1327,7 +1326,7 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 
 ---
 
-#### Christian (Bank) - 19 Ads
+#### Christian (Bank) - 10 Ads
 
 **Asset Paths:**
 - Feed (1:1): `Testimonial - Christian/1_1/`
@@ -1337,23 +1336,14 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
 | 2 | Bank als Entwicklungspartner | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `entwicklungspartner` |
-| 3 | Banken und öffentliche Hand | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `oeffentliche_hand` |
-| 4 | Fossiler zu erneuerbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `erneuerbar` |
-| 5 | Gfrei und Sichtbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder- Gfrei- und Sichtbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Gfrei- und Sichtbar.mp4` | `gfrei_sichtbar` |
-| 6 | Integration | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Integration.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Integration.mp4` | `integration` |
-| 7 | Investition Energie | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Investition Energie.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Investition Energie.mp4` | `investition` |
-| 8 | Langfristigkeit als Erfolgsmodell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `erfolgsmodell` |
-| 9 | Langfristigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
-| 10 | Nachhaltigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
-| 11 | Prinzip Genossenschaft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `prinzip` |
-| 12 | Regios als langfristiges Modell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `langfristiges_modell` |
-| 13 | Sicherheit Stabilität | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `sicherheit_stabilitaet` |
-| 14 | Struktur Aufstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `struktur` |
-| 15 | Transparenz | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
-| 16 | Vertrauen | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
-| 17 | Wirkungskraft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
-| 18 | Geprüfte Produkte | `Testimonial - Christian - 1-1 - Short - mit Abbinder - geprüfte Produkte.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - geprüfte Produkte.mp4` | `produkte` |
-| 19 | Greifbare Kommunikation | `Testimonial - Christian - 1-1 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `kommunikation` |
+| 3 | Vertrauen | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 4 | Transparenz | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 5 | Sicherheit Stabilität | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `sicherheit_stabilitaet` |
+| 6 | Nachhaltigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
+| 7 | Prinzip Genossenschaft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `prinzip` |
+| 8 | Langfristigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
+| 9 | Wirkungskraft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 10 | Regios als langfristiges Modell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `langfristiges_modell` |
 
 **Primary Text:** 🏦 Christian, Bankpartner: „[Topic]"<br><br>Unser Christian, Unsere Partner, UNSERE ENERGIE REGIOS<br><br>Banken als Entwicklungspartner!
 
@@ -1363,7 +1353,7 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 
 ---
 
-#### Klaus (Unternehmer) - 12 Ads
+#### Klaus (Unternehmer) - 10 Ads
 
 **Asset Paths:**
 - Feed (1:1): `Testimonial - Klaus/Klaus 1_1 mit Abbinder/`
@@ -1372,17 +1362,15 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 | Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
-| 2 | Kompetenz Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Kompetenz Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Kompetenz Regios.mp4` | `kompetenz` |
-| 3 | Regionale Wertschöpfung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `wertschoepfung` |
-| 4 | Stabile Preisentwicklung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `preisentwicklung` |
-| 5 | Unabhängigkeit Selbstgestaltung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `unabhaengigkeit` |
-| 6 | Verantwortung der Region | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Verantwortung der Region.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Verantwortung der Region.mp4` | `verantwortung` |
-| 7 | Vertrauen | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 2 | Energiekosten | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Energiekosten.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Energiekosten.mp4` | `energiekosten` |
+| 3 | Verantwortung der Region | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Verantwortung der Region.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Verantwortung der Region.mp4` | `verantwortung` |
+| 4 | Unabhängigkeit Selbstgestaltung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Unabhängigkeit Selbstgestaltung.mp4` | `unabhaengigkeit` |
+| 5 | Regionale Wertschöpfung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - regionale Wertschöpfung.mp4` | `wertschoepfung` |
+| 6 | Kompetenz Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Kompetenz Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Kompetenz Regios.mp4` | `kompetenz` |
+| 7 | Vorbild Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vorbild Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vorbild Regios.mp4` | `vorbild` |
 | 8 | Transparenz | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
-| 9 | Langfristigkeit | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
-| 10 | Wirkungskraft | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
-| 11 | Energiekosten | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Energiekosten.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Energiekosten.mp4` | `energiekosten` |
-| 12 | Vorbild Regios | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vorbild Regios.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vorbild Regios.mp4` | `vorbild` |
+| 9 | Stabile Preisentwicklung | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - stabile Preisentwicklung.mp4` | `preisentwicklung` |
+| 10 | Vertrauen | `Testimonial - Klaus - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Klaus - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
 
 **Primary Text:** 👨‍💼 Klaus, Unternehmer: „[Topic]"<br><br>Unser Klaus, Unsere Unternehmer, UNSERE ENERGIE REGIOS<br><br>Regionale Wertschöpfung!
 
@@ -1457,7 +1445,7 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 
 ---
 
-#### Sarah (Bürger:in) - 11 Ads
+#### Sarah (Bürger:in) - 10 Ads
 
 **Asset Paths:**
 - Feed (1:1): `Testimonial - Sarah/Sarah 1_1 mit Abbinder/`
@@ -1467,15 +1455,14 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
 | 2 | Warum Regios | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
-| 3 | Wertschöpfung in der Region | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `wertschoepfung` |
-| 4 | Gemeinsam Stark | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `gemeinsam_stark` |
-| 5 | Produkte | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Produkte.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Produkte.mp4` | `produkte` |
-| 6 | Persönlicher Ansprechpartner | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `ansprechpartner` |
-| 7 | Wirkungskraft | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
-| 8 | Wie auf Regios gekommen | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `wie_gekommen` |
-| 9 | Risiko oder Chance | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
-| 10 | Zweifel | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Zweifel.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Zweifel.mp4` | `zweifel` |
-| 11 | Was ist wichtig | `Testimonial - Sarah - 1-1 - Short  - mit Abbinder- ws ist wichtig.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - ws ist wichtig.mp4` | `was_wichtig` |
+| 3 | Wie auf Regios gekommen | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wie auf Regios gekommen.mp4` | `wie_gekommen` |
+| 4 | Zweifel | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Zweifel.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Zweifel.mp4` | `zweifel` |
+| 5 | Was ist wichtig | `Testimonial - Sarah - 1-1 - Short  - mit Abbinder- ws ist wichtig.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - ws ist wichtig.mp4` | `was_wichtig` |
+| 6 | Gemeinsam Stark | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Gemeinsam Stark.mp4` | `gemeinsam_stark` |
+| 7 | Wertschöpfung in der Region | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wertschöpfung in der Region.mp4` | `wertschoepfung` |
+| 8 | Persönlicher Ansprechpartner | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Persönlicher Ansprechpartner.mp4` | `ansprechpartner` |
+| 9 | Wirkungskraft | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 10 | Produkte | `Testimonial - Sarah - 1-1 - Short - mit Abbinder - Produkte.mp4` | `Testimonial - Sarah - 9-16 - Short - mit Abbinder - Produkte.mp4` | `produkte` |
 
 **Caption:** 👩 Sarah aus dem Mühlviertel erzählt: „[Topic]"<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad
 
@@ -1494,11 +1481,11 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 | Ad | Topic | Video Feed (1:1) | Video Story (9:16) | utm_term |
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
-| 2 | Wie kennengelernt | `Testimonial - Peter - 1-1 - Short - mit Abbinder - wie kennengelernt.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - wie kennengelernt.mp4` | `kennengelernt` |
-| 3 | Doppelnutzung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Doppelnutzung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Doppelnutzung.mp4` | `doppelnutzung` |
-| 4 | Selbstversorger | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Selbstversorger.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Selbstversorger.mp4` | `selbstversorger` |
-| 5 | Weiteres Standbein | `Testimonial - Peter - 1-1 - Short - mit Abbinder - weiteres Standbein.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - weiteres Standbein.mp4` | `standbein` |
-| 6 | Regionale Energieversorgung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `energieversorgung` |
+| 2 | Regionale Energieversorgung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - regionale Energieversorgung.mp4` | `energieversorgung` |
+| 3 | Selbstversorger | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Selbstversorger.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Selbstversorger.mp4` | `selbstversorger` |
+| 4 | Weiteres Standbein | `Testimonial - Peter - 1-1 - Short - mit Abbinder - weiteres Standbein.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - weiteres Standbein.mp4` | `standbein` |
+| 5 | Wie kennengelernt | `Testimonial - Peter - 1-1 - Short - mit Abbinder - wie kennengelernt.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - wie kennengelernt.mp4` | `kennengelernt` |
+| 6 | Doppelnutzung | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Doppelnutzung.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Doppelnutzung.mp4` | `doppelnutzung` |
 | 7 | Risiko oder Chance | `Testimonial - Peter - 1-1 - Short - mit Abbinder - Risiko oder Chance.mp4` | `Testimonial - Peter - 9-16 - Short - mit Abbinder - Risiko oder Chance.mp4` | `risiko_chance` |
 
 **Caption:** 👨‍🌾 Peter, Grundbesitzer aus dem Mühlviertel: „[Topic]"<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #landwirtschaft #energiegenossenschaft #miasanneddeppad
@@ -1519,13 +1506,13 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
 | 2 | Warum Regios | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Warum Regios.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Warum Regios.mp4` | `warum_regios` |
-| 3 | USP | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - USP.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - USP.mp4` | `usp` |
-| 4 | Sichtbare Veränderung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `veraenderung` |
-| 5 | Gemeinsames Eigentum | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `eigentum` |
+| 3 | Gemeinsames Eigentum | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - gemeinsames Eigentum.mp4` | `eigentum` |
+| 4 | Erreichbarkeit | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
+| 5 | USP | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - USP.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - USP.mp4` | `usp` |
 | 6 | Regios wichtiger Partner | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Regios wichtiger Partner für Energie.mp4` | `partner` |
-| 7 | Erreichbarkeit | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Erreichbarkeit.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Erreichbarkeit.mp4` | `erreichbarkeit` |
-| 8 | Risiko oder Chance | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Riskio oder Chance.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Riskio oder Chance.mp4` | `risiko_chance` |
-| 9 | Vertrauen | `Testimonial - Susanne - 1-1 - Short  - mit Abbinder - Vertrauen.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 7 | Vertrauen | `Testimonial - Susanne - 1-1 - Short  - mit Abbinder - Vertrauen.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 8 | Sichtbare Veränderung | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Sichtbare Veränderung.mp4` | `veraenderung` |
+| 9 | Risiko oder Chance | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Riskio oder Chance.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Riskio oder Chance.mp4` | `risiko_chance` |
 | 10 | Danke | `Testimonial - Susanne - 1-1 - Short - mit Abbinder - Danke.mp4` | `Testimonial - Susanne - 9-16 - Short - mit Abbinder - Danke.mp4` | `danke` |
 
 **Caption:** 👩‍💼 Susanne, Gemeindevertreterin: „[Topic]"<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad
@@ -1563,7 +1550,7 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 
 ---
 
-#### Christian (Bank) - 19 Ads
+#### Christian (Bank) - 10 Ads
 
 **Asset Paths:**
 - Feed (1:1): `Testimonial - Christian/1_1/`
@@ -1573,23 +1560,14 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 |----|-------|------------------|-------------------|----------|
 | 1 | Vorstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vorstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vorstellung.mp4` | `vorstellung` |
 | 2 | Bank als Entwicklungspartner | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Bank als Entwicklungspartner.mp4` | `entwicklungspartner` |
-| 3 | Banken und öffentliche Hand | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Banken und öffentliche Hand.mp4` | `oeffentliche_hand` |
-| 4 | Fossiler zu erneuerbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Fossiler zu erneuerbar.mp4` | `erneuerbar` |
-| 5 | Gfrei und Sichtbar | `Testimonial - Christian - 1-1 - Short - mit Abbinder- Gfrei- und Sichtbar.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Gfrei- und Sichtbar.mp4` | `gfrei_sichtbar` |
-| 6 | Integration | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Integration.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Integration.mp4` | `integration` |
-| 7 | Investition Energie | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Investition Energie.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Investition Energie.mp4` | `investition` |
-| 8 | Langfristigkeit als Erfolgsmodell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkei als Erfolgsmodell.mp4` | `erfolgsmodell` |
-| 9 | Langfristigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
-| 10 | Nachhaltigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
-| 11 | Prinzip Genossenschaft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `prinzip` |
-| 12 | Regios als langfristiges Modell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `langfristiges_modell` |
-| 13 | Sicherheit Stabilität | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `sicherheit_stabilitaet` |
-| 14 | Struktur Aufstellung | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Struktur Aufstellung.mp4` | `struktur` |
-| 15 | Transparenz | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
-| 16 | Vertrauen | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
-| 17 | Wirkungskraft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
-| 18 | Geprüfte Produkte | `Testimonial - Christian - 1-1 - Short - mit Abbinder - geprüfte Produkte.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - geprüfte Produkte.mp4` | `produkte` |
-| 19 | Greifbare Kommunikation | `Testimonial - Christian - 1-1 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - greifbare Kommunikation.mp4` | `kommunikation` |
+| 3 | Vertrauen | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Vertrauen.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Vertrauen.mp4` | `vertrauen` |
+| 4 | Transparenz | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Transparenz.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Transparenz.mp4` | `transparenz` |
+| 5 | Sicherheit Stabilität | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Sicherheit Stabilität.mp4` | `sicherheit_stabilitaet` |
+| 6 | Nachhaltigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Nachhaltigkeit.mp4` | `nachhaltigkeit` |
+| 7 | Prinzip Genossenschaft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Prinzip Genossenschaft.mp4` | `prinzip` |
+| 8 | Langfristigkeit | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Langfristigkeit.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Langfristigkeit.mp4` | `langfristigkeit` |
+| 9 | Wirkungskraft | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Wirkungskraft.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Wirkungskraft.mp4` | `wirkungskraft` |
+| 10 | Regios als langfristiges Modell | `Testimonial - Christian - 1-1 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `Testimonial - Christian - 9-16 - Short - mit Abbinder - Regios als langfristiges Modell.mp4` | `langfristiges_modell` |
 
 **Caption:** 🏦 Christian, Bankpartner: „[Topic]"<br><br>Unser Christian, Unsere Partner, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #bank #energiegenossenschaft #miasanneddeppad
 
@@ -1681,15 +1659,15 @@ Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions 
 
 | Person | Role | Landing Page | Short Videos | Long Video | Total |
 |--------|------|--------------|--------------|------------|-------|
-| Sarah | Bürger:in | /buerger | 11 | 1 | 12 |
+| Sarah | Bürger:in | /buerger | 10 | 1 | 11 |
 | Peter | Grundbesitzer | /grundbesitzer | 7 | 1 | 8 |
 | Susanne | Gemeinde | /gemeinde | 10 | 1 | 11 |
 | Norbert | Bürger | /buerger | 10 | 0 | 10 |
-| Christian | Bank | /bank | 19 | 0 | 19 |
-| Klaus | Unternehmer | /unternehmer | 12 | 1 | 13 |
-| **Total per platform** | | | **69** | **4** | **73 video ads** |
+| Christian | Bank | /bank | 10 | 0 | 10 |
+| Klaus | Unternehmer | /unternehmer | 10 | 1 | 11 |
+| **Total per platform** | | | **57** | **4** | **61 video ads** |
 | **Image Carousels** | | | | | **2 per platform** |
-| **Total (FB + IG)** | | | **138** | **8** | **150 ads total** |
+| **Total (FB + IG)** | | | **114** | **8** | **126 ads total** |
 
 ---
 
