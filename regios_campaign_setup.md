@@ -1190,9 +1190,12 @@ Base URL: `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=soc
 |---------|-------|
 | Campaign Objective | Leads |
 | Conversion Location | Website |
-| Conversion Event | Lead (or Purchase if available) |
+| Conversion Event | FormSubmitBeteiligung (Custom Event) |
 | Campaign Budget | €310 (Lifetime) Split: €200 Facebook, €110 Instagram |
 | Bid Strategy | Lowest cost per lead |
+
+**⚠️ Conversion Event Note:**
+Use **FormSubmitBeteiligung** as the primary conversion event. Form submissions are clearer intent signals than clicks. We exclude EmailClick and ClickOurPower events because these lead users off-site and we cannot verify if they actually convert on external platforms (email client, OurPower website).
 
 **Custom Audiences to Use:**
 1. Engagement: Paid Meta Ads (180 days)
