@@ -8,23 +8,6 @@
 
 ---
 
-## ⚠️ IMPORTANT: Assets Pending Replacement
-
-
-The landscape (1200x628) images used in Google Responsive Display Ads were cropped from the `Google/RAW/` folder as a temporary solution. These MUST be replaced with properly designed landscape assets once the design team delivers them.
-
-**Affected Campaigns:**
-- Google Display Targeting Grünstrom (Responsive Ads)
-- Google Display Targeting Genossenschaft (Responsive Ads)
-
-**Note:** Retargeting uses Classic HTML5 banners ONLY (no Responsive).
-
-**Image Sources:**
-- Landscape (1200x628): Cropped from `Google/RAW/` folder ⚠️ REPLACE WHEN READY
-- Square (1080x1080): From `Social Media/Targeting/Posts/Carousels/1080x1080/` folder ✓
-
----
-
 ## Branded Slogans Reference (MUST USE)
 
 ### Main Tagline
