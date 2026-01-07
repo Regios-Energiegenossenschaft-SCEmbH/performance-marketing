@@ -61,12 +61,14 @@
 5. [Google YouTube Campaigns](#5-google-youtube-campaigns)
 6. [Meta Facebook Campaigns](#6-meta-facebook-campaigns)
 7. [Meta Instagram Campaigns](#7-meta-instagram-campaigns)
-8. [Retargeting Campaigns](#8-retargeting-campaigns)
+8. [Meta Retargeting Campaigns](#8-meta-retargeting-campaigns)
 9. [Landing Pages & URLs](#9-landing-pages--urls)
 10. [Audience Setup](#10-audience-setup)
-11. [Asset Mapping](#11-asset-mapping)
+11. [Asset Mapping by Campaign](#11-asset-mapping-by-campaign)
 12. [Looker Studio Requirements](#12-looker-studio-requirements)
 13. [Campaign Checklist](#13-campaign-checklist)
+14. [Quick Reference All Campaign Names](#14-quick-reference-all-campaign-names)
+15. [Key Messages Reference](#15-key-messages-reference)
 
 ---
 
