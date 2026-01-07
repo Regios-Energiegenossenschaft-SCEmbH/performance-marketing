@@ -10,7 +10,6 @@
 
 ## ⚠️ IMPORTANT: Assets Pending Replacement
 
-### LANDSCAPE IMAGES FOR RESPONSIVE DISPLAY ADS (1200x628) ARE TEMPORARY CROPS
 
 The landscape (1200x628) images used in Google Responsive Display Ads were cropped from the `Google/RAW/` folder as a temporary solution. These MUST be replaced with properly designed landscape assets once the design team delivers them.
 
@@ -347,7 +346,7 @@ kündigen
 - Themes: Wasser, Wind, Licht (Sonne), Stabilitaet, Zukunft, Sarah
 
 **Responsive Display Ads:**
-- Landscape (1200x628): `Google/RAW/` folder ⚠️ TEMPORARY CROPS - REPLACE WHEN DESIGN READY
+- Landscape (1200x628): `Google/RAW/` folder
 - Square (1080x1080): `Social Media/Targeting/Posts/Carousels/1080x1080/` folder ✓
 
 ---
@@ -440,7 +439,7 @@ kündigen
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_sonne&utm_content=responsive_sonne` |
-| Landscape Image (1200x628) | Google/RAW/[Sonne image cropped] ⚠️ TEMPORARY |
+| Landscape Image (1200x628) | Google/RAW/[Sonne image cropped] |
 | Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png |
 | Headline 1 | Unsere Sonne, UNSERE ENERGIE |
 | Headline 2 | Mia san ned Deppad |
@@ -461,7 +460,7 @@ kündigen
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wasser&utm_content=responsive_wasser` |
-| Landscape Image (1200x628) | Google/RAW/[Wasser image cropped] ⚠️ TEMPORARY |
+| Landscape Image (1200x628) | Google/RAW/[Wasser image cropped] |
 | Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png |
 | Headline 1 | Unser Wasser, UNSERE ENERGIE |
 | Headline 2 | Mia san ned Deppad |
@@ -482,7 +481,7 @@ kündigen
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=google&utm_medium=display&utm_campaign=gruenstrom_tofu_wind&utm_content=responsive_wind` |
-| Landscape Image (1200x628) | Google/RAW/[Wind image cropped] ⚠️ TEMPORARY |
+| Landscape Image (1200x628) | Google/RAW/[Wind image cropped] |
 | Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png |
 | Headline 1 | Unser Wind, UNSERE ENERGIE |
 | Headline 2 | Mia san ned Deppad |
@@ -577,7 +576,7 @@ kündigen
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_stabilitaet&utm_content=responsive_stabilitaet` |
-| Landscape Image (1200x628) | Google/RAW/[Stabilitaet image cropped] ⚠️ TEMPORARY |
+| Landscape Image (1200x628) | Google/RAW/[Stabilitaet image cropped] |
 | Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png |
 | Headline 1 | Unsere Stabilität, UNSERE ENERGIE |
 | Headline 2 | Mia san ned Deppad |
@@ -598,7 +597,7 @@ kündigen
 | Field | Content |
 |-------|---------|
 | Final URL | `https://www.regios.at/beteiligung?utm_source=google&utm_medium=display&utm_campaign=genossenschaft_tofu_zukunft&utm_content=responsive_zukunft` |
-| Landscape Image (1200x628) | Google/RAW/[Zukunft image cropped] ⚠️ TEMPORARY |
+| Landscape Image (1200x628) | Google/RAW/[Zukunft image cropped] |
 | Square Image (1080x1080) | Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png |
 | Headline 1 | Unsere Zukunft, UNSERE ENERGIE |
 | Headline 2 | Mia san ned Deppad |
@@ -1826,9 +1825,9 @@ This section maps every available asset to its specific campaign, ad group, and 
 
 | Ad | Theme | Landscape Image (1200x628) | Square Image (1080x1080) |
 |----|-------|---------------------------|-------------------------|
-| RDA 1 | Sonne | `Google/RAW/[Sonne cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png` |
-| RDA 2 | Wasser | `Google/RAW/[Wasser cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png` |
-| RDA 3 | Wind | `Google/RAW/[Wind cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png` |
+| RDA 1 | Sonne | `Google/RAW/[Sonne cropped]` | `Social Media/Targeting/Posts/Carousels/1080x1080/sonne/Sonne_1080x1080_1.png` |
+| RDA 2 | Wasser | `Google/RAW/[Wasser cropped]` | `Social Media/Targeting/Posts/Carousels/1080x1080/wasser/wasser_1080x1080_1.png` |
+| RDA 3 | Wind | `Google/RAW/[Wind cropped]` | `Social Media/Targeting/Posts/Carousels/1080x1080/wind/WInd_1080x1080_1.png` |
 
 ---
 
@@ -1851,8 +1850,8 @@ This section maps every available asset to its specific campaign, ad group, and 
 
 | Ad | Theme | Landscape Image (1200x628) | Square Image (1080x1080) |
 |----|-------|---------------------------|-------------------------|
-| RDA 1 | Stabilitaet | `Google/RAW/[Stabilitaet cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png` |
-| RDA 2 | Zukunft | `Google/RAW/[Zukunft cropped]` ⚠️ TEMPORARY | `Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png` |
+| RDA 1 | Stabilitaet | `Google/RAW/[Stabilitaet cropped]` | `Social Media/Targeting/Posts/Carousels/1080x1080/Stabilitaet/Stabilitaet_1080x1080_1.png` |
+| RDA 2 | Zukunft | `Google/RAW/[Zukunft cropped]` | `Social Media/Targeting/Posts/Carousels/1080x1080/Zukunft/Zukunft_1080x1080_1.png` |
 
 ---
 
@@ -1933,10 +1932,8 @@ Google/Retargeting/Banners/HTML5/Sarah_728X90.zip
 
 ### RESPONSIVE DISPLAY AD IMAGE SOURCES
 
-**⚠️ LANDSCAPE IMAGES (1200x628) - TEMPORARY CROPS FROM:**
+**LANDSCAPE IMAGES (1200x628) - FROM:**
 `Google/RAW/`
-
-These must be replaced with properly designed landscape assets when the design team delivers them.
 
 **SQUARE IMAGES (1080x1080) - FROM:**
 `Social Media/Targeting/Posts/Carousels/1080x1080/`
