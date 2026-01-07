@@ -1463,18 +1463,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-#### Carousel 2: Peter Images
-
-| Field | Content |
-|-------|---------|
-| Images | Peter testimonial images (1080x1080) |
-| Primary Text | 👨‍🌾 Peter, Grundbesitzer aus dem Mühlviertel ist dabei!<br><br>UNSERE ENERGIE REGIOS<br><br>Zeigen wir was unser kleines Bauernland drauf hat! 🌱 |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/grundbesitzer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=peter_images` |
-
----
-
-#### Carousel 3: Susanne Images
+#### Carousel 2: Susanne Images
 
 | Field | Content |
 |-------|---------|
@@ -1485,18 +1474,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-#### Carousel 4: Norbert Images
-
-| Field | Content |
-|-------|---------|
-| Images | Norbert testimonial images (1080x1080) |
-| Primary Text | 👨 Norbert aus dem Mühlviertel ist dabei!<br><br>UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! 🌱 |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/buerger?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=norbert_images` |
-
----
-
-#### Carousel 5: Christian Images
+#### Carousel 3: Christian Images
 
 | Field | Content |
 |-------|---------|
@@ -1507,7 +1485,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-#### Carousel 6: Klaus Images
+#### Carousel 4: Klaus Images
 
 | Field | Content |
 |-------|---------|
@@ -1515,28 +1493,6 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 | Primary Text | 👨‍💼 Klaus, Unternehmer ist dabei!<br><br>UNSERE ENERGIE REGIOS<br><br>Regionale Wertschöpfung! 🌱 |
 | CTA | Learn More |
 | Website URL | `https://www.regios.at/unternehmer?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=klaus_images` |
-
----
-
-#### Carousel 7: Grünstrom Elements
-
-| Field | Content |
-|-------|---------|
-| Images | Sonne, Wasser, Wind images (1080x1080) |
-| Primary Text | 🌱 Du hast dich schon über Regios informiert. Jetzt ist der richtige Zeitpunkt!<br><br>Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS<br><br>Mia san ned Deppad! |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=facebook&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=carousel_elements` |
-
----
-
-#### Carousel 8: Genossenschaft Values
-
-| Field | Content |
-|-------|---------|
-| Images | Stabilität, Zukunft, Sicherheit images (1080x1080) |
-| Primary Text | 🤝 Bereit für den nächsten Schritt?<br><br>Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>Mia Mühlviertel entscheiden selber wie es uns weitergeht! Investiere in die Stabilität des Mühlviertel! |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=facebook&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=carousel_values` |
 
 ---
 
@@ -1703,61 +1659,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-### Ad Set 2b: Instagram - Long Videos
-
-**Placements:** Instagram Feed, Instagram Reels
-
-**Purpose:** Full-length interviews for users who prefer complete stories.
-
-**Format:** 16:9 (Landscape)
-
----
-
-#### Ad 1: Sarah - Long Interview
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Sarah/Sarah 16_9 mit Abbinder/Testimonial - Sarah - Long - V1.mp4` |
-| Caption | 👩 Sarah aus dem Mühlviertel: Das ganze Interview<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>Mia san ned Deppad!<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_long` |
-
----
-
-#### Ad 2: Peter - Long Interview
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Peter/Peter 16_9 mit Abbinder/Testimonial - Peter - Long - V1.mp4` |
-| Caption | 👨‍🌾 Peter, Grundbesitzer: Das ganze Interview<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>Zeigen wir was unser kleines Bauernland drauf hat!<br><br>#regios #mühlviertel #landwirtschaft #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_long` |
-
----
-
-#### Ad 3: Susanne - Long Interview
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Susanne/Susanne 16_9 mit Abbinder/Testimonial - Susanne - Long - mit Abbinder - V1.mp4` |
-| Caption | 👩‍💼 Susanne, Gemeindevertreterin: Das ganze Interview<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>Über 18 Gemeinden sind schon dabei!<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_long` |
-
----
-
-#### Ad 4: Klaus - Long Interview
-
-| Field | Content |
-|-------|---------|
-| Video | `Testimonial - Klaus/Klaus 16_9 mit Abbinder/Testimonial - Klaus - Long - mit Abbinder - V1.mp4` |
-| Caption | 👨‍💼 Klaus, Unternehmer: Das ganze Interview<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>Regionale Wertschöpfung!<br><br>#regios #mühlviertel #unternehmer #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_long` |
-
----
-
-### Ad Set 3b: Instagram - Image Carousels
+### Ad Set 2b: Instagram - Image Carousels
 
 **Placements:** Instagram Feed
 
@@ -1778,18 +1680,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-#### Carousel 2: Peter Images
-
-| Field | Content |
-|-------|---------|
-| Images | Peter testimonial images (1080x1080) |
-| Caption | 👨‍🌾 Peter, Grundbesitzer ist dabei!<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #landwirtschaft #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=peter_images` |
-
----
-
-#### Carousel 3: Susanne Images
+#### Carousel 2: Susanne Images
 
 | Field | Content |
 |-------|---------|
@@ -1800,18 +1691,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-#### Carousel 4: Norbert Images
-
-| Field | Content |
-|-------|---------|
-| Images | Norbert testimonial images (1080x1080) |
-| Caption | 👨 Norbert aus dem Mühlviertel ist dabei!<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=norbert_images` |
-
----
-
-#### Carousel 5: Christian Images
+#### Carousel 3: Christian Images
 
 | Field | Content |
 |-------|---------|
@@ -1822,7 +1702,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-#### Carousel 6: Klaus Images
+#### Carousel 4: Klaus Images
 
 | Field | Content |
 |-------|---------|
@@ -1833,36 +1713,14 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-#### Carousel 7: Grünstrom Elements
-
-| Field | Content |
-|-------|---------|
-| Images | Sonne, Wasser, Wind images (1080x1080) |
-| Caption | 🌱 Du hast dich schon über Regios informiert. Jetzt ist der richtige Zeitpunkt!<br><br>Unser Wasser, Unsere Sonne, Unser Wind, UNSERE ENERGIE REGIOS<br><br>#regios #mühlviertel #grünstrom #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/regionaler-gruenstrom?utm_source=instagram&utm_medium=retargeting&utm_campaign=gruenstrom_mofu_retargeting&utm_content=carousel_elements` |
-
----
-
-#### Carousel 8: Genossenschaft Values
-
-| Field | Content |
-|-------|---------|
-| Images | Stabilität, Zukunft, Sicherheit images (1080x1080) |
-| Caption | 🤝 Bereit für den nächsten Schritt?<br><br>Unsere Stabilität, Unsere Sicherheit, Unsere Zukunft, UNSERE ENERGIE REGIOS<br><br>#regios #mühlviertel #genossenschaft #energiegenossenschaft #miasanneddeppad |
-| CTA | Learn More |
-| Website URL | `https://www.regios.at/beteiligung?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=carousel_values` |
-
----
-
 ### Retargeting Ad Count Summary
 
 | Ad Set | Description | Facebook | Instagram | Total |
 |--------|-------------|----------|-----------|-------|
 | 1a/1b | Video Cards (Feed, 1:1) | 6 carousels | 6 carousels | 12 |
-| 2a/2b | Long Videos (16:9) | 4 ads | 4 ads | 8 |
-| 3a/3b | Image Carousels (Feed) | 8 carousels | 8 carousels | 16 |
-| **Total** | | **18 ads** | **18 ads** | **36 ads** |
+| 2a | Long Videos (16:9) | 4 ads | - | 4 |
+| 3a/2b | Image Carousels (Feed) | 4 carousels | 4 carousels | 8 |
+| **Total** | | **14 ads** | **10 ads** | **24 ads** |
 
 ---
 
