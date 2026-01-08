@@ -90,7 +90,7 @@
      - [Ad Set 2a: Long Videos](#ad-set-2a-facebook---long-videos)
      - [Ad Set 3a: Image Carousels](#ad-set-3a-facebook---image-carousels)
    - [Instagram Retargeting Ads](#instagram-retargeting-ads)
-     - [Ad Set 1b: Testimonial Video Cards (Feed + Reels)](#ad-set-1b-instagram---testimonial-video-cards-feed--reels)
+     - [Ad Set 1b: Testimonial Video Cards (Feed + Stories + Reels)](#ad-set-1b-instagram---testimonial-video-cards-feed--stories--reels)
      - [Ad Set 2b: Image Carousels](#ad-set-2b-instagram---image-carousels)
    - [Retargeting Ad Count Summary](#retargeting-ad-count-summary)
    - [YouTube Retargeting Note](#youtube-retargeting-note)
@@ -1538,9 +1538,9 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
-### Ad Set 1b: Instagram - Testimonial Video Cards (Feed + Reels)
+### Ad Set 1b: Instagram - Testimonial Video Cards (Feed + Stories + Reels)
 
-**Placements:** Instagram Feed, Instagram Reels
+**Placements:** Instagram Feed, Instagram Stories, Instagram Reels
 
 **Purpose:** Video card carousels (max 10 cards) for each interviewee. Users can swipe through short testimonial clips.
 
@@ -1573,6 +1573,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 | CTA | Learn More |
 | Website URL (Generic) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_cards` |
 | Website URL (Feed) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_cards_feed&utm_term=[per_card]` |
+| Website URL (Stories) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_cards_stories&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_cards_reels&utm_term=[per_card]` |
 
 ---
@@ -1597,6 +1598,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 | CTA | Learn More |
 | Website URL (Generic) | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_cards` |
 | Website URL (Feed) | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_cards_feed&utm_term=[per_card]` |
+| Website URL (Stories) | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_cards_stories&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_cards_reels&utm_term=[per_card]` |
 
 ---
@@ -1624,6 +1626,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 | CTA | Learn More |
 | Website URL (Generic) | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_cards` |
 | Website URL (Feed) | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_cards_feed&utm_term=[per_card]` |
+| Website URL (Stories) | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_cards_stories&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_cards_reels&utm_term=[per_card]` |
 
 ---
@@ -1651,6 +1654,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 | CTA | Learn More |
 | Website URL (Generic) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert_cards` |
 | Website URL (Feed) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert_cards_feed&utm_term=[per_card]` |
+| Website URL (Stories) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert_cards_stories&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert_cards_reels&utm_term=[per_card]` |
 
 ---
@@ -1678,6 +1682,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 | CTA | Learn More |
 | Website URL (Generic) | `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian_cards` |
 | Website URL (Feed) | `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian_cards_feed&utm_term=[per_card]` |
+| Website URL (Stories) | `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian_cards_stories&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian_cards_reels&utm_term=[per_card]` |
 
 ---
@@ -1705,6 +1710,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 | CTA | Learn More |
 | Website URL (Generic) | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_cards` |
 | Website URL (Feed) | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_cards_feed&utm_term=[per_card]` |
+| Website URL (Stories) | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_cards_stories&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_cards_reels&utm_term=[per_card]` |
 
 ---
