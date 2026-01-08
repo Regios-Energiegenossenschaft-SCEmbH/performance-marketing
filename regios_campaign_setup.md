@@ -1783,14 +1783,25 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 ---
 
+#### Carousel 5: Martin Images
+
+| Field | Content |
+|-------|---------|
+| Images | Martin testimonial images (1080x1080) |
+| Caption | 👨‍🌾 Martin, Landwirt & Grundbesitzer ist dabei!<br><br>UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #landwirt #grundbesitzer #energiegenossenschaft #miasanneddeppad |
+| CTA | Learn More |
+| Website URL | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_retargeting&utm_content=martin_images` |
+
+---
+
 ### Retargeting Ad Count Summary
 
 | Ad Set | Description | Facebook | Instagram | Total |
 |--------|-------------|----------|-----------|-------|
 | 1a/1b | Video Cards (Feed, 1:1) | 6 carousels | 6 carousels | 12 |
 | 2a | Long Videos (16:9) | 4 ads | - | 4 |
-| 3a/2b | Image Carousels (Feed) | 4 carousels | 4 carousels | 8 |
-| **Total** | | **14 ads** | **10 ads** | **24 ads** |
+| 3a/2b | Image Carousels (Feed) | 4 carousels | 5 carousels | 9 |
+| **Total** | | **14 ads** | **11 ads** | **25 ads** |
 
 ---
 
