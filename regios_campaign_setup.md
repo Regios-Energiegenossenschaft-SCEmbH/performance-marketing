@@ -1562,6 +1562,8 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 
 **Note:** Same ad serves both placements. Use placement-specific URLs for tracking.
 
+> **📋 TODO:** Susanne, Christian, and Klaus carousels are not online yet. Need to be published.
+
 ---
 
 #### Carousel 1: Sarah (Bürger:in) - 10 Cards
