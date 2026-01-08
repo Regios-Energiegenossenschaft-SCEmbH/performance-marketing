@@ -1571,6 +1571,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 |-------|---------|
 | Caption | 👩 Sarah aus dem Mühlviertel erzählt ihre Geschichte<br><br>Unsere Sarah, Unsere Gemeinschaft, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
+| Website URL (Generic) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_cards` |
 | Website URL (Feed) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_cards_feed&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=sarah_cards_reels&utm_term=[per_card]` |
 
@@ -1594,6 +1595,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 |-------|---------|
 | Caption | 👨‍🌾 Peter, Grundbesitzer aus dem Mühlviertel<br><br>Unser Peter, Unsere Bauern, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #landwirtschaft #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
+| Website URL (Generic) | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_cards` |
 | Website URL (Feed) | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_cards_feed&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/grundbesitzer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=peter_cards_reels&utm_term=[per_card]` |
 
@@ -1620,6 +1622,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 |-------|---------|
 | Caption | 👩‍💼 Susanne, Gemeindevertreterin aus dem Mühlviertel<br><br>Unsere Susanne, Unsere Gemeinden, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #gemeinde #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
+| Website URL (Generic) | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_cards` |
 | Website URL (Feed) | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_cards_feed&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/gemeinde?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=susanne_cards_reels&utm_term=[per_card]` |
 
@@ -1646,6 +1649,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 |-------|---------|
 | Caption | 👨 Norbert aus dem Mühlviertel<br><br>Unser Norbert, Unsere Sicherheit, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #testimonial #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
+| Website URL (Generic) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert_cards` |
 | Website URL (Feed) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert_cards_feed&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/buerger?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=norbert_cards_reels&utm_term=[per_card]` |
 
@@ -1672,6 +1676,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 |-------|---------|
 | Caption | 🏦 Christian, Bankpartner aus dem Mühlviertel<br><br>Unser Christian, Unsere Partner, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #bank #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
+| Website URL (Generic) | `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian_cards` |
 | Website URL (Feed) | `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian_cards_feed&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/bank?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=christian_cards_reels&utm_term=[per_card]` |
 
@@ -1698,6 +1703,7 @@ For now, we focus on Video Cards (Feed), Long Videos, and Image Carousels.
 |-------|---------|
 | Caption | 👨‍💼 Klaus, Unternehmer aus dem Mühlviertel<br><br>Unser Klaus, Unsere Unternehmer, UNSERE ENERGIE REGIOS 🌱<br><br>#regios #mühlviertel #unternehmer #energiegenossenschaft #miasanneddeppad |
 | CTA | Learn More |
+| Website URL (Generic) | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_cards` |
 | Website URL (Feed) | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_cards_feed&utm_term=[per_card]` |
 | Website URL (Reels) | `https://www.regios.at/unternehmer?utm_source=instagram&utm_medium=retargeting&utm_campaign=genossenschaft_bofu_testimonial&utm_content=klaus_cards_reels&utm_term=[per_card]` |
 
